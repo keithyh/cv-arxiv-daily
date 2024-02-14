@@ -37,3 +37,17 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]
+    "illumination":
+        filters: ["illumination","light","lighting"]
+    "LLM":
+        filters: ["large language model","transformer"]
+    "agent":
+        filters: ["Reinforcement Learning","transformer","Multi-agent"]
+    "Segmentation":
+        filters: ["Semantic Segmentation","Instance Segmentation","Panoptic Segmentation"]
+    "Detection":
+        filters: ["Object Detection"]
+    "Diffusion":
+        filters: ["Generation","Diffusion"]
+     
+    
