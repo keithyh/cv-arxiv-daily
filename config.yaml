@@ -40,13 +40,13 @@ keywords:
     "illumination":
         filters: ["illumination","light","lighting"]
     "LLM":
-        filters: ["large language model","transformer"]
+        filters: ["LLM","large language model","transformer"]
     "agent":
-        filters: ["Reinforcement Learning","transformer","Multi-agent"]
+        filters: ["agent","Reinforcement Learning","transformer","Multi-agent"]
     "Segmentation":
-        filters: ["Semantic Segmentation","Instance Segmentation","Panoptic Segmentation"]
+        filters: ["Segmentation","Semantic Segmentation","Instance Segmentation","Panoptic Segmentation"]
     "Detection":
-        filters: ["Object Detection"]
+        filters: ["Detection","Object Detection"]
     "Diffusion":
         filters: ["Generation","Diffusion"]
      
