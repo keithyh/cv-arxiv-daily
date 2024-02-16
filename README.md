@@ -638,6 +638,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task**|Mirko Nava et.al.|[2402.09886](http://arxiv.org/abs/2402.09886)|null|
 |**2024-02-14**|**Weatherproofing Retrieval for Localization with Generative AI and Geometric Consistency**|Yannis Kalantidis et.al.|[2402.09237](http://arxiv.org/abs/2402.09237)|null|
 |**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567](http://arxiv.org/abs/2402.08567)|**[link](https://github.com/sail-sg/agent-smith)**|
 |**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359](http://arxiv.org/abs/2402.08359)|**[link](https://github.com/truongkhang/deviloc)**|
@@ -1300,6 +1301,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|**[link](https://github.com/zju3dv/closemocap)**|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
 |**2024-01-08**|**Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**|Huanyu Liu et.al.|[2401.03742](http://arxiv.org/abs/2401.03742)|null|
@@ -1717,7 +1719,7 @@
 |**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622](http://arxiv.org/abs/2402.08622)|null|
 |**2024-02-13**|**H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields**|Minyoung Park et.al.|[2402.08138](http://arxiv.org/abs/2402.08138)|null|
 |**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648](http://arxiv.org/abs/2402.07648)|null|
-|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310](http://arxiv.org/abs/2402.07310)|null|
+|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310](http://arxiv.org/abs/2402.07310)|**[link](https://github.com/leandropassosjr/bionerf)**|
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181](http://arxiv.org/abs/2402.07181)|null|
 |**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390](http://arxiv.org/abs/2402.06390)|**[link](https://github.com/quereste/implicit-deepfake)**|
 |**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829](http://arxiv.org/abs/2402.04829)|null|
@@ -2514,6 +2516,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
+|**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207](http://arxiv.org/abs/2402.10207)|null|
+|**2024-02-15**|**Chain-of-Thought Reasoning Without Prompting**|Xuezhi Wang et.al.|[2402.10200](http://arxiv.org/abs/2402.10200)|null|
+|**2024-02-15**|**A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents**|Lingbo Mo et.al.|[2402.10196](http://arxiv.org/abs/2402.10196)|**[link](https://github.com/osu-nlp-group/agentattack)**|
+|**2024-02-15**|**BitDelta: Your Fine-Tune May Only Be Worth One Bit**|James Liu et.al.|[2402.10193](http://arxiv.org/abs/2402.10193)|**[link](https://github.com/FasterDecoding/BitDelta)**|
+|**2024-02-15**|**Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models**|Chen Ling et.al.|[2402.10189](http://arxiv.org/abs/2402.10189)|**[link](https://github.com/lingchen0331/uq_icl)**|
+|**2024-02-15**|**Rethinking Information Structures in RLHF: Reward Generalization from a Graph Theory Perspective**|Tianyi Qiu et.al.|[2402.10184](http://arxiv.org/abs/2402.10184)|null|
+|**2024-02-15**|**TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation**|Yaoxiang Wang et.al.|[2402.10178](http://arxiv.org/abs/2402.10178)|null|
+|**2024-02-15**|**OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset**|Shubham Toshniwal et.al.|[2402.10176](http://arxiv.org/abs/2402.10176)|**[link](https://github.com/kipok/nemo-skills)**|
+|**2024-02-15**|**Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence**|Yinhong Liu et.al.|[2402.10175](http://arxiv.org/abs/2402.10175)|**[link](https://github.com/williamlyh/pos_div_metric)**|
 |**2024-02-14**|**AQA-Bench: An Interactive Benchmark for Evaluating LLMs' Sequential Reasoning Ability**|Siwei Yang et.al.|[2402.09404](http://arxiv.org/abs/2402.09404)|**[link](https://github.com/ucsc-vlaa/aqa-bench)**|
 |**2024-02-14**|**Reinforcement Learning from Human Feedback with Active Queries**|Kaixuan Ji et.al.|[2402.09401](http://arxiv.org/abs/2402.09401)|null|
 |**2024-02-14**|**Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference**|Harry Dong et.al.|[2402.09398](http://arxiv.org/abs/2402.09398)|null|
@@ -2541,6 +2553,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
+|**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207](http://arxiv.org/abs/2402.10207)|null|
+|**2024-02-15**|**Rethinking Information Structures in RLHF: Reward Generalization from a Graph Theory Perspective**|Tianyi Qiu et.al.|[2402.10184](http://arxiv.org/abs/2402.10184)|null|
+|**2024-02-15**|**Large Scale Constrained Clustering With Reinforcement Learning**|Benedikt Schesch et.al.|[2402.10177](http://arxiv.org/abs/2402.10177)|null|
+|**2024-02-15**|**GraphCBAL: Class-Balanced Active Learning for Graph Neural Networks via Reinforcement Learning**|Chengcheng Yu et.al.|[2402.10074](http://arxiv.org/abs/2402.10074)|null|
+|**2024-02-15**|**RS-DPO: A Hybrid Rejection Sampling and Direct Preference Optimization Method for Alignment of Large Language Models**|Saeed Khaki et.al.|[2402.10038](http://arxiv.org/abs/2402.10038)|null|
+|**2024-02-15**|**Neural Network Approaches for Parameterized Optimal Control**|Deepanshu Verma et.al.|[2402.10033](http://arxiv.org/abs/2402.10033)|null|
+|**2024-02-15**|**Risk-Sensitive Soft Actor-Critic for Robust Deep Reinforcement Learning under Distribution Shifts**|Tobias Enders et.al.|[2402.09992](http://arxiv.org/abs/2402.09992)|**[link](https://github.com/tumbais/risksensitivesacforrobustdrlunderdistshifts)**|
+|**2024-02-15**|**Enhancing Courier Scheduling in Crowdsourced Last-Mile Delivery through Dynamic Shift Extensions: A Deep Reinforcement Learning Approach**|Zead Saleh et.al.|[2402.09961](http://arxiv.org/abs/2402.09961)|null|
+|**2024-02-15**|**Revisiting Recurrent Reinforcement Learning with Memory Monoids**|Steven Morad et.al.|[2402.09900](http://arxiv.org/abs/2402.09900)|null|
 |**2024-02-14**|**Reinforcement Learning from Human Feedback with Active Queries**|Kaixuan Ji et.al.|[2402.09401](http://arxiv.org/abs/2402.09401)|null|
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Active Disruption Avoidance and Trajectory Design for Tokamak Ramp-downs with Neural Differential Equations and Reinforcement Learning**|Allen M. Wang et.al.|[2402.09387](http://arxiv.org/abs/2402.09387)|null|
@@ -2568,6 +2590,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Is Continual Learning Ready for Real-world Challenges?**|Theodora Kontogianni et.al.|[2402.10130](http://arxiv.org/abs/2402.10130)|null|
+|**2024-02-15**|**Robust semi-automatic vessel tracing in the human retinal image by an instance segmentation neural network**|Siyi Chen et.al.|[2402.10055](http://arxiv.org/abs/2402.10055)|null|
+|**2024-02-15**|**SAWEC: Sensing-Assisted Wireless Edge Computing**|Khandaker Foysal Haque et.al.|[2402.10021](http://arxiv.org/abs/2402.10021)|null|
+|**2024-02-15**|**MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding**|Hai-Tao Yu et.al.|[2402.10002](http://arxiv.org/abs/2402.10002)|**[link](https://github.com/haydenyu/mm-point)**|
+|**2024-02-14**|**Automated Plaque Detection and Agatston Score Estimation on Non-Contrast CT Scans: A Multicenter Study**|Andrew M. Nguyen et.al.|[2402.09569](http://arxiv.org/abs/2402.09569)|null|
+|**2024-02-14**|**Reducing Texture Bias of Deep Neural Networks via Edge Enhancing Diffusion**|Edgar Heinert et.al.|[2402.09530](http://arxiv.org/abs/2402.09530)|null|
 |**2024-02-14**|**Deep Rib Fracture Instance Segmentation and Classification from CT on the RibFrac Challenge**|Jiancheng Yang et.al.|[2402.09372](http://arxiv.org/abs/2402.09372)|null|
 |**2024-02-14**|**TDViT: Temporal Dilated Video Transformer for Dense Video Tasks**|Guanxiong Sun et.al.|[2402.09257](http://arxiv.org/abs/2402.09257)|**[link](https://github.com/guanxiongsun/vfe.pytorch)**|
 |**2024-02-13**|**Adaptive Hierarchical Certification for Segmentation using Randomized Smoothing**|Alaa Anani et.al.|[2402.08400](http://arxiv.org/abs/2402.08400)|null|
@@ -2587,10 +2615,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition**|Jinyuan Li et.al.|[2402.09989](http://arxiv.org/abs/2402.09989)|null|
+|**2024-02-15**|**A Comprehensive Review on Computer Vision Analysis of Aerial Data**|Vivek Tetarwal et.al.|[2402.09781](http://arxiv.org/abs/2402.09781)|null|
 |**2024-02-14**|**Few-Shot Object Detection with Sparse Context Transformers**|Jie Mei et.al.|[2402.09315](http://arxiv.org/abs/2402.09315)|null|
 |**2024-02-14**|**TDViT: Temporal Dilated Video Transformer for Dense Video Tasks**|Guanxiong Sun et.al.|[2402.09257](http://arxiv.org/abs/2402.09257)|**[link](https://github.com/guanxiongsun/vfe.pytorch)**|
 |**2024-02-14**|**Efficient One-stage Video Object Detection by Exploiting Temporal Consistency**|Guanxiong Sun et.al.|[2402.09241](http://arxiv.org/abs/2402.09241)|**[link](https://github.com/guanxiongsun/vfe.pytorch)**|
-|**2024-02-14**|**Switch EMA: A Free Lunch for Better Flatness and Sharpness**|Siyuan Li et.al.|[2402.09240](http://arxiv.org/abs/2402.09240)|null|
+|**2024-02-14**|**Switch EMA: A Free Lunch for Better Flatness and Sharpness**|Siyuan Li et.al.|[2402.09240](http://arxiv.org/abs/2402.09240)|**[link](https://github.com/westlake-ai/sema)**|
 |**2024-02-13**|**Leveraging Self-Supervised Instance Contrastive Learning for Radar Object Detection**|Colin Decourt et.al.|[2402.08427](http://arxiv.org/abs/2402.08427)|null|
 |**2024-02-13**|**Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss**|Kei Iino et.al.|[2402.08267](http://arxiv.org/abs/2402.08267)|null|
 |**2024-02-13**|**Object Detection in Thermal Images Using Deep Learning for Unmanned Aerial Vehicles**|Minh Dang Tu et.al.|[2402.08251](http://arxiv.org/abs/2402.08251)|null|
