@@ -2465,7 +2465,7 @@ layout: default
 |**2022-09-12**|**StructNeRF: Neural Radiance Fields for Indoor Scenes with Structural Hints**|Zheng Chen et.al.|[2209.05277](http://arxiv.org/abs/2209.05277)|null|
 |**2022-09-09**|**Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects**|Ziyu Wang et.al.|[2209.04183](http://arxiv.org/abs/2209.04183)|null|
 |**2022-09-08**|**im2nerf: Image to Neural Radiance Field in the Wild**|Lu Mi et.al.|[2209.04061](http://arxiv.org/abs/2209.04061)|null|
-|**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda et.al.|[2209.03910](http://arxiv.org/abs/2209.03910)|null|
+|**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda et.al.|[2209.03910](http://arxiv.org/abs/2209.03910)|**[link](https://github.com/giantai/pixtrack)**|
 |**2022-09-07**|**Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations**|Vadim Tschernezki et.al.|[2209.03494](http://arxiv.org/abs/2209.03494)|null|
 |**2022-08-29**|**Volume Rendering Digest (for NeRF)**|Andrea Tagliasacchi et.al.|[2209.02417](http://arxiv.org/abs/2209.02417)|null|
 |**2022-09-06**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194](http://arxiv.org/abs/2209.01194)|null|
@@ -2504,7 +2504,7 @@ layout: default
 |**2024-02-15**|**Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence**|Yinhong Liu et.al.|[2402.10175](http://arxiv.org/abs/2402.10175)|**[link](https://github.com/williamlyh/pos_div_metric)**|
 |**2024-02-14**|**AQA-Bench: An Interactive Benchmark for Evaluating LLMs' Sequential Reasoning Ability**|Siwei Yang et.al.|[2402.09404](http://arxiv.org/abs/2402.09404)|**[link](https://github.com/ucsc-vlaa/aqa-bench)**|
 |**2024-02-14**|**Reinforcement Learning from Human Feedback with Active Queries**|Kaixuan Ji et.al.|[2402.09401](http://arxiv.org/abs/2402.09401)|null|
-|**2024-02-14**|**Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference**|Harry Dong et.al.|[2402.09398](http://arxiv.org/abs/2402.09398)|null|
+|**2024-02-14**|**Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference**|Harry Dong et.al.|[2402.09398](http://arxiv.org/abs/2402.09398)|**[link](https://github.com/hdong920/less)**|
 |**2024-02-14**|**LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset**|Botao Yu et.al.|[2402.09391](http://arxiv.org/abs/2402.09391)|**[link](https://github.com/osu-nlp-group/llm4chem)**|
 |**2024-02-14**|**HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation**|Yihao Fang et.al.|[2402.09390](http://arxiv.org/abs/2402.09390)|null|
 |**2024-02-14**|**Massively Multi-Cultural Knowledge Acquisition & LM Benchmarking**|Yi Fung et.al.|[2402.09369](http://arxiv.org/abs/2402.09369)|null|
@@ -2514,12 +2514,12 @@ layout: default
 |**2024-02-14**|**AuditLLM: A Tool for Auditing Large Language Models Using Multiprobe Approach**|Maryam Amirizaniani et.al.|[2402.09334](http://arxiv.org/abs/2402.09334)|null|
 |**2024-02-13**|**COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability**|Xingang Guo et.al.|[2402.08679](http://arxiv.org/abs/2402.08679)|**[link](https://github.com/yu-fangxu/cold-attack)**|
 |**2024-02-13**|**Human Curriculum Effects Emerge with In-Context Learning in Neural Networks**|Jacob Russin et.al.|[2402.08674](http://arxiv.org/abs/2402.08674)|null|
-|**2024-02-13**|**Improving Generalization in Semantic Parsing by Increasing Natural Language Variation**|Irina Saparina et.al.|[2402.08666](http://arxiv.org/abs/2402.08666)|null|
+|**2024-02-13**|**Improving Generalization in Semantic Parsing by Increasing Natural Language Variation**|Irina Saparina et.al.|[2402.08666](http://arxiv.org/abs/2402.08666)|**[link](https://github.com/saparina/text2sql-nlvariation)**|
 |**2024-02-13**|**The Last JITAI? The Unreasonable Effectiveness of Large Language Models in Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting**|David Haag et.al.|[2402.08658](http://arxiv.org/abs/2402.08658)|null|
 |**2024-02-13**|**PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs**|Michael Dorkenwald et.al.|[2402.08657](http://arxiv.org/abs/2402.08657)|null|
 |**2024-02-13**|**Tandem Transformers for Inference Efficient LLMs**|Aishwarya P S et.al.|[2402.08644](http://arxiv.org/abs/2402.08644)|null|
 |**2024-02-13**|**SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 14 Languages**|Nedjma Ousidhoum et.al.|[2402.08638](http://arxiv.org/abs/2402.08638)|null|
-|**2024-02-13**|**Knowledge Editing on Black-box Large Language Models**|Xiaoshuai Song et.al.|[2402.08631](http://arxiv.org/abs/2402.08631)|null|
+|**2024-02-13**|**Knowledge Editing on Black-box Large Language Models**|Xiaoshuai Song et.al.|[2402.08631](http://arxiv.org/abs/2402.08631)|**[link](https://github.com/songxiaoshuai/postedit)**|
 |**2024-02-13**|**Test-Time Backdoor Attacks on Multimodal Large Language Models**|Dong Lu et.al.|[2402.08577](http://arxiv.org/abs/2402.08577)|**[link](https://github.com/sail-sg/anydoor)**|
 |**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567](http://arxiv.org/abs/2402.08567)|**[link](https://github.com/sail-sg/agent-smith)**|
 
