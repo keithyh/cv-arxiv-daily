@@ -644,12 +644,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport**|Bin Li et.al.|[2402.18411](http://arxiv.org/abs/2402.18411)|**[link](https://github.com/hcvlab/protoot)**|
+|**2024-02-28**|**Balanced Similarity with Auxiliary Prompts: Towards Alleviating Text-to-Image Retrieval Bias for CLIP in Zero-shot Learning**|Hanyao Wang et.al.|[2402.18400](http://arxiv.org/abs/2402.18400)|null|
+|**2024-02-28**|**Representing 3D sparse map points and lines for camera relocalization**|Bach-Thuan Bui et.al.|[2402.18011](http://arxiv.org/abs/2402.18011)|**[link](https://github.com/ais-lab/pl2map)**|
 |**2024-02-27**|**Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control**|Thong Nguyen et.al.|[2402.17535](http://arxiv.org/abs/2402.17535)|**[link](https://github.com/thongnt99/lsr-multimodal)**|
 |**2024-02-27**|**Active propulsion noise shaping for multi-rotor aircraft localization**|Serussi Gabriele et.al.|[2402.17289](http://arxiv.org/abs/2402.17289)|**[link](https://github.com/tamirshor7/ears_code)**|
 |**2024-02-27**|**NocPlace: Nocturnal Visual Place Recognition Using Generative and Inherited Knowledge Transfer**|Bingxi Liu et.al.|[2402.17159](http://arxiv.org/abs/2402.17159)|null|
 |**2024-02-25**|**Deep Homography Estimation for Visual Place Recognition**|Feng Lu et.al.|[2402.16086](http://arxiv.org/abs/2402.16086)|**[link](https://github.com/lu-feng/dhe-vpr)**|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
-|**2024-02-23**|**Text2Pic Swift: Enhancing Long-Text to Image Retrieval for Large-Scale Libraries**|Zijun Long et.al.|[2402.15276](http://arxiv.org/abs/2402.15276)|null|
+|**2024-02-28**|**Text2Pic Swift: Enhancing Long-Text to Image Retrieval for Large-Scale Libraries**|Zijun Long et.al.|[2402.15276](http://arxiv.org/abs/2402.15276)|null|
 |**2024-02-23**|**Fine-tuning CLIP Text Encoders with Two-step Paraphrasing**|Hyunjae Kim et.al.|[2402.15120](http://arxiv.org/abs/2402.15120)|null|
 |**2024-02-22**|**Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**|Feng Lu et.al.|[2402.14505](http://arxiv.org/abs/2402.14505)|**[link](https://github.com/Lu-Feng/SelaVPR)**|
 |**2024-02-16**|**Spike-EVPR: Deep Spiking Residual Network with Cross-Representation Aggregation for Event-Based Visual Place Recognition**|Chenming Hu et.al.|[2402.10476](http://arxiv.org/abs/2402.10476)|null|
@@ -1734,6 +1737,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|null|
+|**2024-02-26**|**Neural Radiance Fields in Medical Imaging: Challenges and Next Steps**|Xin Wang et.al.|[2402.17797](http://arxiv.org/abs/2402.17797)|null|
 |**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768](http://arxiv.org/abs/2402.17768)|null|
 |**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427](http://arxiv.org/abs/2402.17427)|null|
 |**2024-02-27**|**Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**|Zicheng Zhang et.al.|[2402.17364](http://arxiv.org/abs/2402.17364)|**[link](https://github.com/zhangzc21/dyntet)**|
@@ -2560,6 +2565,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571](http://arxiv.org/abs/2402.18571)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
+|**2024-02-28**|**A Categorization of Complexity Classes for Information Retrieval and Synthesis Using Natural Logic**|Gregory Coppola et.al.|[2402.18566](http://arxiv.org/abs/2402.18566)|null|
+|**2024-02-28**|**Implicit Bias of Next-Token Prediction**|Christos Thrampoulidis et.al.|[2402.18551](http://arxiv.org/abs/2402.18551)|null|
+|**2024-02-28**|**Few-Shot Fairness: Unveiling LLM's Potential for Fairness-Aware Classification**|Garima Chhikara et.al.|[2402.18502](http://arxiv.org/abs/2402.18502)|null|
+|**2024-02-28**|**Language Models Represent Beliefs of Self and Others**|Wentao Zhu et.al.|[2402.18496](http://arxiv.org/abs/2402.18496)|null|
+|**2024-02-28**|**Meta-Task Prompting Elicits Embedding from Large Language Models**|Yibin Lei et.al.|[2402.18458](http://arxiv.org/abs/2402.18458)|null|
+|**2024-02-28**|**Beyond Natural Language: LLMs Leveraging Alternative Formats for Enhanced Reasoning and Communication**|Weize Chen et.al.|[2402.18439](http://arxiv.org/abs/2402.18439)|**[link](https://github.com/thunlp/autoform)**|
+|**2024-02-28**|**Decomposed Prompting: Unveiling Multilingual Linguistic Structure Knowledge in English-Centric Large Language Models**|Ercong Nie et.al.|[2402.18397](http://arxiv.org/abs/2402.18397)|null|
+|**2024-02-28**|**The First Place Solution of WSDM Cup 2024: Leveraging Large Language Models for Conversational Multi-Doc QA**|Yiming Li et.al.|[2402.18385](http://arxiv.org/abs/2402.18385)|null|
+|**2024-02-28**|**Large Language Models As Evolution Strategies**|Robert Tjarko Lange et.al.|[2402.18381](http://arxiv.org/abs/2402.18381)|null|
 |**2024-02-27**|**ShapeLLM: Universal 3D Object Understanding for Embodied Interaction**|Zekun Qi et.al.|[2402.17766](http://arxiv.org/abs/2402.17766)|**[link](https://github.com/qizekun/ShapeLLM)**|
 |**2024-02-27**|**The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**|Shuming Ma et.al.|[2402.17764](http://arxiv.org/abs/2402.17764)|null|
 |**2024-02-27**|**Massive Activations in Large Language Models**|Mingjie Sun et.al.|[2402.17762](http://arxiv.org/abs/2402.17762)|**[link](https://github.com/locuslab/massive-activations)**|
@@ -2677,6 +2692,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571](http://arxiv.org/abs/2402.18571)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
+|**2024-02-28**|**Unifying F1TENTH Autonomous Racing: Survey, Methods and Benchmarks**|Benjamin David Evans et.al.|[2402.18558](http://arxiv.org/abs/2402.18558)|null|
+|**2024-02-28**|**Human-Centric Aware UAV Trajectory Planning in Search and Rescue Missions Employing Multi-Objective Reinforcement Learning with AHP and Similarity-Based Experience Replay**|Mahya Ramezani et.al.|[2402.18487](http://arxiv.org/abs/2402.18487)|null|
+|**2024-02-28**|**FinAgent: A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist**|Wentao Zhang et.al.|[2402.18485](http://arxiv.org/abs/2402.18485)|null|
+|**2024-02-28**|**Implementing Online Reinforcement Learning with Clustering Neural Networks**|James E. Smith et.al.|[2402.18472](http://arxiv.org/abs/2402.18472)|null|
+|**2024-02-28**|**Why Do Animals Need Shaping? A Theory of Task Composition and Curriculum Learning**|Jin Hwa Lee et.al.|[2402.18361](http://arxiv.org/abs/2402.18361)|null|
+|**2024-02-28**|**Solving Multi-Entity Robotic Problems Using Permutation Invariant Neural Networks**|Tianxu An et.al.|[2402.18345](http://arxiv.org/abs/2402.18345)|null|
+|**2024-02-28**|**Whole-body Humanoid Robot Locomotion with Human Reference**|Qiang Zhang et.al.|[2402.18294](http://arxiv.org/abs/2402.18294)|null|
+|**2024-02-28**|**Is Crowdsourcing Breaking Your Bank? Cost-Effective Fine-Tuning of Pre-trained Language Models with Proximal Policy Optimization**|Shuo Yang et.al.|[2402.18284](http://arxiv.org/abs/2402.18284)|null|
+|**2024-02-28**|**Reinforcement Learning and Graph Neural Networks for Probabilistic Risk Assessment**|Joachim Grimstad et.al.|[2402.18246](http://arxiv.org/abs/2402.18246)|null|
 |**2024-02-27**|**Quantum Circuit Discovery for Fault-Tolerant Logical State Preparation with Reinforcement Learning**|Remmy Zen et.al.|[2402.17761](http://arxiv.org/abs/2402.17761)|null|
 |**2024-02-27**|**Learning to Program Variational Quantum Circuits with Fast Weights**|Samuel Yen-Chi Chen et.al.|[2402.17760](http://arxiv.org/abs/2402.17760)|null|
 |**2024-02-27**|**When Your AI Deceives You: Challenges with Partial Observability of Human Evaluators in Reward Learning**|Leon Lang et.al.|[2402.17747](http://arxiv.org/abs/2402.17747)|null|
@@ -2794,6 +2819,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation**|Zhiwei Yang et.al.|[2402.18467](http://arxiv.org/abs/2402.18467)|**[link](https://github.com/zwyang6/seco)**|
+|**2024-02-28**|**A Modular System for Enhanced Robustness of Multimedia Understanding Networks via Deep Parametric Estimation**|Francesco Barbato et.al.|[2402.18402](http://arxiv.org/abs/2402.18402)|null|
+|**2024-02-28**|**Enhancing Roadway Safety: LiDAR-based Tree Clearance Analysis**|Miriam Louise Carnot et.al.|[2402.18309](http://arxiv.org/abs/2402.18309)|null|
+|**2024-02-28**|**Feature Denoising For Low-Light Instance Segmentation Using Weighted Non-Local Blocks**|Joanne Lin et.al.|[2402.18307](http://arxiv.org/abs/2402.18307)|null|
+|**2024-02-28**|**Self-Supervised Learning in Electron Microscopy: Towards a Foundation Model for Advanced Image Analysis**|Bashir Kazimi et.al.|[2402.18286](http://arxiv.org/abs/2402.18286)|null|
+|**2024-02-28**|**PRCL: Probabilistic Representation Contrastive Learning for Semi-Supervised Semantic Segmentation**|Haoyu Xie et.al.|[2402.18117](http://arxiv.org/abs/2402.18117)|null|
+|**2024-02-28**|**Spannotation: Enhancing Semantic Segmentation for Autonomous Navigation with Efficient Image Annotation**|Samuel O. Folorunsho et.al.|[2402.18084](http://arxiv.org/abs/2402.18084)|**[link](https://github.com/sof-danny/spannotation)**|
+|**2024-02-27**|**Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation**|Xinyu Yang et.al.|[2402.17891](http://arxiv.org/abs/2402.17891)|**[link](https://github.com/youshyee/cosa)**|
 |**2024-02-27**|**Mitigating Distributional Shift in Semantic Segmentation via Uncertainty Estimation from Unlabelled Data**|David S. W. Williams et.al.|[2402.17653](http://arxiv.org/abs/2402.17653)|null|
 |**2024-02-27**|**Masked Gamma-SSL: Learning Uncertainty Estimation via Masked Image Modeling**|David S. W. Williams et.al.|[2402.17622](http://arxiv.org/abs/2402.17622)|null|
 |**2024-02-27**|**A Large-scale Evaluation of Pretraining Paradigms for the Detection of Defects in Electroluminescence Solar Cell Images**|David Torpey et.al.|[2402.17611](http://arxiv.org/abs/2402.17611)|null|
@@ -2853,6 +2886,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**UniMODE: Unified Monocular 3D Object Detection**|Zhuoling Li et.al.|[2402.18573](http://arxiv.org/abs/2402.18573)|null|
+|**2024-02-28**|**Detection of Micromobility Vehicles in Urban Traffic Videos**|Khalil Sabri et.al.|[2402.18503](http://arxiv.org/abs/2402.18503)|**[link](https://github.com/sabrikhalil/micro_mobility_detection)**|
+|**2024-02-28**|**Sunshine to Rainstorm: Cross-Weather Knowledge Distillation for Robust 3D Object Detection**|Xun Huang et.al.|[2402.18493](http://arxiv.org/abs/2402.18493)|null|
+|**2024-02-28**|**Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization**|Deng Li et.al.|[2402.18447](http://arxiv.org/abs/2402.18447)|null|
+|**2024-02-28**|**Unveiling novel insights into Kirchhoff migration for effective object detection using experimental Fresnel dataset**|Won-Kwang Park et.al.|[2402.18322](http://arxiv.org/abs/2402.18322)|null|
+|**2024-02-28**|**Zero-Shot Aerial Object Detection with Visual Description Regularization**|Zhengqing Zang et.al.|[2402.18233](http://arxiv.org/abs/2402.18233)|null|
+|**2024-02-28**|**VulMCI : Code Splicing-based Pixel-row Oversampling for More Continuous Vulnerability Image Generation**|Tao Peng et.al.|[2402.18189](http://arxiv.org/abs/2402.18189)|null|
 |**2024-02-27**|**SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection**|Junsu Kim et.al.|[2402.17323](http://arxiv.org/abs/2402.17323)|null|
 |**2024-02-27**|**A Vanilla Multi-Task Framework for Dense Visual Prediction Solution to 1st VCL Challenge -- Multi-Task Robustness Track**|Zehui Chen et.al.|[2402.17319](http://arxiv.org/abs/2402.17319)|null|
 |**2024-02-27**|**Probing Multimodal Large Language Models for Global and Local Semantic Representation**|Mingxu Tao et.al.|[2402.17304](http://arxiv.org/abs/2402.17304)|null|
