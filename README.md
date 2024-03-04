@@ -2840,7 +2840,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-29**|**PEM: Prototype-based Efficient MaskFormer for Image Segmentation**|Niccolò Cavagnero et.al.|[2402.19422](http://arxiv.org/abs/2402.19422)|**[link](https://github.com/niccolocavagnero/pem)**|
+|**2024-03-01**|**PEM: Prototype-based Efficient MaskFormer for Image Segmentation**|Niccolò Cavagnero et.al.|[2402.19422](http://arxiv.org/abs/2402.19422)|**[link](https://github.com/niccolocavagnero/pem)**|
 |**2024-02-29**|**RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation**|Jie Zhang et.al.|[2402.19004](http://arxiv.org/abs/2402.19004)|null|
 |**2024-02-28**|**Spatial Coherence Loss for Salient and Camouflaged Object Detection and Beyond**|Ziyun Yang et.al.|[2402.18698](http://arxiv.org/abs/2402.18698)|null|
 |**2024-02-29**|**Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation**|Zhiwei Yang et.al.|[2402.18467](http://arxiv.org/abs/2402.18467)|**[link](https://github.com/zwyang6/seco)**|
