@@ -645,6 +645,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Self-supervised Photographic Image Layout Representation Learning**|Zhaoran Zhao et.al.|[2403.03740](http://arxiv.org/abs/2403.03740)|**[link](https://github.com/cv-xueba/image-layout-learning)**|
 |**2024-03-04**|**Multi-Spectral Remote Sensing Image Retrieval Using Geospatial Foundation Models**|Benedikt Blumenstiel et.al.|[2403.02059](http://arxiv.org/abs/2403.02059)|**[link](https://github.com/ibm/remote-sensing-image-retrieval)**|
 |**2024-03-03**|**Image2Sentence based Asymmetrical Zero-shot Composed Image Retrieval**|Yongchao Du et.al.|[2403.01431](http://arxiv.org/abs/2403.01431)|null|
 |**2024-03-01**|**Asymmetric Feature Fusion for Image Retrieval**|Hui Wu et.al.|[2403.00671](http://arxiv.org/abs/2403.00671)|null|
@@ -1539,6 +1540,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
 |**2024-02-21**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
 |**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
 |**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671](http://arxiv.org/abs/2402.08671)|null|
@@ -1744,6 +1746,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608](http://arxiv.org/abs/2403.03608)|null|
+|**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241](http://arxiv.org/abs/2403.03241)|null|
 |**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
 |**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265](http://arxiv.org/abs/2403.02265)|null|
 |**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
@@ -2579,6 +2583,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Bridging Language and Items for Retrieval and Recommendation**|Yupeng Hou et.al.|[2403.03952](http://arxiv.org/abs/2403.03952)|**[link](https://github.com/hyp1231/amazonreviews2023)**|
+|**2024-03-06**|**Did Translation Models Get More Robust Without Anyone Even Noticing?**|Ben Peters et.al.|[2403.03923](http://arxiv.org/abs/2403.03923)|null|
+|**2024-03-06**|**Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing**|Asmita et.al.|[2403.03897](http://arxiv.org/abs/2403.03897)|null|
+|**2024-03-06**|**SaulLM-7B: A pioneering Large Language Model for Law**|Pierre Colombo et.al.|[2403.03883](http://arxiv.org/abs/2403.03883)|null|
+|**2024-03-06**|**Learning to Decode Collaboratively with Multiple Language Models**|Shannon Zejiang Shen et.al.|[2403.03870](http://arxiv.org/abs/2403.03870)|**[link](https://github.com/clinicalml/co-llm)**|
+|**2024-03-06**|**On the Origins of Linear Representations in Large Language Models**|Yibo Jiang et.al.|[2403.03867](http://arxiv.org/abs/2403.03867)|null|
+|**2024-03-06**|**KIWI: A Dataset of Knowledge-Intensive Writing Instructions for Answering Research Questions**|Fangyuan Xu et.al.|[2403.03866](http://arxiv.org/abs/2403.03866)|null|
+|**2024-03-06**|**Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning**|Deepanway Ghosal et.al.|[2403.03864](http://arxiv.org/abs/2403.03864)|**[link](https://github.com/declare-lab/puzzle-reasoning)**|
+|**2024-03-06**|**X-Shot: A Unified System to Handle Frequent, Few-shot and Zero-shot Learning Simultaneously in Classification**|Hanzi Xu et.al.|[2403.03863](http://arxiv.org/abs/2403.03863)|**[link](https://github.com/xhz0809/x-shot)**|
+|**2024-03-06**|**Emojinize : Enriching Any Text with Emoji Translations**|Lars Henning Klein et.al.|[2403.03857](http://arxiv.org/abs/2403.03857)|null|
 |**2024-03-05**|**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**|Nathaniel Li et.al.|[2403.03218](http://arxiv.org/abs/2403.03218)|null|
 |**2024-03-05**|**CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially Observable Environments**|Savitha Sam Abraham et.al.|[2403.03203](http://arxiv.org/abs/2403.03203)|null|
 |**2024-03-05**|**Towards Democratized Flood Risk Management: An Advanced AI Assistant Enabled by GPT-4 for Enhanced Interpretability and Public Engagement**|Rafaela Martelo et.al.|[2403.03188](http://arxiv.org/abs/2403.03188)|**[link](https://github.com/rafaelamartelo/floodgpt-4_prototype)**|
@@ -2736,6 +2750,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Stop Regressing: Training Value Functions via Classification for Scalable Deep RL**|Jesse Farebrother et.al.|[2403.03950](http://arxiv.org/abs/2403.03950)|null|
+|**2024-03-06**|**Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation**|Marcel Torne et.al.|[2403.03949](http://arxiv.org/abs/2403.03949)|null|
+|**2024-03-06**|**Dexterous Legged Locomotion in Confined 3D Spaces with Reinforcement Learning**|Zifan Xu et.al.|[2403.03848](http://arxiv.org/abs/2403.03848)|null|
+|**2024-03-06**|**A Survey on Applications of Reinforcement Learning in Spatial Resource Allocation**|Di Zhang et.al.|[2403.03643](http://arxiv.org/abs/2403.03643)|null|
+|**2024-03-06**|**Benchmarking Hallucination in Large Language Models based on Unanswerable Math Word Problem**|Yuhong Sun et.al.|[2403.03558](http://arxiv.org/abs/2403.03558)|**[link](https://github.com/yuki-asuuna/umwp)**|
+|**2024-03-06**|**Population-aware Online Mirror Descent for Mean-Field Games by Deep Reinforcement Learning**|Zida Wu et.al.|[2403.03552](http://arxiv.org/abs/2403.03552)|null|
+|**2024-03-05**|**RACE-SM: Reinforcement Learning Based Autonomous Control for Social On-Ramp Merging**|Jordan Poots et.al.|[2403.03359](http://arxiv.org/abs/2403.03359)|null|
 |**2024-03-05**|**Reaching Consensus in Cooperative Multi-Agent Reinforcement Learning with Goal Imagination**|Liangzhou Wang et.al.|[2403.03172](http://arxiv.org/abs/2403.03172)|null|
 |**2024-03-05**|**Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks**|Yaqian Qi et.al.|[2403.03165](http://arxiv.org/abs/2403.03165)|null|
 |**2024-03-05**|**Language Guided Exploration for RL Agents in Text Environments**|Hitesh Golchha et.al.|[2403.03141](http://arxiv.org/abs/2403.03141)|null|
@@ -2893,6 +2914,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**ECAP: Extensive Cut-and-Paste Augmentation for Unsupervised Domain Adaptive Semantic Segmentation**|Erik Brorsson et.al.|[2403.03854](http://arxiv.org/abs/2403.03854)|**[link](https://github.com/erikbrorsson/ecap)**|
+|**2024-03-06**|**Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision**|Yajie Liu et.al.|[2403.03707](http://arxiv.org/abs/2403.03707)|null|
+|**2024-03-06**|**Causal Prototype-inspired Contrast Adaptation for Unsupervised Domain Adaptive Semantic Segmentation of High-resolution Remote Sensing Imagery**|Jingru Zhu et.al.|[2403.03704](http://arxiv.org/abs/2403.03704)|null|
+|**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608](http://arxiv.org/abs/2403.03608)|null|
+|**2024-03-06**|**Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator**|Wonhyeok Choi et.al.|[2403.03468](http://arxiv.org/abs/2403.03468)|null|
+|**2024-03-05**|**CenterDisks: Real-time instance segmentation with disk covering**|Katia Jodogne-Del Litto et.al.|[2403.03296](http://arxiv.org/abs/2403.03296)|**[link](https://github.com/katiajdl/centerdisks)**|
 |**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111](http://arxiv.org/abs/2403.03111)|null|
 |**2024-03-05**|**ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving**|Han Lu et.al.|[2403.02877](http://arxiv.org/abs/2403.02877)|null|
 |**2024-03-05**|**DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation**|Lingyan Ran et.al.|[2403.02784](http://arxiv.org/abs/2403.02784)|null|
@@ -2980,6 +3007,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection**|Gyusam Chang et.al.|[2403.03721](http://arxiv.org/abs/2403.03721)|null|
+|**2024-03-06**|**Adversarial Infrared Geometry: Using Geometry to Perform Adversarial Attack against Infrared Pedestrian Detectors**|Kalibinuer Tiliwalidi et.al.|[2403.03674](http://arxiv.org/abs/2403.03674)|null|
+|**2024-03-06**|**Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator**|Wonhyeok Choi et.al.|[2403.03468](http://arxiv.org/abs/2403.03468)|null|
+|**2024-03-06**|**FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463](http://arxiv.org/abs/2403.03463)|null|
+|**2024-03-06**|**Performance Evaluation of Semi-supervised Learning Frameworks for Multi-Class Weed Detection**|Jiajia Li et.al.|[2403.03390](http://arxiv.org/abs/2403.03390)|**[link](https://github.com/jiajiali04/semiweeds)**|
 |**2024-03-05**|**Detecting Concrete Visual Tokens for Multimodal Machine Translation**|Braeden Bowen et.al.|[2403.03075](http://arxiv.org/abs/2403.03075)|null|
 |**2024-03-05**|**Loss Design for Single-carrier Joint Communication and Neural Network-based Sensing**|Charlotte Muth et.al.|[2403.02929](http://arxiv.org/abs/2403.02929)|null|
 |**2024-03-05**|**Are Dense Labels Always Necessary for 3D Object Detection from Point Cloud?**|Chenqiang Gao et.al.|[2403.02818](http://arxiv.org/abs/2403.02818)|null|
