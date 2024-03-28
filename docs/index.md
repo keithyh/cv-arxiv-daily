@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3312,7 +3312,7 @@ layout: default
 |**2024-03-26**|**Compressed Multi-task embeddings for Data-Efficient Downstream training and inference in Earth Observation**|Carlos Gomes et.al.|[2403.17886](http://arxiv.org/abs/2403.17886)|null|
 |**2024-03-26**|**PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition**|Chenhongyi Yang et.al.|[2403.17695](http://arxiv.org/abs/2403.17695)|**[link](https://github.com/chenhongyiyang/plainmamba)**|
 |**2024-03-26**|**Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion**|Kazi Shahriar Sanjid et.al.|[2403.17432](http://arxiv.org/abs/2403.17432)|null|
-|**2024-03-25**|**Optimizing LiDAR Placements for Robust Driving Perception in Adverse Conditions**|Ye Li et.al.|[2403.17009](http://arxiv.org/abs/2403.17009)|null|
+|**2024-03-25**|**Optimizing LiDAR Placements for Robust Driving Perception in Adverse Conditions**|Ye Li et.al.|[2403.17009](http://arxiv.org/abs/2403.17009)|**[link](https://github.com/ywyeli/place3d)**|
 |**2024-03-25**|**DreamLIP: Language-Image Pre-training with Long Captions**|Kecheng Zheng et.al.|[2403.17007](http://arxiv.org/abs/2403.17007)|null|
 |**2024-03-25**|**TwinLiteNetPlus: A Stronger Model for Real-time Drivable Area and Lane Segmentation**|Quang-Huy Che et.al.|[2403.16958](http://arxiv.org/abs/2403.16958)|null|
 |**2024-03-25**|**HPL-ESS: Hybrid Pseudo-Labeling for Unsupervised Event-based Semantic Segmentation**|Linglin Jing et.al.|[2403.16788](http://arxiv.org/abs/2403.16788)|null|
@@ -3505,7 +3505,7 @@ layout: default
 |**2024-03-26**|**AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving**|Mingfu Liang et.al.|[2403.17373](http://arxiv.org/abs/2403.17373)|null|
 |**2024-03-26**|**Staircase Localization for Autonomous Exploration in Urban Environments**|Jinrae Kim et.al.|[2403.17330](http://arxiv.org/abs/2403.17330)|null|
 |**2024-03-25**|**Co-Occurring of Object Detection and Identification towards unlabeled object discovery**|Binay Kumar Singh et.al.|[2403.17223](http://arxiv.org/abs/2403.17223)|null|
-|**2024-03-25**|**Optimizing LiDAR Placements for Robust Driving Perception in Adverse Conditions**|Ye Li et.al.|[2403.17009](http://arxiv.org/abs/2403.17009)|null|
+|**2024-03-25**|**Optimizing LiDAR Placements for Robust Driving Perception in Adverse Conditions**|Ye Li et.al.|[2403.17009](http://arxiv.org/abs/2403.17009)|**[link](https://github.com/ywyeli/place3d)**|
 |**2024-03-25**|**Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely with Isolated Diffusion Guidance**|Jingyuan Zhu et.al.|[2403.16954](http://arxiv.org/abs/2403.16954)|null|
 |**2024-03-25**|**RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection**|Zhiwei Lin et.al.|[2403.16440](http://arxiv.org/abs/2403.16440)|**[link](https://github.com/vdigpku/rcbevdet)**|
 |**2024-03-25**|**ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation**|Hannah Schieber et.al.|[2403.16400](http://arxiv.org/abs/2403.16400)|null|
