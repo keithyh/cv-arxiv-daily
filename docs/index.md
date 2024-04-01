@@ -470,6 +470,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds**|Zhiwen Fan et.al.|[2403.20309](http://arxiv.org/abs/2403.20309)|null|
+|**2024-03-29**|**HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes**|Zhuopeng Li et.al.|[2403.20032](http://arxiv.org/abs/2403.20032)|null|
 |**2024-03-26**|**NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**|Jiahao Chen et.al.|[2403.17537](http://arxiv.org/abs/2403.17537)|null|
 |**2024-03-25**|**INPC: Implicit Neural Point Clouds for Radiance Field Rendering**|Florian Hahlbohm et.al.|[2403.16862](http://arxiv.org/abs/2403.16862)|null|
 |**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
@@ -643,6 +645,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**FairRAG: Fair Human Generation via Fair Retrieval Augmentation**|Robik Shrestha et.al.|[2403.19964](http://arxiv.org/abs/2403.19964)|null|
+|**2024-03-28**|**JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**|Gabriele Berton et.al.|[2403.19787](http://arxiv.org/abs/2403.19787)|**[link](https://github.com/ga1i13o/jist)**|
 |**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
 |**2024-03-27**|**AIR-HLoc: Adaptive Image Retrieval for Efficient Visual Localisation**|Changkun Liu et.al.|[2403.18281](http://arxiv.org/abs/2403.18281)|null|
 |**2024-03-26**|**Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**|Dongjin Kim et.al.|[2403.17420](http://arxiv.org/abs/2403.17420)|**[link](https://github.com/visualaikhu/noprior_multissl)**|
@@ -1359,6 +1363,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885](http://arxiv.org/abs/2403.19885)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
 |**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527](http://arxiv.org/abs/2403.19527)|**[link](https://github.com/leeiieeo/ag-pose)**|
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/abs/2403.18259)|null|
 |**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|**[link](https://github.com/yuyangpoi/fe-detr)**|
@@ -1789,6 +1794,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes**|Ke Wu et.al.|[2403.20159](http://arxiv.org/abs/2403.20159)|null|
+|**2024-03-29**|**Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**|Jaehoon Ko et.al.|[2403.20153](http://arxiv.org/abs/2403.20153)|null|
+|**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079](http://arxiv.org/abs/2403.20079)|null|
+|**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/abs/2403.20034)|**[link](https://github.com/dtc111111/neslam)**|
+|**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018](http://arxiv.org/abs/2403.20018)|**[link](https://github.com/wu-cvgl/scinerf)**|
+|**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013](http://arxiv.org/abs/2403.20013)|null|
+|**2024-03-29**|**Stable Surface Regularization for Fast Few-Shot NeRF**|Byeongin Joung et.al.|[2403.19985](http://arxiv.org/abs/2403.19985)|null|
+|**2024-03-29**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/abs/2403.19920)|null|
+|**2024-03-28**|**Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**|Marco Cannici et.al.|[2403.19780](http://arxiv.org/abs/2403.19780)|**[link](https://github.com/uzh-rpg/evdeblurnerf)**|
 |**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607](http://arxiv.org/abs/2403.19607)|null|
 |**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|null|
 |**2024-03-28**|**Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation**|Yujin Chen et.al.|[2403.19319](http://arxiv.org/abs/2403.19319)|null|
@@ -2704,6 +2718,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Gecko: Versatile Text Embeddings Distilled from Large Language Models**|Jinhyuk Lee et.al.|[2403.20327](http://arxiv.org/abs/2403.20327)|null|
+|**2024-03-29**|**Convolutional Prompting meets Language Models for Continual Learning**|Anurag Roy et.al.|[2403.20317](http://arxiv.org/abs/2403.20317)|null|
+|**2024-03-29**|**Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference**|Jovan Stojkovic et.al.|[2403.20306](http://arxiv.org/abs/2403.20306)|null|
+|**2024-03-29**|**Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain**|Burcu Sayin et.al.|[2403.20288](http://arxiv.org/abs/2403.20288)|null|
+|**2024-03-29**|**LUQ: Long-text Uncertainty Quantification for LLMs**|Caiqi Zhang et.al.|[2403.20279](http://arxiv.org/abs/2403.20279)|null|
+|**2024-03-29**|**Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want**|Weifeng Lin et.al.|[2403.20271](http://arxiv.org/abs/2403.20271)|null|
+|**2024-03-29**|**Latxa: An Open Language Model and Evaluation Suite for Basque**|Julen Etxaniz et.al.|[2403.20266](http://arxiv.org/abs/2403.20266)|null|
+|**2024-03-29**|**ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models**|Thibaut Thonet et.al.|[2403.20262](http://arxiv.org/abs/2403.20262)|null|
+|**2024-03-29**|**Using LLMs to Model the Beliefs and Preferences of Targeted Populations**|Keiichi Namikoshi et.al.|[2403.20252](http://arxiv.org/abs/2403.20252)|null|
+|**2024-03-29**|**Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science**|Yazheng Yang et.al.|[2403.20208](http://arxiv.org/abs/2403.20208)|null|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
 |**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
 |**2024-03-28**|**Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning**|Chenyang Liu et.al.|[2403.19646](http://arxiv.org/abs/2403.19646)|**[link](https://github.com/chen-yang-liu/change-agent)**|
@@ -3035,6 +3059,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Learning Visual Quadrupedal Loco-Manipulation from Demonstrations**|Zhengmao He et.al.|[2403.20328](http://arxiv.org/abs/2403.20328)|null|
+|**2024-03-29**|**Active flow control of a turbulent separation bubble through deep reinforcement learning**|Bernat Font et.al.|[2403.20295](http://arxiv.org/abs/2403.20295)|null|
+|**2024-03-29**|**Functional Bilevel Optimization for Machine Learning**|Ieva Petrulionyte et.al.|[2403.20233](http://arxiv.org/abs/2403.20233)|null|
+|**2024-03-29**|**Decentralized Multimedia Data Sharing in IoV: A Learning-based Equilibrium of Supply and Demand**|Jiani Fan et.al.|[2403.20218](http://arxiv.org/abs/2403.20218)|null|
+|**2024-03-29**|**Biologically-Plausible Topology Improved Spiking Actor Network for Efficient Deep Reinforcement Learning**|Duzhen Zhang et.al.|[2403.20163](http://arxiv.org/abs/2403.20163)|null|
+|**2024-03-29**|**CAESAR: Enhancing Federated RL in Heterogeneous MDPs through Convergence-Aware Sampling with Screening**|Hei Yi Mak et.al.|[2403.20156](http://arxiv.org/abs/2403.20156)|null|
+|**2024-03-29**|**A Learning-based Incentive Mechanism for Mobile AIGC Service in Decentralized Internet of Vehicles**|Jiani Fan et.al.|[2403.20151](http://arxiv.org/abs/2403.20151)|null|
+|**2024-03-29**|**Mol-AIR: Molecular Reinforcement Learning with Adaptive Intrinsic Rewards for Goal-directed Molecular Generation**|Jinyeong Park et.al.|[2403.20109](http://arxiv.org/abs/2403.20109)|**[link](https://github.com/DevSlem/Mol-AIR)**|
+|**2024-03-29**|**Reinforcement learning for graph theory, II. Small Ramsey numbers**|Mohammad Ghebleh et.al.|[2403.20055](http://arxiv.org/abs/2403.20055)|null|
+|**2024-03-29**|**Nonparametric Bellman Mappings for Reinforcement Learning: Application to Robust Adaptive Filtering**|Yuki Akiyama et.al.|[2403.20020](http://arxiv.org/abs/2403.20020)|null|
 |**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648](http://arxiv.org/abs/2403.19648)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
 |**2024-03-28**|**Jointly Training and Pruning CNNs via Learnable Agent Guidance and Alignment**|Alireza Ganjdanesh et.al.|[2403.19490](http://arxiv.org/abs/2403.19490)|null|
 |**2024-03-28**|**Offline Imitation Learning from Multiple Baselines with Applications to Compiler Optimization**|Teodor V. Marinov et.al.|[2403.19462](http://arxiv.org/abs/2403.19462)|null|
@@ -3359,7 +3393,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-28**|**Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers**|Pingcheng Dong et.al.|[2403.19591](http://arxiv.org/abs/2403.19591)|**[link](https://github.com/pingchengdong/gqa-lut)**|
+|**2024-03-29**|**ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning**|Beomyoung Kim et.al.|[2403.20126](http://arxiv.org/abs/2403.20126)|**[link](https://github.com/clovaai/ECLIPSE)**|
+|**2024-03-29**|**Modeling Weather Uncertainty for Multi-weather Co-Presence Estimation**|Qi Bi et.al.|[2403.20092](http://arxiv.org/abs/2403.20092)|null|
+|**2024-03-29**|**Using Images as Covariates: Measuring Curb Appeal with Deep Learning**|Ardyn Nordstrom et.al.|[2403.19915](http://arxiv.org/abs/2403.19915)|null|
+|**2024-03-29**|**MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection**|Ali Behrouz et.al.|[2403.19888](http://arxiv.org/abs/2403.19888)|null|
+|**2024-03-28**|**Segmentation Re-thinking Uncertainty Estimation Metrics for Semantic Segmentation**|Qitian Ma et.al.|[2403.19826](http://arxiv.org/abs/2403.19826)|null|
+|**2024-03-28**|**Efficient 3D Instance Mapping and Localization with Neural Fields**|George Tang et.al.|[2403.19797](http://arxiv.org/abs/2403.19797)|null|
+|**2024-03-28**|**ENet-21: An Optimized light CNN Structure for Lane Detection**|Seyed Rasoul Hosseini et.al.|[2403.19782](http://arxiv.org/abs/2403.19782)|null|
+|**2024-03-29**|**Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers**|Pingcheng Dong et.al.|[2403.19591](http://arxiv.org/abs/2403.19591)|**[link](https://github.com/pingchengdong/gqa-lut)**|
 |**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588](http://arxiv.org/abs/2403.19588)|**[link](https://github.com/naver-ai/rdnet)**|
 |**2024-03-28**|**Learning Multiple Representations with Inconsistency-Guided Detail Regularization for Mask-Guided Matting**|Weihao Jiang et.al.|[2403.19213](http://arxiv.org/abs/2403.19213)|null|
 |**2024-03-27**|**Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D**|Mukund Varma T et.al.|[2403.18922](http://arxiv.org/abs/2403.18922)|null|
@@ -3558,6 +3599,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**PLoc: A New Evaluation Criterion Based on Physical Location for Autonomous Driving Datasets**|Ruining Yang et.al.|[2403.19893](http://arxiv.org/abs/2403.19893)|null|
+|**2024-03-29**|**MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection**|Ali Behrouz et.al.|[2403.19888](http://arxiv.org/abs/2403.19888)|null|
 |**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588](http://arxiv.org/abs/2403.19588)|**[link](https://github.com/naver-ai/rdnet)**|
 |**2024-03-28**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al.|[2403.19580](http://arxiv.org/abs/2403.19580)|null|
 |**2024-03-28**|**Sparse Generation: Making Pseudo Labels Sparse for weakly supervision with points**|Tian Ma et.al.|[2403.19306](http://arxiv.org/abs/2403.19306)|null|
