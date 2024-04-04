@@ -1827,6 +1827,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
+|**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742](http://arxiv.org/abs/2404.02742)|**[link](https://github.com/ispc-lab/lidar4d)**|
+|**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617](http://arxiv.org/abs/2404.02617)|null|
+|**2024-04-03**|**Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition**|Yisheng He et.al.|[2404.02514](http://arxiv.org/abs/2404.02514)|null|
+|**2024-04-02**|**NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-Efficient Scene Representation**|Sicheng Li et.al.|[2404.02185](http://arxiv.org/abs/2404.02185)|null|
 |**2024-04-02**|**Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields**|Joshua Ahn et.al.|[2404.02155](http://arxiv.org/abs/2404.02155)|null|
 |**2024-04-02**|**Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions**|Saptarshi Dasgupta et.al.|[2404.01812](http://arxiv.org/abs/2404.01812)|null|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400](http://arxiv.org/abs/2404.01400)|null|
@@ -2763,6 +2768,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
+|**2024-04-03**|**MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment**|Duygu Ceylan et.al.|[2404.02899](http://arxiv.org/abs/2404.02899)|null|
+|**2024-04-03**|**ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline**|Yifan Xu et.al.|[2404.02893](http://arxiv.org/abs/2404.02893)|null|
+|**2024-04-03**|**Integrating Explanations in Learning LTL Specifications from Demonstrations**|Ashutosh Gupta et.al.|[2404.02872](http://arxiv.org/abs/2404.02872)|null|
+|**2024-04-03**|**Toward Inference-optimal Mixture-of-Expert Large Language Models**|Longfei Yun et.al.|[2404.02852](http://arxiv.org/abs/2404.02852)|null|
+|**2024-04-03**|**I-Design: Personalized LLM Interior Designer**|Ata Çelen et.al.|[2404.02838](http://arxiv.org/abs/2404.02838)|null|
+|**2024-04-03**|**Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models**|Wanyun Cui et.al.|[2404.02837](http://arxiv.org/abs/2404.02837)|null|
+|**2024-04-03**|**Retrieving Examples from Memory for Retrieval Augmented Neural Machine Translation: A Systematic Comparison**|Maxime Bouthors et.al.|[2404.02835](http://arxiv.org/abs/2404.02835)|null|
+|**2024-04-03**|**Empowering Biomedical Discovery with AI Agents**|Shanghua Gao et.al.|[2404.02831](http://arxiv.org/abs/2404.02831)|null|
+|**2024-04-03**|**BAdam: A Memory Efficient Full Parameter Training Method for Large Language Models**|Qijun Luo et.al.|[2404.02827](http://arxiv.org/abs/2404.02827)|**[link](https://github.com/ledzy/badam)**|
 |**2024-04-02**|**Topic-based Watermarks for LLM-Generated Text**|Alexander Nemecek et.al.|[2404.02138](http://arxiv.org/abs/2404.02138)|null|
 |**2024-04-02**|**Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models**|Wanyong Feng et.al.|[2404.02124](http://arxiv.org/abs/2404.02124)|null|
 |**2024-04-02**|**CLAPNQ: Cohesive Long-form Answers from Passages in Natural Questions for RAG systems**|Sara Rosenthal et.al.|[2404.02103](http://arxiv.org/abs/2404.02103)|**[link](https://github.com/primeqa/clapnq)**|
@@ -3116,6 +3131,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Learning Quadrupedal Locomotion via Differentiable Simulation**|Clemens Schwarke et.al.|[2404.02887](http://arxiv.org/abs/2404.02887)|null|
+|**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
+|**2024-04-03**|**Reinforcement Learning in Categorical Cybernetics**|Jules Hedges et.al.|[2404.02688](http://arxiv.org/abs/2404.02688)|null|
+|**2024-04-03**|**Solving a Real-World Optimization Problem Using Proximal Policy Optimization with Curriculum Learning and Reward Engineering**|Abhijeet Pendyala et.al.|[2404.02577](http://arxiv.org/abs/2404.02577)|null|
+|**2024-04-03**|**SliceIt! -- A Dual Simulator Framework for Learning Robot Food Slicing**|Cristian C. Beltran-Hernandez et.al.|[2404.02569](http://arxiv.org/abs/2404.02569)|**[link](https://github.com/omron-sinicx/sliceit)**|
+|**2024-04-03**|**Grid-Mapping Pseudo-Count Constraint for Offline Reinforcement Learning**|Yi Shen et.al.|[2404.02545](http://arxiv.org/abs/2404.02545)|**[link](https://github.com/lasttarnished/gpc-sac)**|
+|**2024-04-03**|**Joint Optimization on Uplink OFDMA and MU-MIMO for IEEE 802.11ax: Deep Hierarchical Reinforcement Learning Approach**|Hyeonho Noh et.al.|[2404.02486](http://arxiv.org/abs/2404.02486)|null|
+|**2024-04-03**|**Deep Reinforcement Learning for Traveling Purchaser Problems**|Haofeng Yuan et.al.|[2404.02476](http://arxiv.org/abs/2404.02476)|null|
+|**2024-04-03**|**Electric Vehicle Routing Problem for Emergency Power Supply: Towards Telecom Base Station Relief**|Daisuke Kikuta et.al.|[2404.02448](http://arxiv.org/abs/2404.02448)|null|
+|**2024-04-03**|**AD4RL: Autonomous Driving Benchmarks for Offline Reinforcement Learning with Value-based Dataset**|Dongsu Lee et.al.|[2404.02429](http://arxiv.org/abs/2404.02429)|null|
 |**2024-04-02**|**Tuning for the Unknown: Revisiting Evaluation Strategies for Lifelong RL**|Golnaz Mesbahi et.al.|[2404.02113](http://arxiv.org/abs/2404.02113)|null|
 |**2024-04-02**|**Emergence of Chemotactic Strategies with Multi-Agent Reinforcement Learning**|Samuel Tovey et.al.|[2404.01999](http://arxiv.org/abs/2404.01999)|null|
 |**2024-04-02**|**VLRM: Vision-Language Models act as Reward Models for Image Captioning**|Maksim Dzabraev et.al.|[2404.01911](http://arxiv.org/abs/2404.01911)|null|
@@ -3462,6 +3487,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**GPU-Accelerated RSF Level Set Evolution for Large-Scale Microvascular Segmentation**|Meher Niger et.al.|[2404.02813](http://arxiv.org/abs/2404.02813)|null|
+|**2024-04-03**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668](http://arxiv.org/abs/2404.02668)|**[link](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)**|
+|**2024-04-03**|**A Satellite Band Selection Framework for Amazon Forest Deforestation Detection Task**|Eduardo Neto et.al.|[2404.02659](http://arxiv.org/abs/2404.02659)|null|
+|**2024-04-03**|**SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation**|Junyan Ye et.al.|[2404.02638](http://arxiv.org/abs/2404.02638)|**[link](https://github.com/yejy53/sg-bev)**|
+|**2024-04-03**|**Active learning for efficient annotation in precision agriculture: a use-case on crop-weed semantic segmentation**|Bart M. van Marrewijk et.al.|[2404.02580](http://arxiv.org/abs/2404.02580)|null|
+|**2024-04-03**|**HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras**|Zhongyu Xia et.al.|[2404.02517](http://arxiv.org/abs/2404.02517)|**[link](https://github.com/vdigpku/henet)**|
+|**2024-04-03**|**Optimizing traffic signs and lights visibility for the teleoperation of autonomous vehicles through ROI compression**|I. Dror et.al.|[2404.02481](http://arxiv.org/abs/2404.02481)|null|
+|**2024-04-03**|**RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation**|Xianping Ma et.al.|[2404.02457](http://arxiv.org/abs/2404.02457)|**[link](https://github.com/sstary/ssrs)**|
+|**2024-04-02**|**Constrained Robotic Navigation on Preferred Terrains Using LLMs and Speech Instruction: Exploiting the Power of Adverbs**|Faraz Lotfi et.al.|[2404.02294](http://arxiv.org/abs/2404.02294)|null|
 |**2024-04-02**|**Segment Any 3D Object with Language**|Seungjun Lee et.al.|[2404.02157](http://arxiv.org/abs/2404.02157)|null|
 |**2024-04-02**|**Multi-Level Label Correction by Distilling Proximate Patterns for Semi-supervised Semantic Segmentation**|Hui Xiao et.al.|[2404.02065](http://arxiv.org/abs/2404.02065)|null|
 |**2024-04-01**|**What is Point Supervision Worth in Video Instance Segmentation?**|Shuaiyi Huang et.al.|[2404.01990](http://arxiv.org/abs/2404.01990)|null|
@@ -3680,6 +3714,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
+|**2024-04-03**|**FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**|Safouane El Ghazouali et.al.|[2404.02877](http://arxiv.org/abs/2404.02877)|**[link](https://github.com/toelt-llc/flightscope_bench)**|
+|**2024-04-03**|**HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras**|Zhongyu Xia et.al.|[2404.02517](http://arxiv.org/abs/2404.02517)|**[link](https://github.com/vdigpku/henet)**|
+|**2024-04-03**|**TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression**|Ho-Joong Kim et.al.|[2404.02405](http://arxiv.org/abs/2404.02405)|null|
 |**2024-04-02**|**EGTR: Extracting Graph from Transformer for Scene Graph Generation**|Jinbae Im et.al.|[2404.02072](http://arxiv.org/abs/2404.02072)|**[link](https://github.com/naver-ai/egtr)**|
 |**2024-04-02**|**Cooperative Students: Navigating Unsupervised Domain Adaptation in Nighttime Object Detection**|Jicheng Yuan et.al.|[2404.01988](http://arxiv.org/abs/2404.01988)|**[link](https://github.com/jichengyuan/cooperitive_students)**|
 |**2024-04-02**|**Towards Enhanced Analysis of Lung Cancer Lesions in EBUS-TBNA -- A Semi-Supervised Video Object Detection Method**|Jyun-An Lin et.al.|[2404.01929](http://arxiv.org/abs/2404.01929)|null|
