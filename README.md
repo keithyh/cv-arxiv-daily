@@ -484,6 +484,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126](http://arxiv.org/abs/2404.03126)|null|
 |**2024-03-29**|**InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds**|Zhiwen Fan et.al.|[2403.20309](http://arxiv.org/abs/2403.20309)|null|
 |**2024-03-29**|**HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes**|Zhuopeng Li et.al.|[2403.20032](http://arxiv.org/abs/2403.20032)|null|
 |**2024-03-26**|**NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**|Jiahao Chen et.al.|[2403.17537](http://arxiv.org/abs/2403.17537)|null|
@@ -1827,6 +1828,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
+|**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
+|**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
 |**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742](http://arxiv.org/abs/2404.02742)|**[link](https://github.com/ispc-lab/lidar4d)**|
 |**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617](http://arxiv.org/abs/2404.02617)|null|
@@ -2768,6 +2772,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648](http://arxiv.org/abs/2404.03648)|**[link](https://github.com/thudm/autowebglm)**|
+|**2024-04-04**|**Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra**|Darioush Kevian et.al.|[2404.03647](http://arxiv.org/abs/2404.03647)|null|
+|**2024-04-04**|**Training LLMs over Neurally Compressed Text**|Brian Lester et.al.|[2404.03626](http://arxiv.org/abs/2404.03626)|null|
+|**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623](http://arxiv.org/abs/2404.03623)|null|
+|**2024-04-04**|**Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models**|Wenshan Wu et.al.|[2404.03622](http://arxiv.org/abs/2404.03622)|null|
+|**2024-04-04**|**DeViDe: Faceted medical knowledge for improved medical vision-language pre-training**|Haozhe Luo et.al.|[2404.03618](http://arxiv.org/abs/2404.03618)|null|
+|**2024-04-04**|**Sailor: Open Language Models for South-East Asia**|Longxu Dou et.al.|[2404.03608](http://arxiv.org/abs/2404.03608)|**[link](https://github.com/sail-sg/sailor-llm)**|
+|**2024-04-04**|**Evaluating LLMs at Detecting Errors in LLM Responses**|Ryo Kamoi et.al.|[2404.03602](http://arxiv.org/abs/2404.03602)|**[link](https://github.com/psunlpgroup/realmistake)**|
+|**2024-04-04**|**Intent Detection and Entity Extraction from BioMedical Literature**|Ankan Mullick et.al.|[2404.03598](http://arxiv.org/abs/2404.03598)|**[link](https://github.com/bionlu-coling2024/biomed-ner-intent_detection)**|
+|**2024-04-04**|**SemGrasp: Semantic Grasp Generation via Language Aligned Discretization**|Kailin Li et.al.|[2404.03590](http://arxiv.org/abs/2404.03590)|null|
 |**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
 |**2024-04-03**|**MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment**|Duygu Ceylan et.al.|[2404.02899](http://arxiv.org/abs/2404.02899)|null|
 |**2024-04-03**|**ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline**|Yifan Xu et.al.|[2404.02893](http://arxiv.org/abs/2404.02893)|null|
@@ -3131,6 +3145,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648](http://arxiv.org/abs/2404.03648)|**[link](https://github.com/thudm/autowebglm)**|
+|**2024-04-04**|**Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention**|Ziru Liu et.al.|[2404.03637](http://arxiv.org/abs/2404.03637)|null|
+|**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596](http://arxiv.org/abs/2404.03596)|**[link](https://github.com/yamoling/lle)**|
+|**2024-04-04**|**Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithm**|Miao Lu et.al.|[2404.03578](http://arxiv.org/abs/2404.03578)|null|
+|**2024-04-04**|**AdaGlimpse: Active Visual Exploration with Arbitrary Glimpse Position and Scale**|Adam Pardyl et.al.|[2404.03482](http://arxiv.org/abs/2404.03482)|**[link](https://github.com/apardyl/adaglimpse)**|
+|**2024-04-04**|**Integrating Hyperparameter Search into GramML**|Hernán Ceferino Vázquez et.al.|[2404.03419](http://arxiv.org/abs/2404.03419)|null|
+|**2024-04-04**|**Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought**|Jooyoung Lee et.al.|[2404.03414](http://arxiv.org/abs/2404.03414)|null|
+|**2024-04-04**|**Elementary Analysis of Policy Gradient Methods**|Jiacai Liu et.al.|[2404.03372](http://arxiv.org/abs/2404.03372)|null|
+|**2024-04-04**|**REACT: Revealing Evolutionary Action Consequence Trajectories for Interpretable Reinforcement Learning**|Philipp Altmann et.al.|[2404.03359](http://arxiv.org/abs/2404.03359)|null|
+|**2024-04-04**|**Scaling Population-Based Reinforcement Learning with GPU Accelerated Simulation**|Asad Ali Shahid et.al.|[2404.03336](http://arxiv.org/abs/2404.03336)|null|
 |**2024-04-03**|**Learning Quadrupedal Locomotion via Differentiable Simulation**|Clemens Schwarke et.al.|[2404.02887](http://arxiv.org/abs/2404.02887)|null|
 |**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
 |**2024-04-03**|**Reinforcement Learning in Categorical Cybernetics**|Jules Hedges et.al.|[2404.02688](http://arxiv.org/abs/2404.02688)|null|
@@ -3487,6 +3511,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**OW-VISCap: Open-World Video Instance Segmentation and Captioning**|Anwesa Choudhuri et.al.|[2404.03657](http://arxiv.org/abs/2404.03657)|null|
+|**2024-04-04**|**Background Noise Reduction of Attention Map for Weakly Supervised Semantic Segmentation**|Izumi Fujimori et.al.|[2404.03394](http://arxiv.org/abs/2404.03394)|null|
+|**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191](http://arxiv.org/abs/2404.03191)|null|
 |**2024-04-03**|**GPU-Accelerated RSF Level Set Evolution for Large-Scale Microvascular Segmentation**|Meher Niger et.al.|[2404.02813](http://arxiv.org/abs/2404.02813)|null|
 |**2024-04-03**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668](http://arxiv.org/abs/2404.02668)|**[link](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)**|
 |**2024-04-03**|**A Satellite Band Selection Framework for Amazon Forest Deforestation Detection Task**|Eduardo Neto et.al.|[2404.02659](http://arxiv.org/abs/2404.02659)|null|
@@ -3714,6 +3741,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539](http://arxiv.org/abs/2404.03539)|**[link](https://github.com/lorebianchi98/fg-clip)**|
+|**2024-04-04**|**DQ-DETR: DETR with Dynamic Query for Tiny Object Detection**|Yi-Xin Huang et.al.|[2404.03507](http://arxiv.org/abs/2404.03507)|null|
+|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493](http://arxiv.org/abs/2404.03493)|null|
+|**2024-04-04**|**MonoCD: Monocular 3D Object Detection with Complementary Depths**|Longfei Yan et.al.|[2404.03181](http://arxiv.org/abs/2404.03181)|**[link](https://github.com/elvintanhust/monocd)**|
+|**2024-04-03**|**DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection**|Felix Fent et.al.|[2404.03015](http://arxiv.org/abs/2404.03015)|null|
 |**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
 |**2024-04-03**|**FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**|Safouane El Ghazouali et.al.|[2404.02877](http://arxiv.org/abs/2404.02877)|null|
 |**2024-04-03**|**HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras**|Zhongyu Xia et.al.|[2404.02517](http://arxiv.org/abs/2404.02517)|**[link](https://github.com/vdigpku/henet)**|
