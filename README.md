@@ -485,6 +485,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|null|
 |**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875](http://arxiv.org/abs/2404.04875)|null|
 |**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126](http://arxiv.org/abs/2404.03126)|null|
 |**2024-03-29**|**InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds**|Zhiwen Fan et.al.|[2403.20309](http://arxiv.org/abs/2403.20309)|null|
@@ -664,7 +665,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-11**|**Semantically-correlated memories in a dense associative model**|Thomas F Burns et.al.|[2404.07123](http://arxiv.org/abs/2404.07123)|null|
+|**2024-04-11**|**PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**|Fei Xue et.al.|[2404.07785](http://arxiv.org/abs/2404.07785)|null|
+|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/abs/2404.07644)|null|
+|**2024-04-11**|**Semantically-correlated memories in a dense associative model**|Thomas F Burns et.al.|[2404.07123](http://arxiv.org/abs/2404.07123)|**[link](https://github.com/tfburns/cdam)**|
 |**2024-04-09**|**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**|Luca Barsellotti et.al.|[2404.06542](http://arxiv.org/abs/2404.06542)|null|
 |**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277](http://arxiv.org/abs/2404.06277)|null|
 |**2024-04-07**|**Weakly Supervised Deep Hyperspherical Quantization for Image Retrieval**|Jinpeng Wang et.al.|[2404.04998](http://arxiv.org/abs/2404.04998)|**[link](https://github.com/gimpong/AAAI21-WSDHQ)**|
@@ -1837,6 +1840,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993](http://arxiv.org/abs/2404.07993)|null|
+|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|null|
+|**2024-04-11**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/abs/2404.07762)|**[link](https://github.com/wljungbergh/neuroncap)**|
+|**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474](http://arxiv.org/abs/2404.07474)|null|
 |**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832](http://arxiv.org/abs/2404.06832)|**[link](https://github.com/m-kruse98/splatpose)**|
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/abs/2404.06753)|null|
 |**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727](http://arxiv.org/abs/2404.06727)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
@@ -2798,6 +2805,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2404.07990](http://arxiv.org/abs/2404.07990)|null|
+|**2024-04-11**|**Manipulating Large Language Models to Increase Product Visibility**|Aounon Kumar et.al.|[2404.07981](http://arxiv.org/abs/2404.07981)|**[link](https://github.com/aounon/llm-rank-optimizer)**|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|null|
+|**2024-04-11**|**Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models**|Haotian Zhang et.al.|[2404.07973](http://arxiv.org/abs/2404.07973)|null|
+|**2024-04-11**|**Leveraging Large Language Models (LLMs) to Support Collaborative Human-AI Online Risk Data Annotation**|Jinkyung Park et.al.|[2404.07926](http://arxiv.org/abs/2404.07926)|null|
+|**2024-04-11**|**LaVy: Vietnamese Multimodal Large Language Model**|Chi Tran et.al.|[2404.07922](http://arxiv.org/abs/2404.07922)|null|
+|**2024-04-11**|**AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs**|Zeyi Liao et.al.|[2404.07921](http://arxiv.org/abs/2404.07921)|**[link](https://github.com/osu-nlp-group/amplegcg)**|
+|**2024-04-11**|**DesignQA: A Multimodal Benchmark for Evaluating Large Language Models' Understanding of Engineering Documentation**|Anna C. Doris et.al.|[2404.07917](http://arxiv.org/abs/2404.07917)|**[link](https://github.com/anniedoris/design_qa)**|
+|**2024-04-11**|**High-Dimension Human Value Representation in Large Language Models**|Samuel Cahyawijaya et.al.|[2404.07900](http://arxiv.org/abs/2404.07900)|null|
+|**2024-04-11**|**Guiding Large Language Models to Post-Edit Machine Translation with Error Annotations**|Dayeon Ki et.al.|[2404.07851](http://arxiv.org/abs/2404.07851)|**[link](https://github.com/dayeonki/mt_feedback)**|
 |**2024-04-10**|**UMBRAE: Unified Multimodal Decoding of Brain Signals**|Weihao Xia et.al.|[2404.07202](http://arxiv.org/abs/2404.07202)|null|
 |**2024-04-10**|**Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention**|Tsendsuren Munkhdalai et.al.|[2404.07143](http://arxiv.org/abs/2404.07143)|null|
 |**2024-04-10**|**Continuous Language Model Interpolation for Dynamic and Controllable Text Generation**|Sara Kangaslahti et.al.|[2404.07117](http://arxiv.org/abs/2404.07117)|null|
@@ -3211,6 +3228,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**High-Dimension Human Value Representation in Large Language Models**|Samuel Cahyawijaya et.al.|[2404.07900](http://arxiv.org/abs/2404.07900)|null|
+|**2024-04-11**|**Data-Driven System Identification of Quadrotors Subject to Motor Delays**|Jonas Eschmann et.al.|[2404.07837](http://arxiv.org/abs/2404.07837)|null|
+|**2024-04-11**|**On the Sample Efficiency of Abstractions and Potential-Based Reward Shaping in Reinforcement Learning**|Giuseppe Canonaco et.al.|[2404.07826](http://arxiv.org/abs/2404.07826)|null|
+|**2024-04-11**|**An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization**|Minshuo Chen et.al.|[2404.07771](http://arxiv.org/abs/2404.07771)|null|
+|**2024-04-11**|**Differentially Private Reinforcement Learning with Self-Play**|Dan Qiao et.al.|[2404.07559](http://arxiv.org/abs/2404.07559)|null|
+|**2024-04-11**|**Enhancing Policy Gradient with the Polyak Step-Size Adaption**|Yunxiang Li et.al.|[2404.07525](http://arxiv.org/abs/2404.07525)|null|
+|**2024-04-11**|**Generative Probabilistic Planning for Optimizing Supply Chain Networks**|Hyung-il Ahn et.al.|[2404.07511](http://arxiv.org/abs/2404.07511)|null|
+|**2024-04-11**|**Neural Fault Injection: Generating Software Faults from Natural Language**|Domenico Cotroneo et.al.|[2404.07491](http://arxiv.org/abs/2404.07491)|null|
+|**2024-04-11**|**Leveraging Domain-Unlabeled Data in Offline Reinforcement Learning across Two Domains**|Soichiro Nishimori et.al.|[2404.07465](http://arxiv.org/abs/2404.07465)|null|
+|**2024-04-11**|**UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning**|Saichao Liu et.al.|[2404.07453](http://arxiv.org/abs/2404.07453)|null|
 |**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
 |**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150](http://arxiv.org/abs/2404.07150)|null|
 |**2024-04-10**|**How Consistent are Clinicians? Evaluating the Predictability of Sepsis Disease Progression with Dynamics Models**|Unnseo Park et.al.|[2404.07148](http://arxiv.org/abs/2404.07148)|null|
@@ -3616,6 +3643,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Exploiting Object-based and Segmentation-based Semantic Features for Deep Learning-based Indoor Scene Classification**|Ricardo Pereira et.al.|[2404.07739](http://arxiv.org/abs/2404.07739)|null|
+|**2024-04-11**|**OpenTrench3D: A Photogrammetric 3D Point Cloud Dataset for Semantic Segmentation of Underground Utilities**|Lasse H. Hansen et.al.|[2404.07711](http://arxiv.org/abs/2404.07711)|null|
+|**2024-04-11**|**ViM-UNet: Vision Mamba for Biomedical Segmentation**|Anwai Archit et.al.|[2404.07705](http://arxiv.org/abs/2404.07705)|**[link](https://github.com/constantinpape/torch-em)**|
+|**2024-04-11**|**Implicit and Explicit Language Guidance for Diffusion-based Visual Perception**|Hefeng Wang et.al.|[2404.07600](http://arxiv.org/abs/2404.07600)|null|
+|**2024-04-11**|**Improving Shift Invariance in Convolutional Neural Networks with Translation Invariant Polyphase Sampling**|Sourajit Saha et.al.|[2404.07410](http://arxiv.org/abs/2404.07410)|null|
+|**2024-04-10**|**AI-Guided Defect Detection Techniques to Model Single Crystal Diamond Growth**|Rohan Reddy Mekala et.al.|[2404.07306](http://arxiv.org/abs/2404.07306)|null|
 |**2024-04-10**|**RESSCAL3D: Resolution Scalable 3D Semantic Segmentation of Point Clouds**|Remco Royen et.al.|[2404.06863](http://arxiv.org/abs/2404.06863)|null|
 |**2024-04-10**|**O2V-Mapping: Online Open-Vocabulary Mapping with Neural Implicit Representation**|Muer Tie et.al.|[2404.06836](http://arxiv.org/abs/2404.06836)|null|
 |**2024-04-10**|**Convolution-based Probability Gradient Loss for Semantic Segmentation**|Guohang Shan et.al.|[2404.06704](http://arxiv.org/abs/2404.06704)|null|
@@ -3870,6 +3903,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**ConsistencyDet: Robust Object Detector with Denoising Paradigm of Consistency Model**|Lifan Jiang et.al.|[2404.07773](http://arxiv.org/abs/2404.07773)|null|
+|**2024-04-11**|**Exploiting Object-based and Segmentation-based Semantic Features for Deep Learning-based Indoor Scene Classification**|Ricardo Pereira et.al.|[2404.07739](http://arxiv.org/abs/2404.07739)|null|
+|**2024-04-11**|**Run-time Monitoring of 3D Object Detection in Automated Driving Systems Using Early Layer Neural Activation Patterns**|Hakan Yekta Yatbaz et.al.|[2404.07685](http://arxiv.org/abs/2404.07685)|null|
+|**2024-04-11**|**Finding Dino: A plug-and-play framework for unsupervised detection of out-of-distribution objects using prototypes**|Poulami Sinhamahapatra et.al.|[2404.07664](http://arxiv.org/abs/2404.07664)|null|
+|**2024-04-11**|**Separated Attention: An Improved Cycle GAN Based Under Water Image Enhancement Method**|Tashmoy Ghosh et.al.|[2404.07649](http://arxiv.org/abs/2404.07649)|null|
+|**2024-04-11**|**GLID: Pre-training a Generalist Encoder-Decoder Vision Model**|Jihao Liu et.al.|[2404.07603](http://arxiv.org/abs/2404.07603)|null|
+|**2024-04-11**|**SFSORT: Scene Features-based Simple Online Real-Time Tracker**|M. M. Morsali et.al.|[2404.07553](http://arxiv.org/abs/2404.07553)|**[link](https://github.com/gitmehrdad/sfsort)**|
+|**2024-04-11**|**The Sydney Radio Star Catalogue: properties of radio stars at megahertz to gigahertz frequencies**|Laura N. Driessen et.al.|[2404.07418](http://arxiv.org/abs/2404.07418)|null|
+|**2024-04-11**|**Simplifying Two-Stage Detectors for On-Device Inference in Remote Sensing**|Jaemin Kang et.al.|[2404.07405](http://arxiv.org/abs/2404.07405)|null|
+|**2024-04-11**|**A fine-tuning workflow for automatic first-break picking with deep learning**|Amir Mardan et.al.|[2404.07400](http://arxiv.org/abs/2404.07400)|null|
 |**2024-04-10**|**Identification of Fine-grained Systematic Errors via Controlled Scene Generation**|Valentyn Boreiko et.al.|[2404.07045](http://arxiv.org/abs/2404.07045)|null|
 |**2024-04-10**|**Accurate Tennis Court Line Detection on Amateur Recorded Matches**|Sameer Agrawal et.al.|[2404.06977](http://arxiv.org/abs/2404.06977)|null|
 |**2024-04-10**|**Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data**|Aakash Kumar et.al.|[2404.06715](http://arxiv.org/abs/2404.06715)|null|
