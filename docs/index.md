@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -474,7 +474,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-17**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590](http://arxiv.org/abs/2404.11590)|null|
-|**2024-04-17**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358](http://arxiv.org/abs/2404.11358)|null|
+|**2024-04-18**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358](http://arxiv.org/abs/2404.11358)|null|
 |**2024-04-15**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748](http://arxiv.org/abs/2404.09748)|null|
 |**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252](http://arxiv.org/abs/2404.08252)|null|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|**[link](https://github.com/keonhee-han/KDBTS)**|
@@ -657,7 +657,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|null|
 |**2024-04-17**|**Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing**|Sanggeon Yun et.al.|[2404.11025](http://arxiv.org/abs/2404.11025)|null|
-|**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527](http://arxiv.org/abs/2404.10527)|null|
+|**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527](http://arxiv.org/abs/2404.10527)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
 |**2024-04-16**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640](http://arxiv.org/abs/2404.09640)|**[link](https://github.com/JethroJames/CREST)**|
 |**2024-04-11**|**PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**|Fei Xue et.al.|[2404.07785](http://arxiv.org/abs/2404.07785)|null|
 |**2024-04-16**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/abs/2404.07644)|**[link](https://github.com/littledang/2dliw-slam)**|
@@ -2817,7 +2817,7 @@ layout: default
 |**2024-04-17**|**Embedding Privacy in Computational Social Science and Artificial Intelligence Research**|Keenan Jones et.al.|[2404.11515](http://arxiv.org/abs/2404.11515)|null|
 |**2024-04-17**|**Towards Coarse-to-Fine Evaluation of Inference Efficiency for Large Language Models**|Yushuo Chen et.al.|[2404.11502](http://arxiv.org/abs/2404.11502)|**[link](https://github.com/rucaibox/coarse-to-fine-evaluation-of-inference-efficiency)**|
 |**2024-04-17**|**Paraphrase and Solve: Exploring and Exploiting the Impact of Surface Form on Mathematical Reasoning in Large Language Models**|Yue Zhou et.al.|[2404.11500](http://arxiv.org/abs/2404.11500)|**[link](https://github.com/yue-llm-pit/scop)**|
-|**2024-04-17**|**Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent**|Wei Chen et.al.|[2404.11459](http://arxiv.org/abs/2404.11459)|null|
+|**2024-04-18**|**Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent**|Wei Chen et.al.|[2404.11459](http://arxiv.org/abs/2404.11459)|null|
 |**2024-04-17**|**Unifying Bias and Unfairness in Information Retrieval: A Survey of Challenges and Opportunities with Large Language Models**|Sunhao Dai et.al.|[2404.11457](http://arxiv.org/abs/2404.11457)|**[link](https://github.com/kid-22/llm-ir-bias-fairness-survey)**|
 |**2024-04-16**|**Nearly Optimal Algorithms for Contextual Dueling Bandits from Adversarial Feedback**|Qiwei Di et.al.|[2404.10776](http://arxiv.org/abs/2404.10776)|null|
 |**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|null|
@@ -3277,7 +3277,7 @@ layout: default
 |**2024-04-17**|**VC Theory for Inventory Policies**|Yaqi Xie et.al.|[2404.11509](http://arxiv.org/abs/2404.11509)|null|
 |**2024-04-17**|**Learn to Tour: Operator Design For Solution Feasibility Mapping in Pickup-and-delivery Traveling Salesman Problem**|Bowen Fang et.al.|[2404.11458](http://arxiv.org/abs/2404.11458)|null|
 |**2024-04-17**|**What-if Analysis Framework for Digital Twins in 6G Wireless Network Management**|Elif Ak et.al.|[2404.11394](http://arxiv.org/abs/2404.11394)|null|
-|**2024-04-17**|**Convergence of Policy Gradient for Stochastic Linear-Quadratic Control Problem in Infinite Horizon**|Xinpei Zhang et.al.|[2404.11382](http://arxiv.org/abs/2404.11382)|null|
+|**2024-04-18**|**Convergence of Policy Gradient for Stochastic Linear-Quadratic Control Problem in Infinite Horizon**|Xinpei Zhang et.al.|[2404.11382](http://arxiv.org/abs/2404.11382)|null|
 |**2024-04-17**|**Following the Human Thread in Social Navigation**|Luca Scofano et.al.|[2404.11327](http://arxiv.org/abs/2404.11327)|**[link](https://github.com/l-scofano/sda)**|
 |**2024-04-17**|**On Learning Parities with Dependent Noise**|Noah Golowich et.al.|[2404.11325](http://arxiv.org/abs/2404.11325)|null|
 |**2024-04-17**|**Physics-informed Actor-Critic for Coordination of Virtual Inertia from Power Distribution Systems**|Simon Stock et.al.|[2404.11149](http://arxiv.org/abs/2404.11149)|null|
@@ -3732,8 +3732,8 @@ layout: default
 |**2024-04-16**|**A Concise Tiling Strategy for Preserving Spatial Context in Earth Observation Imagery**|Ellianna Abrahams et.al.|[2404.10927](http://arxiv.org/abs/2404.10927)|**[link](https://github.com/elliesch/flipnslide)**|
 |**2024-04-16**|**Vocabulary-free Image Classification and Semantic Segmentation**|Alessandro Conti et.al.|[2404.10864](http://arxiv.org/abs/2404.10864)|**[link](https://github.com/altndrr/vicss)**|
 |**2024-04-16**|**Gasformer: A Transformer-based Architecture for Segmenting Methane Emissions from Livestock in Optical Gas Imaging**|Toqi Tahamid Sarker et.al.|[2404.10841](http://arxiv.org/abs/2404.10841)|**[link](https://github.com/toqitahamid/gasformer)**|
-|**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760](http://arxiv.org/abs/2404.10760)|null|
-|**2024-04-16**|**ECLAIR: A High-Fidelity Aerial LiDAR Dataset for Semantic Segmentation**|Iaroslav Melekhov et.al.|[2404.10699](http://arxiv.org/abs/2404.10699)|null|
+|**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760](http://arxiv.org/abs/2404.10760)|**[link](https://github.com/zhangzjn/ader)**|
+|**2024-04-16**|**ECLAIR: A High-Fidelity Aerial LiDAR Dataset for Semantic Segmentation**|Iaroslav Melekhov et.al.|[2404.10699](http://arxiv.org/abs/2404.10699)|**[link](https://github.com/sharpershape/eclair-dataset)**|
 |**2024-04-16**|**Contextrast: Contextual Contrastive Learning for Semantic Segmentation**|Changki Sung et.al.|[2404.10633](http://arxiv.org/abs/2404.10633)|null|
 |**2024-04-16**|**Label merge-and-split: A graph-colouring approach for memory-efficient brain parcellation**|Aaron Kujawa et.al.|[2404.10572](http://arxiv.org/abs/2404.10572)|null|
 |**2024-04-16**|**LAECIPS: Large Vision Model Assisted Adaptive Edge-Cloud Collaboration for IoT-based Perception System**|Shijing Hu et.al.|[2404.10498](http://arxiv.org/abs/2404.10498)|null|
@@ -4023,7 +4023,7 @@ layout: default
 |**2024-04-17**|**How to deal with glare for improved perception of Autonomous Vehicles**|Muhammad Z. Alam et.al.|[2404.10992](http://arxiv.org/abs/2404.10992)|null|
 |**2024-04-17**|**Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**|Nawfal Guefrachi et.al.|[2404.10978](http://arxiv.org/abs/2404.10978)|null|
 |**2024-04-16**|**OSR-ViT: A Simple and Modular Framework for Open-Set Object Detection and Discovery**|Matthew Inkawhich et.al.|[2404.10865](http://arxiv.org/abs/2404.10865)|null|
-|**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760](http://arxiv.org/abs/2404.10760)|null|
+|**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760](http://arxiv.org/abs/2404.10760)|**[link](https://github.com/zhangzjn/ader)**|
 |**2024-04-16**|**Watch Your Step: Optimal Retrieval for Continual Learning at Scale**|Truman Hickok et.al.|[2404.10758](http://arxiv.org/abs/2404.10758)|null|
 |**2024-04-16**|**Camera clustering for scalable stream-based active distillation**|Dani Manjah et.al.|[2404.10411](http://arxiv.org/abs/2404.10411)|null|
 |**2024-04-15**|**Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Lens Datasets**|Dai Quoc Tran et.al.|[2404.10078](http://arxiv.org/abs/2404.10078)|**[link](https://github.com/daitranskku/aic2024-track4-team15)**|
