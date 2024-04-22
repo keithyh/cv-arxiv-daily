@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.21
+## Updated on 2024.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3293,7 +3293,7 @@ layout: default
 |**2024-04-18**|**ASID: Active Exploration for System Identification in Robotic Manipulation**|Marius Memmel et.al.|[2404.12308](http://arxiv.org/abs/2404.12308)|null|
 |**2024-04-18**|**Privacy-Preserving UCB Decision Process Verification via zk-SNARKs**|Xikun Jiang et.al.|[2404.12186](http://arxiv.org/abs/2404.12186)|null|
 |**2024-04-18**|**Aligning language models with human preferences**|Tomasz Korbak et.al.|[2404.12150](http://arxiv.org/abs/2404.12150)|**[link](https://github.com/tomekkorbak/pretraining-with-human-feedback)**|
-|**2024-04-18**|**Robust and Adaptive Deep Reinforcement Learning for Enhancing Flow Control around a Square Cylinder with Varying Reynolds Numbers**|Wang Jia et.al.|[2404.12123](http://arxiv.org/abs/2404.12123)|null|
+|**2024-04-19**|**Robust and Adaptive Deep Reinforcement Learning for Enhancing Flow Control around a Square Cylinder with Varying Reynolds Numbers**|Wang Jia et.al.|[2404.12123](http://arxiv.org/abs/2404.12123)|null|
 |**2024-04-18**|**X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner**|Haoyuan Jiang et.al.|[2404.12090](http://arxiv.org/abs/2404.12090)|**[link](https://github.com/anonymousid-submission/x-light)**|
 |**2024-04-18**|**Trajectory Planning for Autonomous Vehicle Using Iterative Reward Prediction in Reinforcement Learning**|Hyunwoo Park et.al.|[2404.12079](http://arxiv.org/abs/2404.12079)|null|
 |**2024-04-18**|**Exploring the landscape of large language models: Foundations, techniques, and challenges**|Milad Moradi et.al.|[2404.11973](http://arxiv.org/abs/2404.11973)|null|
