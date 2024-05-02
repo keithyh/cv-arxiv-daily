@@ -678,6 +678,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval**|Young Kyun Jang et.al.|[2405.00571](http://arxiv.org/abs/2405.00571)|null|
 |**2024-04-30**|**Large Language Model Informed Patent Image Retrieval**|Hao-Cheng Lo et.al.|[2404.19360](http://arxiv.org/abs/2404.19360)|null|
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
 |**2024-04-29**|**Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**|Hongyi Zhu et.al.|[2404.18746](http://arxiv.org/abs/2404.18746)|null|
@@ -1887,6 +1888,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630](http://arxiv.org/abs/2405.00630)|null|
+|**2024-05-01**|**NeRF-Guided Unsupervised Learning of RGB-D Registration**|Zhinan Yu et.al.|[2405.00507](http://arxiv.org/abs/2405.00507)|null|
 |**2024-05-01**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
 |**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204](http://arxiv.org/abs/2404.19204)|null|
 |**2024-04-29**|**SAGS: Structure-Aware 3D Gaussian Splatting**|Evangelos Ververas et.al.|[2404.19149](http://arxiv.org/abs/2404.19149)|null|
@@ -2891,6 +2894,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model Editing with Llama-3**|Junsang Yoon et.al.|[2405.00664](http://arxiv.org/abs/2405.00664)|null|
+|**2024-05-01**|**HalluVault: A Novel Logic Programming-aided Metamorphic Testing Framework for Detecting Fact-Conflicting Hallucinations in Large Language Models**|Ningke Li et.al.|[2405.00648](http://arxiv.org/abs/2405.00648)|null|
+|**2024-05-01**|**When Quantization Affects Confidence of Large Language Models?**|Irina Proskurina et.al.|[2405.00632](http://arxiv.org/abs/2405.00632)|null|
+|**2024-05-01**|**"I'm Not Sure, But...": Examining the Impact of Large Language Models' Uncertainty Expression on User Reliance and Trust**|Sunnie S. Y. Kim et.al.|[2405.00623](http://arxiv.org/abs/2405.00623)|null|
+|**2024-05-01**|**Addressing Topic Granularity and Hallucination in Large Language Models for Topic Modelling**|Yida Mu et.al.|[2405.00611](http://arxiv.org/abs/2405.00611)|null|
+|**2024-05-01**|**Investigating Automatic Scoring and Feedback using Large Language Models**|Gloria Ashiya Katuka et.al.|[2405.00602](http://arxiv.org/abs/2405.00602)|null|
+|**2024-05-01**|**Are Models Biased on Text without Gender-related Language?**|Catarina G Belém et.al.|[2405.00588](http://arxiv.org/abs/2405.00588)|**[link](https://github.com/ucinlp/unstereo-eval)**|
+|**2024-05-01**|**The Real, the Better: Aligning Large Language Models with Online Human Behaviors**|Guanying Jiang et.al.|[2405.00578](http://arxiv.org/abs/2405.00578)|null|
+|**2024-05-01**|**EALD-MLLM: Emotion Analysis in Long-sequential and De-identity videos with Multi-modal Large Language Model**|Deng Li et.al.|[2405.00574](http://arxiv.org/abs/2405.00574)|null|
+|**2024-05-01**|**NumLLM: Numeric-Sensitive Large Language Model for Chinese Finance**|Huan-Yi Su et.al.|[2405.00566](http://arxiv.org/abs/2405.00566)|null|
 |**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752](http://arxiv.org/abs/2404.19752)|null|
 |**2024-04-30**|**PrivComp-KG : Leveraging Knowledge Graph and Large Language Models for Privacy Policy Compliance Verification**|Leon Garza et.al.|[2404.19744](http://arxiv.org/abs/2404.19744)|null|
 |**2024-04-30**|**Better & Faster Large Language Models via Multi-token Prediction**|Fabian Gloeckle et.al.|[2404.19737](http://arxiv.org/abs/2404.19737)|null|
@@ -3446,6 +3459,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Self-Play Preference Optimization for Language Model Alignment**|Yue Wu et.al.|[2405.00675](http://arxiv.org/abs/2405.00675)|null|
+|**2024-05-01**|**No Representation, No Trust: Connecting Representation, Collapse, and Trust Issues in PPO**|Skander Moalla et.al.|[2405.00662](http://arxiv.org/abs/2405.00662)|**[link](https://github.com/claire-labo/no-representation-no-trust)**|
+|**2024-05-01**|**HUGO -- Highlighting Unseen Grid Options: Combining Deep Reinforcement Learning with a Heuristic Target Topology Approach**|Malte Lehna et.al.|[2405.00629](http://arxiv.org/abs/2405.00629)|null|
+|**2024-05-01**|**Koopman-based Deep Learning for Nonlinear System Estimation**|Zexin Sun et.al.|[2405.00627](http://arxiv.org/abs/2405.00627)|null|
+|**2024-05-01**|**Queue-based Eco-Driving at Roundabouts with Reinforcement Learning**|Anna-Lena Schlamp et.al.|[2405.00625](http://arxiv.org/abs/2405.00625)|null|
+|**2024-05-01**|**The Real, the Better: Aligning Large Language Models with Online Human Behaviors**|Guanying Jiang et.al.|[2405.00578](http://arxiv.org/abs/2405.00578)|null|
+|**2024-05-01**|**Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Self-Alignment**|Zhili Liu et.al.|[2405.00557](http://arxiv.org/abs/2405.00557)|null|
+|**2024-05-01**|**Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning**|Lucas-Andreï Thil et.al.|[2405.00516](http://arxiv.org/abs/2405.00516)|null|
+|**2024-05-01**|**MetaRM: Shifted Distributions Alignment via Meta-Learning**|Shihan Dou et.al.|[2405.00438](http://arxiv.org/abs/2405.00438)|null|
+|**2024-05-01**|**UCB-driven Utility Function Search for Multi-objective Reinforcement Learning**|Yucheng Shi et.al.|[2405.00410](http://arxiv.org/abs/2405.00410)|**[link](https://github.com/sycamore-1/ucb-moppo)**|
 |**2024-04-30**|**Collaborative Control Method of Transit Signal Priority Based on Cooperative Game and Reinforcement Learning**|Hao Qin et.al.|[2404.19683](http://arxiv.org/abs/2404.19683)|null|
 |**2024-04-30**|**Towards Generalist Robot Learning from Internet Video: A Survey**|Robert McCarthy et.al.|[2404.19664](http://arxiv.org/abs/2404.19664)|null|
 |**2024-04-30**|**Short term vs. long term: optimization of microswimmer navigation on different time horizons**|Navid Mousavi et.al.|[2404.19561](http://arxiv.org/abs/2404.19561)|null|
@@ -3988,6 +4011,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis**|Huy H. Nguyen et.al.|[2405.00355](http://arxiv.org/abs/2405.00355)|null|
 |**2024-04-30**|**Masked Multi-Query Slot Attention for Unsupervised Object Discovery**|Rishav Pramanik et.al.|[2404.19654](http://arxiv.org/abs/2404.19654)|**[link](https://github.com/rishavpramanik/maskedmultiqueryslot)**|
 |**2024-04-30**|**UniFS: Universal Few-shot Instance Perception with Point Representations**|Sheng Jin et.al.|[2404.19401](http://arxiv.org/abs/2404.19401)|null|
 |**2024-04-30**|**DELINE8K: A Synthetic Data Pipeline for the Semantic Segmentation of Historical Documents**|Taylor Archibald et.al.|[2404.19259](http://arxiv.org/abs/2404.19259)|null|
@@ -4331,6 +4355,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Object detection under the linear subspace model with application to cryo-EM images**|Amitay Eldar et.al.|[2405.00364](http://arxiv.org/abs/2405.00364)|null|
 |**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752](http://arxiv.org/abs/2404.19752)|null|
 |**2024-04-30**|**Quantifying Nematodes through Images: Datasets, Models, and Baselines of Deep Learning**|Zhipeng Yuan et.al.|[2404.19748](http://arxiv.org/abs/2404.19748)|null|
 |**2024-04-30**|**Masked Multi-Query Slot Attention for Unsupervised Object Discovery**|Rishav Pramanik et.al.|[2404.19654](http://arxiv.org/abs/2404.19654)|**[link](https://github.com/rishavpramanik/maskedmultiqueryslot)**|
