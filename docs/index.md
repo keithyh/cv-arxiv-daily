@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.05
+## Updated on 2024.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3450,7 +3450,7 @@ layout: default
 |**2024-05-02**|**NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment**|Gerald Shen et.al.|[2405.01481](http://arxiv.org/abs/2405.01481)|**[link](https://github.com/nvidia/nemo-aligner)**|
 |**2024-05-02**|**Goal-conditioned reinforcement learning for ultrasound navigation guidance**|Abdoul Aziz Amadou et.al.|[2405.01409](http://arxiv.org/abs/2405.01409)|null|
 |**2024-05-02**|**Learning Force Control for Legged Manipulation**|Tifanny Portela et.al.|[2405.01402](http://arxiv.org/abs/2405.01402)|null|
-|**2024-05-02**|**Constrained Reinforcement Learning Under Model Mismatch**|Zhongchang Sun et.al.|[2405.01327](http://arxiv.org/abs/2405.01327)|null|
+|**2024-05-03**|**Constrained Reinforcement Learning Under Model Mismatch**|Zhongchang Sun et.al.|[2405.01327](http://arxiv.org/abs/2405.01327)|null|
 |**2024-05-02**|**Non-iterative Optimization of Trajectory and Radio Resource for Aerial Network**|Hyeonsu Lyu et.al.|[2405.01314](http://arxiv.org/abs/2405.01314)|null|
 |**2024-05-02**|**Behavior Imitation for Manipulator Control and Grasping with Deep Reinforcement Learning**|Liu Qiyuan et.al.|[2405.01284](http://arxiv.org/abs/2405.01284)|null|
 |**2024-05-02**|**Reinforcement Learning for Edit-Based Non-Autoregressive Neural Machine Translation**|Hao Wang et.al.|[2405.01280](http://arxiv.org/abs/2405.01280)|null|
