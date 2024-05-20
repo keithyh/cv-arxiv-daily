@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.19
+## Updated on 2024.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3599,7 +3599,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-16**|**Stochastic Q-learning for Large Discrete Action Spaces**|Fares Fourati et.al.|[2405.10310](http://arxiv.org/abs/2405.10310)|null|
-|**2024-05-16**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
+|**2024-05-17**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
 |**2024-05-16**|**Keep It Private: Unsupervised Privatization of Online Text**|Calvin Bao et.al.|[2405.10260](http://arxiv.org/abs/2405.10260)|**[link](https://github.com/csbao/kip-privatization)**|
 |**2024-05-16**|**A Design Trajectory Map of Human-AI Collaborative Reinforcement Learning Systems: Survey and Taxonomy**|Zhaoxing Li et.al.|[2405.10214](http://arxiv.org/abs/2405.10214)|null|
 |**2024-05-16**|**Continuous Transfer Learning for UAV Communication-aware Trajectory Design**|Chenrui Sun et.al.|[2405.10087](http://arxiv.org/abs/2405.10087)|null|
