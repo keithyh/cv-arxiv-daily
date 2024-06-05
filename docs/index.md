@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.04
+## Updated on 2024.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4506,7 +4506,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-31**|**Uncertainty Quantification for Bird's Eye View Semantic Segmentation: Methods and Benchmarks**|Linlin Yu et.al.|[2405.20986](http://arxiv.org/abs/2405.20986)|null|
-|**2024-05-31**|**Extreme Point Supervised Instance Segmentation**|Hyeonjun Lee et.al.|[2405.20729](http://arxiv.org/abs/2405.20729)|null|
+|**2024-06-04**|**Extreme Point Supervised Instance Segmentation**|Hyeonjun Lee et.al.|[2405.20729](http://arxiv.org/abs/2405.20729)|null|
 |**2024-05-31**|**Revisiting and Maximizing Temporal Knowledge in Semi-supervised Semantic Segmentation**|Wooseok Shin et.al.|[2405.20610](http://arxiv.org/abs/2405.20610)|**[link](https://github.com/wooseok-shin/PrevMatch)**|
 |**2024-05-30**|**P-MSDiff: Parallel Multi-Scale Diffusion for Remote Sensing Image Segmentation**|Qi Zhang et.al.|[2405.20443](http://arxiv.org/abs/2405.20443)|null|
 |**2024-05-30**|**SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow**|Chaoyang Wang et.al.|[2405.20282](http://arxiv.org/abs/2405.20282)|**[link](https://github.com/wang-chaoyang/semflow)**|
