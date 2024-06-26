@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5425,7 +5425,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-24**|**Exploring Test-Time Adaptation for Object Detection in Continually Changing Environments**|Shilei Cao et.al.|[2406.16439](http://arxiv.org/abs/2406.16439)|null|
+|**2024-06-25**|**Exploring Test-Time Adaptation for Object Detection in Continually Changing Environments**|Shilei Cao et.al.|[2406.16439](http://arxiv.org/abs/2406.16439)|null|
 |**2024-06-23**|**Review of Zero-Shot and Few-Shot AI Algorithms in The Medical Domain**|Maged Badawi et.al.|[2406.16143](http://arxiv.org/abs/2406.16143)|null|
 |**2024-06-22**|**Smart Feature is What You Need**|Zhaoxin Hu et.al.|[2406.15805](http://arxiv.org/abs/2406.15805)|**[link](https://github.com/hzx-9894/mma)**|
 |**2024-06-22**|**MR-MLLM: Mutual Reinforcement of Multimodal Comprehension and Vision Perception**|Guanqun Wang et.al.|[2406.15768](http://arxiv.org/abs/2406.15768)|null|
