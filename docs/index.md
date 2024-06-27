@@ -488,6 +488,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li et.al.|[2406.18198](http://arxiv.org/abs/2406.18198)|null|
 |**2024-06-25**|**Consensus Learning with Deep Sets for Essential Matrix Estimation**|Dror Moran et.al.|[2406.17414](http://arxiv.org/abs/2406.17414)|null|
 |**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289](http://arxiv.org/abs/2406.16289)|null|
 |**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515](http://arxiv.org/abs/2406.13515)|null|
@@ -687,6 +688,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012](http://arxiv.org/abs/2406.18012)|null|
 |**2024-06-25**|**Tell Me Where You Are: Multimodal LLMs Meet Place Recognition**|Zonglin Lyu et.al.|[2406.17520](http://arxiv.org/abs/2406.17520)|null|
 |**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
 |**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|null|
@@ -3104,6 +3106,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532](http://arxiv.org/abs/2406.18532)|**[link](https://github.com/aiwaves-cn/agents)**|
+|**2024-06-26**|**PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation**|Christoph Leiter et.al.|[2406.18528](http://arxiv.org/abs/2406.18528)|null|
+|**2024-06-26**|**CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**|Zirui Wang et.al.|[2406.18521](http://arxiv.org/abs/2406.18521)|null|
+|**2024-06-26**|**"Is ChatGPT a Better Explainer than My Professor?": Evaluating the Explanation Capabilities of LLMs in Conversation Compared to a Human Baseline**|Grace Li et.al.|[2406.18512](http://arxiv.org/abs/2406.18512)|null|
+|**2024-06-26**|**Mental Modeling of Reinforcement Learning Agents by Language Models**|Wenhao Lu et.al.|[2406.18505](http://arxiv.org/abs/2406.18505)|null|
+|**2024-06-26**|**Is In-Context Learning a Type of Gradient-Based Learning? Evidence from the Inverse Frequency Effect in Structural Priming**|Zhenghao Zhou et.al.|[2406.18501](http://arxiv.org/abs/2406.18501)|null|
+|**2024-06-26**|**Role-Play Zero-Shot Prompting with Large Language Models for Open-Domain Human-Machine Conversation**|Ahmed Njifenjou et.al.|[2406.18460](http://arxiv.org/abs/2406.18460)|null|
+|**2024-06-26**|**Cascading Large Language Models for Salient Event Graph Generation**|Xingwei Tan et.al.|[2406.18449](http://arxiv.org/abs/2406.18449)|null|
+|**2024-06-26**|**New intelligent empowerment for digital transformation**|Peng Yifeng et.al.|[2406.18440](http://arxiv.org/abs/2406.18440)|null|
+|**2024-06-26**|**IRCAN: Mitigating Knowledge Conflicts in LLM Generation via Identifying and Reweighting Context-Aware Neurons**|Dan Shi et.al.|[2406.18406](http://arxiv.org/abs/2406.18406)|null|
 |**2024-06-25**|**MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning**|Xiangyu Zhao et.al.|[2406.17770](http://arxiv.org/abs/2406.17770)|**[link](https://github.com/phoenixz810/mg-llava)**|
 |**2024-06-25**|**BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning**|Ercong Nie et.al.|[2406.17764](http://arxiv.org/abs/2406.17764)|null|
 |**2024-06-25**|**CaLMQA: Exploring culturally specific long-form question answering across 23 languages**|Shane Arora et.al.|[2406.17761](http://arxiv.org/abs/2406.17761)|**[link](https://github.com/2015aroras/calmqa)**|
@@ -4027,6 +4039,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Confident Natural Policy Gradient for Local Planning in $q_π$ -realizable Constrained MDPs**|Tian Tian et.al.|[2406.18529](http://arxiv.org/abs/2406.18529)|null|
+|**2024-06-26**|**Mental Modeling of Reinforcement Learning Agents by Language Models**|Wenhao Lu et.al.|[2406.18505](http://arxiv.org/abs/2406.18505)|null|
+|**2024-06-26**|**Preference Elicitation for Offline Reinforcement Learning**|Alizée Pace et.al.|[2406.18450](http://arxiv.org/abs/2406.18450)|null|
+|**2024-06-26**|**Mixture of Experts in a Mixture of RL settings**|Timon Willi et.al.|[2406.18420](http://arxiv.org/abs/2406.18420)|null|
+|**2024-06-26**|**AlphaForge: A Framework to Mine and Dynamically Combine Formulaic Alpha Factors**|Hao Shi et.al.|[2406.18394](http://arxiv.org/abs/2406.18394)|null|
+|**2024-06-26**|**Reinforcement Learning with Intrinsically Motivated Feedback Graph for Lost-sales Inventory Control**|Zifan Liu et.al.|[2406.18351](http://arxiv.org/abs/2406.18351)|null|
+|**2024-06-26**|**AI Alignment through Reinforcement Learning from Human Feedback? Contradictions and Limitations**|Adam Dahlgren Lindström et.al.|[2406.18346](http://arxiv.org/abs/2406.18346)|null|
+|**2024-06-26**|**Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution**|Wenting Chen et.al.|[2406.18310](http://arxiv.org/abs/2406.18310)|**[link](https://github.com/cuhk-aim-group/star-rl)**|
+|**2024-06-26**|**Combining Automated Optimisation of Hyperparameters and Reward Shape**|Julian Dierkes et.al.|[2406.18293](http://arxiv.org/abs/2406.18293)|**[link](https://github.com/ada-research/combined_hpo_and_reward_shaping)**|
+|**2024-06-26**|**Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems**|Italo Luis da Silva et.al.|[2406.18245](http://arxiv.org/abs/2406.18245)|**[link](https://github.com/oyarsa/event_extraction)**|
 |**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768](http://arxiv.org/abs/2406.17768)|null|
 |**2024-06-25**|**When does Self-Prediction help? Understanding Auxiliary Tasks in Reinforcement Learning**|Claas Voelcker et.al.|[2406.17718](http://arxiv.org/abs/2406.17718)|null|
 |**2024-06-25**|**Privacy Preserving Reinforcement Learning for Population Processes**|Samuel Yang-Zhao et.al.|[2406.17649](http://arxiv.org/abs/2406.17649)|null|
@@ -4925,6 +4947,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**CAS: Confidence Assessments of classification algorithms for Semantic segmentation of EO data**|Nikolaos Dionelis et.al.|[2406.18279](http://arxiv.org/abs/2406.18279)|null|
+|**2024-06-26**|**CoDA: Interactive Segmentation and Morphological Analysis of Dendroid Structures Exemplified on Stony Cold-Water Corals**|Kira Schmitt et.al.|[2406.18236](http://arxiv.org/abs/2406.18236)|null|
+|**2024-06-26**|**The Surprising Effectiveness of Multimodal Large Language Models for Video Moment Retrieval**|Meinardus Boris et.al.|[2406.18113](http://arxiv.org/abs/2406.18113)|**[link](https://github.com/sudo-Boris/mr-Blip)**|
+|**2024-06-26**|**Few-Shot Medical Image Segmentation with High-Fidelity Prototypes**|Song Tang et.al.|[2406.18074](http://arxiv.org/abs/2406.18074)|null|
+|**2024-06-25**|**Semi-supervised classification of dental conditions in panoramic radiographs using large language model and instance segmentation: A real-world dataset evaluation**|Bernardo Silva et.al.|[2406.17915](http://arxiv.org/abs/2406.17915)|null|
 |**2024-06-25**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679](http://arxiv.org/abs/2406.17679)|null|
 |**2024-06-25**|**DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation**|Ahmad Mohammadshirazi et.al.|[2406.17591](http://arxiv.org/abs/2406.17591)|**[link](https://github.com/ahmad-shirazi/docparsenet)**|
 |**2024-06-25**|**Principal Component Clustering for Semantic Segmentation in Synthetic Data Generation**|Felix Stillger et.al.|[2406.17541](http://arxiv.org/abs/2406.17541)|null|
@@ -5460,6 +5487,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Unveiling the Unknown: Conditional Evidence Decoupling for Unknown Rejection**|Zhaowei Wu et.al.|[2406.18443](http://arxiv.org/abs/2406.18443)|**[link](https://github.com/zjzwzw/ced-food)**|
+|**2024-06-26**|**CTS: Sim-to-Real Unsupervised Domain Adaptation on 3D Detection**|Meiying Zhang et.al.|[2406.18129](http://arxiv.org/abs/2406.18129)|null|
+|**2024-06-26**|**The Surprising Effectiveness of Multimodal Large Language Models for Video Moment Retrieval**|Meinardus Boris et.al.|[2406.18113](http://arxiv.org/abs/2406.18113)|**[link](https://github.com/sudo-Boris/mr-Blip)**|
+|**2024-06-25**|**ET tu, CLIP? Addressing Common Object Errors for Unseen Environments**|Ye Won Byun et.al.|[2406.17876](http://arxiv.org/abs/2406.17876)|null|
 |**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[2406.17654](http://arxiv.org/abs/2406.17654)|null|
 |**2024-06-25**|**Embedded event based object detection with spiking neural network**|Jonathan Courtois et.al.|[2406.17617](http://arxiv.org/abs/2406.17617)|null|
 |**2024-06-25**|**Towards Open-set Camera 3D Object Detection**|Zhuolin He et.al.|[2406.17297](http://arxiv.org/abs/2406.17297)|null|
