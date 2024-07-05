@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.04
+## Updated on 2024.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4104,7 +4104,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311](http://arxiv.org/abs/2407.03311)|null|
+|**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311](http://arxiv.org/abs/2407.03311)|**[link](https://github.com/utiasSTARS/vpace)**|
 |**2024-07-03**|**A Review of the Applications of Deep Learning-Based Emergent Communication**|Brendon Boldt et.al.|[2407.03302](http://arxiv.org/abs/2407.03302)|null|
 |**2024-07-03**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280](http://arxiv.org/abs/2407.03280)|null|
 |**2024-07-03**|**Policy-guided Monte Carlo on general state spaces: Application to glass-forming mixtures**|Leonardo Galliano et.al.|[2407.03275](http://arxiv.org/abs/2407.03275)|null|
