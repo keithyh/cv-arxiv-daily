@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|null|
+|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|**[link](https://github.com/zju-fast-lab/active-relative-localization)**|
 |**2024-07-07**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019](http://arxiv.org/abs/2406.11019)|null|
 |**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|**[link](https://github.com/swami1995/v2v)**|
@@ -696,11 +696,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
-|**2024-07-08**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
+|**2024-07-09**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
 |**2024-07-05**|**Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning**|Mainak Singha et.al.|[2407.04207](http://arxiv.org/abs/2407.04207)|null|
-|**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|null|
+|**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|**[link](https://github.com/MiuLab/VisualDialog)**|
 |**2024-07-03**|**Celeb-FBI: A Benchmark Dataset on Human Full Body Images and Age, Gender, Height and Weight Estimation using Deep Learning Approach**|Pronay Debnath et.al.|[2407.03486](http://arxiv.org/abs/2407.03486)|null|
-|**2024-07-02**|**Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**|Sergio Izquierdo et.al.|[2407.02422](http://arxiv.org/abs/2407.02422)|null|
+|**2024-07-02**|**Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**|Sergio Izquierdo et.al.|[2407.02422](http://arxiv.org/abs/2407.02422)|**[link](https://github.com/serizba/cliquemining)**|
 |**2024-07-01**|**Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval**|Aneeshan Sain et.al.|[2407.01810](http://arxiv.org/abs/2407.01810)|null|
 |**2024-07-01**|**Cross-Modal Attention Alignment Network with Auxiliary Text Description for zero-shot sketch-based image retrieval**|Hanwen Su et.al.|[2407.00979](http://arxiv.org/abs/2407.00979)|null|
 |**2024-07-01**|**Dynamically Modulating Visual Place Recognition Sequence Length For Minimum Acceptable Performance Scenarios**|Connor Malone et.al.|[2407.00863](http://arxiv.org/abs/2407.00863)|null|
@@ -1522,8 +1522,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|null|
-|**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|null|
+|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|**[link](https://github.com/Mercerai/PFGS)**|
+|**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|**[link](https://github.com/tsuiky/3drn)**|
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-06-28**|**Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**|Chengrui Gao et.al.|[2406.19672](http://arxiv.org/abs/2406.19672)|null|
 |**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
@@ -1764,7 +1764,7 @@ layout: default
 |**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|**[link](https://github.com/google-research/omniglue)**|
-|**2024-05-14**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
+|**2024-07-09**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
 |**2024-05-13**|**Authentic Hand Avatar from a Phone Scan via Universal Hand Model**|Gyeongsik Moon et.al.|[2405.07933](http://arxiv.org/abs/2405.07933)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
@@ -3148,13 +3148,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|null|
+|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|**[link](https://github.com/orrzohar/Video-STaR)**|
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
 |**2024-07-08**|**On Speeding Up Language Model Evaluation**|Jin Peng Zhou et.al.|[2407.06172](http://arxiv.org/abs/2407.06172)|null|
 |**2024-07-08**|**What's Wrong with Your Code Generated by Large Language Models? An Extensive Study**|Shihan Dou et.al.|[2407.06153](http://arxiv.org/abs/2407.06153)|null|
-|**2024-07-08**|**Using Grammar Masking to Ensure Syntactic Validity in LLM-based Modeling Tasks**|Lukas Netz et.al.|[2407.06146](http://arxiv.org/abs/2407.06146)|null|
+|**2024-07-09**|**Using Grammar Masking to Ensure Syntactic Validity in LLM-based Modeling Tasks**|Lukas Netz et.al.|[2407.06146](http://arxiv.org/abs/2407.06146)|null|
 |**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135](http://arxiv.org/abs/2407.06135)|**[link](https://github.com/gair-nlp/anole)**|
-|**2024-07-08**|**Evaluating the Semantic Profiling Abilities of LLMs for Natural Language Utterances in Data Visualization**|Hannah K. Bako et.al.|[2407.06129](http://arxiv.org/abs/2407.06129)|null|
+|**2024-07-08**|**Evaluating the Semantic Profiling Abilities of LLMs for Natural Language Utterances in Data Visualization**|Hannah K. Bako et.al.|[2407.06129](http://arxiv.org/abs/2407.06129)|**[link](https://github.com/hdi-umd/semantic_profiling_llm_evaluation)**|
 |**2024-07-08**|**Depression Detection and Analysis using Large Language Models on Textual and Audio-Visual Modalities**|Avinash Anand et.al.|[2407.06125](http://arxiv.org/abs/2407.06125)|null|
 |**2024-07-08**|**Artificial Intuition: Efficient Classification of Scientific Abstracts**|Harsh Sakhrani et.al.|[2407.06093](http://arxiv.org/abs/2407.06093)|null|
 |**2024-07-08**|**Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models**|Jinliang Lu et.al.|[2407.06089](http://arxiv.org/abs/2407.06089)|null|
@@ -5108,7 +5108,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077](http://arxiv.org/abs/2407.06077)|null|
 |**2024-07-08**|**Test-time adaptation for geospatial point cloud semantic segmentation with distinct domain shifts**|Puzuo Wang et.al.|[2407.06043](http://arxiv.org/abs/2407.06043)|null|
-|**2024-07-08**|**RHRSegNet: Relighting High-Resolution Night-Time Semantic Segmentation**|Sarah Elmahdy et.al.|[2407.06016](http://arxiv.org/abs/2407.06016)|null|
+|**2024-07-08**|**RHRSegNet: Relighting High-Resolution Night-Time Semantic Segmentation**|Sarah Elmahdy et.al.|[2407.06016](http://arxiv.org/abs/2407.06016)|**[link](https://github.com/SarahELMAHDY03/RHRSegNet)**|
 |**2024-07-07**|**Semantic Segmentation for Real-World and Synthetic Vehicle's Forward-Facing Camera Images**|Tuan T. Nguyen et.al.|[2407.05452](http://arxiv.org/abs/2407.05452)|null|
 |**2024-07-07**|**Self-supervised Learning via Cluster Distance Prediction for Operating Room Context Awareness**|Idris Hamoud et.al.|[2407.05448](http://arxiv.org/abs/2407.05448)|null|
 |**2024-07-06**|**A Study of Test-time Contrastive Concepts for Open-world, Open-vocabulary Semantic Segmentation**|Monika Wysoczańska et.al.|[2407.05061](http://arxiv.org/abs/2407.05061)|null|
@@ -5688,7 +5688,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-08**|**Multi-clue Consistency Learning to Bridge Gaps Between General and Oriented Object in Semi-supervised Detection**|Chenxu Wang et.al.|[2407.05909](http://arxiv.org/abs/2407.05909)|null|
+|**2024-07-08**|**Multi-clue Consistency Learning to Bridge Gaps Between General and Oriented Object in Semi-supervised Detection**|Chenxu Wang et.al.|[2407.05909](http://arxiv.org/abs/2407.05909)|**[link](https://github.com/facias914/sood-mcl)**|
 |**2024-07-08**|**Boosting 3D Object Detection with Semantic-Aware Multi-Branch Framework**|Hao Jing et.al.|[2407.05769](http://arxiv.org/abs/2407.05769)|null|
 |**2024-07-08**|**Short-term Object Interaction Anticipation with Disentangled Object Detection @ Ego4D Short Term Object Interaction Anticipation Challenge**|Hyunjin Cho et.al.|[2407.05713](http://arxiv.org/abs/2407.05713)|**[link](https://github.com/keenyjin/soia-dod)**|
 |**2024-07-08**|**Weakly Supervised Test-Time Domain Adaptation for Object Detection**|Anh-Dzung Doan et.al.|[2407.05607](http://arxiv.org/abs/2407.05607)|null|
@@ -5696,7 +5696,7 @@ layout: default
 |**2024-07-08**|**GMC: A General Framework of Multi-stage Context Learning and Utilization for Visual Detection Tasks**|Xuan Wang et.al.|[2407.05566](http://arxiv.org/abs/2407.05566)|null|
 |**2024-07-07**|**CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs**|Akshat Ramachandran et.al.|[2407.05266](http://arxiv.org/abs/2407.05266)|**[link](https://github.com/georgia-tech-synergy-lab/clamp-vit)**|
 |**2024-07-07**|**Unlocking Textual and Visual Wisdom: Open-Vocabulary 3D Object Detection Enhanced by Comprehensive Guidance from Text and Image**|Pengkun Jiao et.al.|[2407.05256](http://arxiv.org/abs/2407.05256)|null|
-|**2024-07-06**|**SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention**|Yunzhong Si et.al.|[2407.05128](http://arxiv.org/abs/2407.05128)|**[link](https://github.com/HZAI-ZJNU/SCSA)**|
+|**2024-07-06**|**SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention**|Yunzhong Si et.al.|[2407.05128](http://arxiv.org/abs/2407.05128)|null|
 |**2024-07-06**|**Quantizing YOLOv7: A Comprehensive Study**|Mohammadamin Baghbanbashi et.al.|[2407.04943](http://arxiv.org/abs/2407.04943)|null|
 |**2024-07-05**|**SH17: A Dataset for Human Safety and Personal Protective Equipment Detection in Manufacturing Industry**|Hafiz Mughees Ahmad et.al.|[2407.04590](http://arxiv.org/abs/2407.04590)|**[link](https://github.com/ahmadmughees/sh17dataset)**|
 |**2024-07-05**|**Multi-Branch Auxiliary Fusion YOLO with Re-parameterization Heterogeneous Convolutional for accurate object detection**|Zhiqiang Yang et.al.|[2407.04381](http://arxiv.org/abs/2407.04381)|**[link](https://github.com/yang-0201/MAF-YOLO)**|
