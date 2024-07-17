@@ -700,6 +700,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
+|**2024-07-16**|**EndoFinder: Online Image Retrieval for Explainable Colorectal Polyp Diagnosis**|Ruijie Yang et.al.|[2407.11401](http://arxiv.org/abs/2407.11401)|null|
 |**2024-07-15**|**No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**|Walter Simoncini et.al.|[2407.10964](http://arxiv.org/abs/2407.10964)|**[link](https://github.com/waltersimoncini/fungivision)**|
 |**2024-07-15**|**DINO Pre-training for Vision-based End-to-end Autonomous Driving**|Shubham Juneja et.al.|[2407.10803](http://arxiv.org/abs/2407.10803)|null|
 |**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
@@ -1773,6 +1775,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
+|**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637](http://arxiv.org/abs/2407.11637)|null|
+|**2024-07-16**|**A Self-Correcting Strategy of the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckles Quality and Complex-Large Deformation**|Chengsheng Li et.al.|[2407.11287](http://arxiv.org/abs/2407.11287)|null|
 |**2024-07-14**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789](http://arxiv.org/abs/2407.07789)|null|
 |**2024-07-10**|**Mutual Information calculation on different appearances**|Jiecheng Liao et.al.|[2407.07410](http://arxiv.org/abs/2407.07410)|null|
 |**2024-07-15**|**SfM on-the-fly: Get better 3D from What You Capture**|Zongqian Zhan et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
@@ -2016,6 +2021,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962](http://arxiv.org/abs/2407.11962)|null|
+|**2024-07-16**|**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**|Wenxiang Jiang et.al.|[2407.11921](http://arxiv.org/abs/2407.11921)|null|
+|**2024-07-16**|**DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation**|Jiwook Kim et.al.|[2407.11394](http://arxiv.org/abs/2407.11394)|**[link](https://github.com/kaist-cvml-lab/DreamCatalyst)**|
+|**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238](http://arxiv.org/abs/2407.11238)|null|
 |**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865](http://arxiv.org/abs/2407.10865)|null|
 |**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762](http://arxiv.org/abs/2407.10762)|null|
 |**2024-07-15**|**IE-NeRF: Inpainting Enhanced Neural Radiance Fields in the Wild**|Shuaixian Wang et.al.|[2407.10695](http://arxiv.org/abs/2407.10695)|null|
@@ -3188,6 +3197,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**UrbanWorld: An Urban World Model for 3D City Generation**|Yu Shang et.al.|[2407.11965](http://arxiv.org/abs/2407.11965)|null|
+|**2024-07-16**|**NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?**|Mo Li et.al.|[2407.11963](http://arxiv.org/abs/2407.11963)|**[link](https://github.com/open-compass/opencompass)**|
+|**2024-07-16**|**Code Documentation and Analysis to Secure Software Development**|Paul Attie et.al.|[2407.11934](http://arxiv.org/abs/2407.11934)|null|
+|**2024-07-16**|**What's Wrong? Refining Meeting Summaries with LLM Feedback**|Frederic Kirstein et.al.|[2407.11919](http://arxiv.org/abs/2407.11919)|null|
+|**2024-07-16**|**Ascend-CC: Confidential Computing on Heterogeneous NPU for Emerging Generative AI Workloads**|Aritra Dhar et.al.|[2407.11888](http://arxiv.org/abs/2407.11888)|null|
+|**2024-07-16**|**Schema Matching with Large Language Models: an Experimental Study**|Marcel Parciak et.al.|[2407.11852](http://arxiv.org/abs/2407.11852)|**[link](https://github.com/uhasselt-dsi-data-systems-lab/code-schema-matching-llms-artefacs)**|
+|**2024-07-16**|**LoFTI: Localization and Factuality Transfer to Indian Locales**|Sona Elza Simon et.al.|[2407.11833](http://arxiv.org/abs/2407.11833)|**[link](https://github.com/csalt-research/lofti)**|
+|**2024-07-16**|**GPT Assisted Annotation of Rhetorical and Linguistic Features for Interpretable Propaganda Technique Detection in News Text**|Kyle Hamilton et.al.|[2407.11827](http://arxiv.org/abs/2407.11827)|null|
+|**2024-07-16**|**PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation**|Branden Butler et.al.|[2407.11798](http://arxiv.org/abs/2407.11798)|null|
+|**2024-07-16**|**Large Language Models as Misleading Assistants in Conversation**|Betty Li Hou et.al.|[2407.11789](http://arxiv.org/abs/2407.11789)|null|
 |**2024-07-15**|**VGBench: Evaluating Large Language Models on Vector Graphics Understanding and Generation**|Bocheng Zou et.al.|[2407.10972](http://arxiv.org/abs/2407.10972)|**[link](https://github.com/vgbench/VGBench)**|
 |**2024-07-15**|**Q-Sparse: All Large Language Models can be Fully Sparsely-Activated**|Hongyu Wang et.al.|[2407.10969](http://arxiv.org/abs/2407.10969)|null|
 |**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|null|
@@ -4231,6 +4250,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Why long model-based rollouts are no reason for bad Q-value estimates**|Philipp Wissmann et.al.|[2407.11751](http://arxiv.org/abs/2407.11751)|null|
+|**2024-07-16**|**Pareto local search for a multi-objective demand response problem in residential areas with heat pumps and electric vehicles**|Thomas Dengiz et.al.|[2407.11719](http://arxiv.org/abs/2407.11719)|null|
+|**2024-07-16**|**A Comparative Analysis of Interactive Reinforcement Learning Algorithms in Warehouse Robot Grid Based Environment**|Arunabh Bora et.al.|[2407.11671](http://arxiv.org/abs/2407.11671)|null|
+|**2024-07-16**|**Exciting Action: Investigating Efficient Exploration for Learning Musculoskeletal Humanoid Locomotion**|Henri-Jacques Geiß et.al.|[2407.11658](http://arxiv.org/abs/2407.11658)|null|
+|**2024-07-16**|**Building Resilience in Wireless Communication Systems With a Secret-Key Budget**|Karl-Ludwig Besser et.al.|[2407.11604](http://arxiv.org/abs/2407.11604)|null|
+|**2024-07-16**|**Green Resource Allocation in Cloud-Native O-RAN Enabled Small Cell Networks**|Rana M. Sohaib et.al.|[2407.11563](http://arxiv.org/abs/2407.11563)|null|
+|**2024-07-16**|**RobotKeyframing: Learning Locomotion with High-Level Objectives via Mixture of Dense and Sparse Rewards**|Fatemeh Zargarbashi et.al.|[2407.11562](http://arxiv.org/abs/2407.11562)|null|
+|**2024-07-16**|**DRL-based Joint Resource Scheduling of eMBB and URLLC in O-RAN**|Rana M. Sohaib et.al.|[2407.11558](http://arxiv.org/abs/2407.11558)|null|
+|**2024-07-16**|**Reasoning with Large Language Models, a Survey**|Aske Plaat et.al.|[2407.11511](http://arxiv.org/abs/2407.11511)|null|
+|**2024-07-16**|**A Meta-Learning Approach for Multi-Objective Reinforcement Learning in Sustainable Home Environments**|Junlin Lu et.al.|[2407.11489](http://arxiv.org/abs/2407.11489)|null|
 |**2024-07-15**|**Walking the Values in Bayesian Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[2407.10971](http://arxiv.org/abs/2407.10971)|null|
 |**2024-07-15**|**BECAUSE: Bilinear Causal Representation for Generalizable Offline Model-based Reinforcement Learning**|Haohong Lin et.al.|[2407.10967](http://arxiv.org/abs/2407.10967)|null|
 |**2024-07-15**|**Hedging Beyond the Mean: A Distributional Reinforcement Learning Perspective for Hedging Portfolios with Structured Products**|Anil Sharma et.al.|[2407.10903](http://arxiv.org/abs/2407.10903)|null|
@@ -5246,6 +5275,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Mitigating Background Shift in Class-Incremental Semantic Segmentation**|Gilhan Park et.al.|[2407.11859](http://arxiv.org/abs/2407.11859)|**[link](https://github.com/roadonep/eccv2024_mbs)**|
+|**2024-07-16**|**Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation**|Juncheng Ma et.al.|[2407.11820](http://arxiv.org/abs/2407.11820)|null|
+|**2024-07-16**|**XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**|Truong Thanh Hung Nguyen et.al.|[2407.11771](http://arxiv.org/abs/2407.11771)|null|
+|**2024-07-16**|**OAM-TCD: A globally diverse dataset of high-resolution tree cover maps**|Josh Veitch-Michaelis et.al.|[2407.11743](http://arxiv.org/abs/2407.11743)|null|
+|**2024-07-16**|**SFPNet: Sparse Focal Point Network for Semantic Segmentation on General LiDAR Point Clouds**|Yanbo Wang et.al.|[2407.11569](http://arxiv.org/abs/2407.11569)|**[link](https://github.com/Cavendish518/SFPNet)**|
+|**2024-07-16**|**SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation**|Lei Yao et.al.|[2407.11564](http://arxiv.org/abs/2407.11564)|null|
+|**2024-07-16**|**Crowd-SAM: SAM as a Smart Annotator for Object Detection in Crowded Scenes**|Zhi Cai et.al.|[2407.11464](http://arxiv.org/abs/2407.11464)|**[link](https://github.com/felixcaae/crowdsam)**|
+|**2024-07-16**|**Leveraging Segment Anything Model in Identifying Buildings within Refugee Camps (SAM4Refugee) from Satellite Imagery for Humanitarian Operations**|Yunya Gao et.al.|[2407.11381](http://arxiv.org/abs/2407.11381)|**[link](https://github.com/yunyagaotree/sam-adapter-for-refugee-dwelling-extraction)**|
+|**2024-07-16**|**Generative AI Driven Task-Oriented Adaptive Semantic Communications**|Yuzhou Fu et.al.|[2407.11354](http://arxiv.org/abs/2407.11354)|null|
+|**2024-07-16**|**Learning Modality-agnostic Representation for Semantic Segmentation from Any Modalities**|Xu Zheng et.al.|[2407.11351](http://arxiv.org/abs/2407.11351)|null|
 |**2024-07-15**|**No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**|Walter Simoncini et.al.|[2407.10964](http://arxiv.org/abs/2407.10964)|**[link](https://github.com/waltersimoncini/fungivision)**|
 |**2024-07-15**|**APC: Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649](http://arxiv.org/abs/2407.10649)|null|
 |**2024-07-15**|**Automated Label Unification for Multi-Dataset Semantic Segmentation with GNNs**|Rong Ma et.al.|[2407.10534](http://arxiv.org/abs/2407.10534)|null|
@@ -5866,6 +5905,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**A Case for Application-Aware Space Radiation Tolerance in Orbital Computing**|Meiqi Wang et.al.|[2407.11853](http://arxiv.org/abs/2407.11853)|null|
+|**2024-07-16**|**Improving Unsupervised Video Object Segmentation via Fake Flow Generation**|Suhwan Cho et.al.|[2407.11714](http://arxiv.org/abs/2407.11714)|**[link](https://github.com/suhwan-cho/FakeFlow)**|
+|**2024-07-16**|**Relation DETR: Exploring Explicit Position Relation Prior for Object Detection**|Xiuquan Hou et.al.|[2407.11699](http://arxiv.org/abs/2407.11699)|**[link](https://github.com/xiuqhou/relation-detr)**|
+|**2024-07-16**|**Bridge Past and Future: Overcoming Information Asymmetry in Incremental Object Detection**|Qijie Mo et.al.|[2407.11499](http://arxiv.org/abs/2407.11499)|null|
+|**2024-07-16**|**Crowd-SAM: SAM as a Smart Annotator for Object Detection in Crowded Scenes**|Zhi Cai et.al.|[2407.11464](http://arxiv.org/abs/2407.11464)|**[link](https://github.com/felixcaae/crowdsam)**|
+|**2024-07-16**|**Generative AI Driven Task-Oriented Adaptive Semantic Communications**|Yuzhou Fu et.al.|[2407.11354](http://arxiv.org/abs/2407.11354)|null|
+|**2024-07-16**|**LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction**|Penghui Du et.al.|[2407.11335](http://arxiv.org/abs/2407.11335)|null|
+|**2024-07-16**|**TCFormer: Visual Recognition via Token Clustering Transformer**|Wang Zeng et.al.|[2407.11321](http://arxiv.org/abs/2407.11321)|**[link](https://github.com/zengwang430521/tcformer)**|
+|**2024-07-16**|**PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer**|Pierre-David Letourneau et.al.|[2407.11306](http://arxiv.org/abs/2407.11306)|null|
+|**2024-07-15**|**OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models**|Zijian Zhou et.al.|[2407.11213](http://arxiv.org/abs/2407.11213)|null|
 |**2024-07-15**|**Interpreting Hand gestures using Object Detection and Digits Classification**|Sangeetha K et.al.|[2407.10902](http://arxiv.org/abs/2407.10902)|null|
 |**2024-07-15**|**RepVF: A Unified Vector Fields Representation for Multi-task 3D Perception**|Chunliang Li et.al.|[2407.10876](http://arxiv.org/abs/2407.10876)|**[link](https://github.com/jbji/repvf)**|
 |**2024-07-15**|**OPEN: Object-wise Position Embedding for Multi-view 3D Object Detection**|Jinghua Hou et.al.|[2407.10753](http://arxiv.org/abs/2407.10753)|null|
