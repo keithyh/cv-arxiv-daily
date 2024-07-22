@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4288,7 +4288,7 @@ layout: default
 |**2024-07-18**|**Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**|Masatoshi Uehara et.al.|[2407.13734](http://arxiv.org/abs/2407.13734)|null|
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
 |**2024-07-18**|**Misspecified $Q$ -Learning with Sparse Linear Function Approximation: Tight Bounds on Approximation Error**|Ally Yalei Du et.al.|[2407.13622](http://arxiv.org/abs/2407.13622)|null|
-|**2024-07-18**|**Hyp2Nav: Hyperbolic Planning and Curiosity for Crowd Navigation**|Alessandro Flaborea et.al.|[2407.13567](http://arxiv.org/abs/2407.13567)|null|
+|**2024-07-19**|**Hyp2Nav: Hyperbolic Planning and Curiosity for Crowd Navigation**|Guido Maria D'Amely di Melendugno et.al.|[2407.13567](http://arxiv.org/abs/2407.13567)|null|
 |**2024-07-18**|**Model-based Policy Optimization using Symbolic World Model**|Andrey Gorodetskiy et.al.|[2407.13518](http://arxiv.org/abs/2407.13518)|null|
 |**2024-07-18**|**Instance Selection for Dynamic Algorithm Configuration with Reinforcement Learning: Improving Generalization**|Carolin Benjamins et.al.|[2407.13513](http://arxiv.org/abs/2407.13513)|null|
 |**2024-07-18**|**LIMT: Language-Informed Multi-Task Visual World Models**|Elie Aljalbout et.al.|[2407.13466](http://arxiv.org/abs/2407.13466)|null|
