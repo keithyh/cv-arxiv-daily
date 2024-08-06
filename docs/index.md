@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654](http://arxiv.org/abs/2408.01654)|null|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
 |**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|**[link](https://github.com/uzh-rpg/rl_vo)**|
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170](http://arxiv.org/abs/2407.15170)|null|
@@ -494,6 +495,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Birational geometry of critical loci in Algebraic Vision**|Marina Bertolini et.al.|[2408.02067](http://arxiv.org/abs/2408.02067)|null|
+|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
 |**2024-08-02**|**Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris**|Kentaro Uno et.al.|[2408.01035](http://arxiv.org/abs/2408.01035)|null|
 |**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254](http://arxiv.org/abs/2408.00254)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219](http://arxiv.org/abs/2407.20219)|**[link](https://github.com/colmap/glomap)**|
@@ -710,6 +713,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
+|**2024-08-03**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](http://arxiv.org/abs/2408.01841)|null|
+|**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
 |**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
 |**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348](http://arxiv.org/abs/2407.21348)|null|
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
@@ -1804,6 +1810,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|null|
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812](http://arxiv.org/abs/2407.19812)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695](http://arxiv.org/abs/2407.18695)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
@@ -2053,8 +2060,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
+|**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878](http://arxiv.org/abs/2408.01878)|null|
+|**2024-08-03**|**E $^3$ NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840](http://arxiv.org/abs/2408.01840)|null|
 |**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251](http://arxiv.org/abs/2408.01251)|null|
-|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/abs/2408.00860)|null|
+|**2024-08-05**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/abs/2408.00860)|null|
 |**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150](http://arxiv.org/abs/2408.00150)|null|
 |**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
@@ -3254,6 +3264,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
+|**2024-08-05**|**SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models**|Muxi Diao et.al.|[2408.02632](http://arxiv.org/abs/2408.02632)|null|
+|**2024-08-05**|**Progressively Selective Label Enhancement for Language Model Alignment**|Biao Liu et.al.|[2408.02599](http://arxiv.org/abs/2408.02599)|null|
+|**2024-08-05**|**Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization**|Ankan Mullick et.al.|[2408.02584](http://arxiv.org/abs/2408.02584)|null|
+|**2024-08-05**|**Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**|Yauwai Yim et.al.|[2408.02559](http://arxiv.org/abs/2408.02559)|null|
+|**2024-08-05**|**Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning**|Hao Zhou et.al.|[2408.02549](http://arxiv.org/abs/2408.02549)|null|
+|**2024-08-05**|**RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation**|Daniel Fleischer et.al.|[2408.02545](http://arxiv.org/abs/2408.02545)|null|
+|**2024-08-05**|**Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions**|Xinbei Ma et.al.|[2408.02544](http://arxiv.org/abs/2408.02544)|null|
+|**2024-08-05**|**Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph**|Zhao Kaichen et.al.|[2408.02535](http://arxiv.org/abs/2408.02535)|null|
+|**2024-08-05**|**Practical Attacks against Black-box Code Completion Engines**|Slobodan Jenko et.al.|[2408.02509](http://arxiv.org/abs/2408.02509)|null|
 |**2024-08-02**|**Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting**|Xiangyu Zhao et.al.|[2408.01423](http://arxiv.org/abs/2408.01423)|null|
 |**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
 |**2024-08-02**|**DebateQA: Evaluating Question Answering on Debatable Knowledge**|Rongwu Xu et.al.|[2408.01419](http://arxiv.org/abs/2408.01419)|null|
@@ -4437,6 +4457,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion**|Ho Jae Lee et.al.|[2408.02662](http://arxiv.org/abs/2408.02662)|null|
+|**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
+|**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
+|**2024-08-05**|**Backward explanations via redefinition of predicates**|Léo Saulières et.al.|[2408.02606](http://arxiv.org/abs/2408.02606)|null|
+|**2024-08-05**|**Progressively Selective Label Enhancement for Language Model Alignment**|Biao Liu et.al.|[2408.02599](http://arxiv.org/abs/2408.02599)|null|
+|**2024-08-05**|**Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**|Yauwai Yim et.al.|[2408.02559](http://arxiv.org/abs/2408.02559)|null|
+|**2024-08-05**|**Counterfactual Shapley Values for Explaining Reinforcement Learning**|Yiwei Shi et.al.|[2408.02529](http://arxiv.org/abs/2408.02529)|null|
+|**2024-08-05**|**Fair Resource Allocation For Hierarchical Federated Edge Learning in Space-Air-Ground Integrated Networks via Deep Reinforcement Learning with Hybrid Control**|Chong Huang et.al.|[2408.02501](http://arxiv.org/abs/2408.02501)|null|
+|**2024-08-05**|**Full error analysis of policy gradient learning algorithms for exploratory linear quadratic mean-field control problem in continuous time with common noise**|Noufel Frikha et.al.|[2408.02489](http://arxiv.org/abs/2408.02489)|null|
+|**2024-08-05**|**Terracorder: Sense Long and Prosper**|Josh Millar et.al.|[2408.02407](http://arxiv.org/abs/2408.02407)|null|
 |**2024-08-02**|**Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer**|Yu Yang et.al.|[2408.01402](http://arxiv.org/abs/2408.01402)|null|
 |**2024-08-02**|**NOLO: Navigate Only Look Once**|Bohan Zhou et.al.|[2408.01384](http://arxiv.org/abs/2408.01384)|null|
 |**2024-08-02**|**Jacta: A Versatile Planner for Learning Dexterous and Whole-body Manipulation**|Jan Brüdigam et.al.|[2408.01258](http://arxiv.org/abs/2408.01258)|null|
@@ -5591,6 +5621,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Perception Matters: Enhancing Embodied AI with Uncertainty-Aware Semantic Segmentation**|Sai Prasanna et.al.|[2408.02297](http://arxiv.org/abs/2408.02297)|null|
+|**2024-08-05**|**Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs**|Jeongkee Lim et.al.|[2408.02261](http://arxiv.org/abs/2408.02261)|null|
+|**2024-08-05**|**Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**|Muhammad Abdullah Jamal et.al.|[2408.02245](http://arxiv.org/abs/2408.02245)|null|
+|**2024-08-04**|**Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised Semantic Segmentation**|Ye Du et.al.|[2408.02039](http://arxiv.org/abs/2408.02039)|null|
+|**2024-08-03**|**NuLite -- Lightweight and Fast Model for Nuclei Instance Segmentation and Classification**|Cristian Tommasino et.al.|[2408.01797](http://arxiv.org/abs/2408.01797)|null|
+|**2024-08-03**|**Bayesian Active Learning for Semantic Segmentation**|Sima Didari et.al.|[2408.01694](http://arxiv.org/abs/2408.01694)|null|
+|**2024-08-03**|**A Comparative Analysis of CNN-based Deep Learning Models for Landslide Detection**|Omkar Oak et.al.|[2408.01692](http://arxiv.org/abs/2408.01692)|null|
+|**2024-08-03**|**Leveraging GNSS and Onboard Visual Data from Consumer Vehicles for Robust Road Network Estimation**|Balázs Opra et.al.|[2408.01640](http://arxiv.org/abs/2408.01640)|null|
+|**2024-08-02**|**Multi-Unit Floor Plan Recognition and Reconstruction Using Improved Semantic Segmentation of Raster-Wise Floor Plans**|Lukas Kratochvila et.al.|[2408.01526](http://arxiv.org/abs/2408.01526)|null|
 |**2024-08-02**|**Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation**|Yuanzhi Su et.al.|[2408.01356](http://arxiv.org/abs/2408.01356)|null|
 |**2024-08-02**|**StitchFusion: Weaving Any Visual Modalities to Enhance Multimodal Semantic Segmentation**|Bingyu Li et.al.|[2408.01343](http://arxiv.org/abs/2408.01343)|null|
 |**2024-08-02**|**Amodal Segmentation for Laparoscopic Surgery Video Instruments**|Ruohua Shi et.al.|[2408.01067](http://arxiv.org/abs/2408.01067)|null|
@@ -6301,6 +6340,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**HQOD: Harmonious Quantization for Object Detection**|Long Huang et.al.|[2408.02561](http://arxiv.org/abs/2408.02561)|null|
+|**2024-08-05**|**Tensorial template matching for fast cross-correlation with rotations and its application for tomography**|Antonio Martinez-Sanchez et.al.|[2408.02398](http://arxiv.org/abs/2408.02398)|null|
+|**2024-08-05**|**AssemAI: Interpretable Image-Based Anomaly Detection for Manufacturing Pipelines**|Renjith Prasad et.al.|[2408.02181](http://arxiv.org/abs/2408.02181)|null|
+|**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/abs/2408.02088)|null|
+|**2024-08-04**|**A Survey and Evaluation of Adversarial Attacks for Object Detection**|Khoi Nguyen Tiet Nguyen et.al.|[2408.01934](http://arxiv.org/abs/2408.01934)|null|
+|**2024-08-04**|**CAF-YOLO: A Robust Framework for Multi-Scale Lesion Detection in Biomedical Imagery**|Zilin Chen et.al.|[2408.01897](http://arxiv.org/abs/2408.01897)|null|
+|**2024-08-03**|**Supervised Image Translation from Visible to Infrared Domain for Object Detection**|Prahlad Anand et.al.|[2408.01843](http://arxiv.org/abs/2408.01843)|null|
+|**2024-08-03**|**Domain penalisation for improved Out-of-Distribution Generalisation**|Shuvam Jena et.al.|[2408.01746](http://arxiv.org/abs/2408.01746)|null|
+|**2024-08-03**|**LAM3D: Leveraging Attention for Monocular 3D Object Detection**|Diana-Alexandra Sas et.al.|[2408.01739](http://arxiv.org/abs/2408.01739)|null|
 |**2024-08-02**|**A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**|Vito Mengers et.al.|[2408.01322](http://arxiv.org/abs/2408.01322)|null|
 |**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|null|
 |**2024-08-02**|**PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network**|Changqun Xia et.al.|[2408.01137](http://arxiv.org/abs/2408.01137)|null|
