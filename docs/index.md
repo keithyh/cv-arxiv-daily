@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4463,7 +4463,7 @@ layout: default
 |**2024-08-05**|**Backward explanations via redefinition of predicates**|Léo Saulières et.al.|[2408.02606](http://arxiv.org/abs/2408.02606)|null|
 |**2024-08-05**|**Progressively Selective Label Enhancement for Language Model Alignment**|Biao Liu et.al.|[2408.02599](http://arxiv.org/abs/2408.02599)|null|
 |**2024-08-05**|**Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**|Yauwai Yim et.al.|[2408.02559](http://arxiv.org/abs/2408.02559)|null|
-|**2024-08-05**|**Counterfactual Shapley Values for Explaining Reinforcement Learning**|Yiwei Shi et.al.|[2408.02529](http://arxiv.org/abs/2408.02529)|null|
+|**2024-08-06**|**Explaining Reinforcement Learning: A Counterfactual Shapley Values Approach**|Yiwei Shi et.al.|[2408.02529](http://arxiv.org/abs/2408.02529)|null|
 |**2024-08-05**|**Fair Resource Allocation For Hierarchical Federated Edge Learning in Space-Air-Ground Integrated Networks via Deep Reinforcement Learning with Hybrid Control**|Chong Huang et.al.|[2408.02501](http://arxiv.org/abs/2408.02501)|null|
 |**2024-08-05**|**Full error analysis of policy gradient learning algorithms for exploratory linear quadratic mean-field control problem in continuous time with common noise**|Noufel Frikha et.al.|[2408.02489](http://arxiv.org/abs/2408.02489)|null|
 |**2024-08-05**|**Terracorder: Sense Long and Prosper**|Josh Millar et.al.|[2408.02407](http://arxiv.org/abs/2408.02407)|null|
@@ -6344,7 +6344,7 @@ layout: default
 |**2024-08-05**|**Tensorial template matching for fast cross-correlation with rotations and its application for tomography**|Antonio Martinez-Sanchez et.al.|[2408.02398](http://arxiv.org/abs/2408.02398)|null|
 |**2024-08-05**|**AssemAI: Interpretable Image-Based Anomaly Detection for Manufacturing Pipelines**|Renjith Prasad et.al.|[2408.02181](http://arxiv.org/abs/2408.02181)|null|
 |**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/abs/2408.02088)|null|
-|**2024-08-04**|**A Survey and Evaluation of Adversarial Attacks for Object Detection**|Khoi Nguyen Tiet Nguyen et.al.|[2408.01934](http://arxiv.org/abs/2408.01934)|null|
+|**2024-08-06**|**A Survey and Evaluation of Adversarial Attacks for Object Detection**|Khoi Nguyen Tiet Nguyen et.al.|[2408.01934](http://arxiv.org/abs/2408.01934)|null|
 |**2024-08-04**|**CAF-YOLO: A Robust Framework for Multi-Scale Lesion Detection in Biomedical Imagery**|Zilin Chen et.al.|[2408.01897](http://arxiv.org/abs/2408.01897)|null|
 |**2024-08-03**|**Supervised Image Translation from Visible to Infrared Domain for Object Detection**|Prahlad Anand et.al.|[2408.01843](http://arxiv.org/abs/2408.01843)|null|
 |**2024-08-03**|**Domain penalisation for improved Out-of-Distribution Generalisation**|Shuvam Jena et.al.|[2408.01746](http://arxiv.org/abs/2408.01746)|null|
