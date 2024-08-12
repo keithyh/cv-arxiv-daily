@@ -1812,6 +1812,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
 |**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766](http://arxiv.org/abs/2408.02766)|null|
 |**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|null|
@@ -2064,6 +2065,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008](http://arxiv.org/abs/2408.05008)|null|
+|**2024-08-09**|**FewShotNeRF: Meta-Learning-based Novel View Synthesis for Rapid Scene-Specific Adaptation**|Piraveen Sivakumar et.al.|[2408.04803](http://arxiv.org/abs/2408.04803)|null|
 |**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|null|
 |**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/abs/2408.04426)|**[link](https://github.com/epsilon404/surgicalnerf)**|
 |**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou et.al.|[2408.04268](http://arxiv.org/abs/2408.04268)|null|
@@ -3275,6 +3278,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
+|**2024-08-09**|**VITA: Towards Open-Source Interactive Omni Multimodal LLM**|Chaoyou Fu et.al.|[2408.05211](http://arxiv.org/abs/2408.05211)|null|
+|**2024-08-09**|**Evaluating the capability of large language models to personalize science texts for diverse middle-school-age learners**|Michael Vaccaro Jr et.al.|[2408.05204](http://arxiv.org/abs/2408.05204)|null|
+|**2024-08-09**|**TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**|Yujie Feng et.al.|[2408.05200](http://arxiv.org/abs/2408.05200)|null|
+|**2024-08-09**|**AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset**|Pritam Deka et.al.|[2408.05149](http://arxiv.org/abs/2408.05149)|null|
+|**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141](http://arxiv.org/abs/2408.05141)|null|
+|**2024-08-09**|**Is ChatGPT a Good Software Librarian? An Exploratory Study on the Use of ChatGPT for Software Library Recommendations**|Jasmine Latendresse et.al.|[2408.05128](http://arxiv.org/abs/2408.05128)|null|
+|**2024-08-09**|**Large Language Models and Thematic Analysis: Human-AI Synergy in Researching Hate Speech on Social Media**|Petre Breazu et.al.|[2408.05126](http://arxiv.org/abs/2408.05126)|null|
+|**2024-08-09**|**Sportify: Question Answering with Embedded Visualizations and Personified Narratives for Sports Video**|Chunggi Lee et.al.|[2408.05123](http://arxiv.org/abs/2408.05123)|null|
+|**2024-08-09**|**A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?**|Xinyu Liu et.al.|[2408.05109](http://arxiv.org/abs/2408.05109)|null|
 |**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614](http://arxiv.org/abs/2408.04614)|null|
 |**2024-08-09**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
 |**2024-08-08**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
@@ -4498,6 +4511,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Deterministic remote entanglement using a chiral quantum interconnect**|Aziza Almanakly et.al.|[2408.05164](http://arxiv.org/abs/2408.05164)|null|
+|**2024-08-09**|**Kolmogorov-Arnold Network for Online Reinforcement Learning**|Victor Augusto Kich et.al.|[2408.04841](http://arxiv.org/abs/2408.04841)|null|
+|**2024-08-09**|**Multi-User MISO with Stacked Intelligent Metasurfaces: A DRL-Based Sum-Rate Optimization Approach**|Hao Liu et.al.|[2408.04837](http://arxiv.org/abs/2408.04837)|null|
+|**2024-08-09**|**Next-Generation Wi-Fi Networks with Generative AI: Design and Insights**|Jingyu Wang et.al.|[2408.04835](http://arxiv.org/abs/2408.04835)|null|
 |**2024-08-08**|**Learning Fair Cooperation in Mixed-Motive Games with Indirect Reciprocity**|Martin Smit et.al.|[2408.04549](http://arxiv.org/abs/2408.04549)|**[link](https://github.com/sias-uva/indirect-reciprocity)**|
 |**2024-08-08**|**Hybrid Reinforcement Learning Breaks Sample Size Barriers in Linear MDPs**|Kevin Tan et.al.|[2408.04526](http://arxiv.org/abs/2408.04526)|null|
 |**2024-08-08**|**Model-Based Transfer Learning for Contextual Reinforcement Learning**|Jung-Hoon Cho et.al.|[2408.04498](http://arxiv.org/abs/2408.04498)|null|
@@ -5692,6 +5709,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation**|Dahyun Kang et.al.|[2408.04961](http://arxiv.org/abs/2408.04961)|null|
+|**2024-08-09**|**ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**|Mengcheng Lan et.al.|[2408.04883](http://arxiv.org/abs/2408.04883)|**[link](https://github.com/mc-lan/proxyclip)**|
+|**2024-08-09**|**Extracting Signal Electron Trajectories in the COMET Phase-I Cylindrical Drift Chamber Using Deep Learning**|Fumihiro Kaneko et.al.|[2408.04795](http://arxiv.org/abs/2408.04795)|null|
+|**2024-08-08**|**Embodied Uncertainty-Aware Object Segmentation**|Xiaolin Fang et.al.|[2408.04760](http://arxiv.org/abs/2408.04760)|null|
 |**2024-08-08**|**SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation**|Jieming Yu et.al.|[2408.04593](http://arxiv.org/abs/2408.04593)|null|
 |**2024-08-08**|**Robust Approximate Characterization of Single-Cell Heterogeneity in Microbial Growth**|Richard D. Paul et.al.|[2408.04501](http://arxiv.org/abs/2408.04501)|**[link](https://jugit.fz-juelich.de/ias-8/multi-stage-growth)**|
 |**2024-08-08**|**SegXAL: Explainable Active Learning for Semantic Segmentation in Driving Scene Scenarios**|Sriram Mandalika et.al.|[2408.04482](http://arxiv.org/abs/2408.04482)|null|
@@ -6420,6 +6441,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[2408.05075](http://arxiv.org/abs/2408.05075)|**[link](https://github.com/fudan-zvg/deepinteraction)**|
+|**2024-08-09**|**RadarPillars: Efficient Object Detection from 4D Radar Point Clouds**|Alexander Musiat et.al.|[2408.05020](http://arxiv.org/abs/2408.05020)|null|
+|**2024-08-09**|**Hyper-YOLO: When Visual Object Detection Meets Hypergraph Computation**|Yifan Feng et.al.|[2408.04804](http://arxiv.org/abs/2408.04804)|**[link](https://github.com/imoonlab/hyper-yolo)**|
+|**2024-08-08**|**SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes**|Boshra Khalili et.al.|[2408.04786](http://arxiv.org/abs/2408.04786)|null|
+|**2024-08-08**|**Data-Driven Pixel Control: Challenges and Prospects**|Saurabh Farkya et.al.|[2408.04767](http://arxiv.org/abs/2408.04767)|null|
 |**2024-08-08**|**SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**|Tianrun Chen et.al.|[2408.04579](http://arxiv.org/abs/2408.04579)|null|
 |**2024-08-07**|**Impact Analysis of Data Drift Towards The Development of Safety-Critical Automotive System**|Md Shahi Amran Hossain et.al.|[2408.04476](http://arxiv.org/abs/2408.04476)|null|
 |**2024-08-08**|**Detecting Car Speed using Object Detection and Depth Estimation: A Deep Learning Framework**|Subhasis Dasgupta et.al.|[2408.04360](http://arxiv.org/abs/2408.04360)|null|
