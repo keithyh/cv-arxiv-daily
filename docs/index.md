@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.02
+## Updated on 2024.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6894,7 +6894,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[2408.17311](http://arxiv.org/abs/2408.17311)|null|
 |**2024-08-30**|**Hybrid Classification-Regression Adaptive Loss for Dense Object Detection**|Yanquan Huang et.al.|[2408.17182](http://arxiv.org/abs/2408.17182)|null|
-|**2024-08-30**|**UTrack: Multi-Object Tracking with Uncertain Detections**|Edgardo Solano-Carrillo et.al.|[2408.17098](http://arxiv.org/abs/2408.17098)|null|
+|**2024-08-30**|**UTrack: Multi-Object Tracking with Uncertain Detections**|Edgardo Solano-Carrillo et.al.|[2408.17098](http://arxiv.org/abs/2408.17098)|**[link](https://github.com/dlr-mi/utrack)**|
 |**2024-08-30**|**PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics**|Zhengru Fang et.al.|[2408.17047](http://arxiv.org/abs/2408.17047)|null|
 |**2024-08-30**|**CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection**|Xuejing Li et.al.|[2408.17036](http://arxiv.org/abs/2408.17036)|null|
 |**2024-08-30**|**MakeWay: Object-Aware Costmaps for Proactive Indoor Navigation Using LiDAR**|Binbin Xu et.al.|[2408.17034](http://arxiv.org/abs/2408.17034)|null|
