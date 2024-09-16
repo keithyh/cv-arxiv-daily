@@ -501,6 +501,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints**|Shan Chen et.al.|[2409.08613](http://arxiv.org/abs/2409.08613)|null|
 |**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
 |**2024-09-04**|**Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**|Luqing Luo et.al.|[2409.02581](http://arxiv.org/abs/2409.02581)|null|
 |**2024-09-11**|**Geometry-aware Feature Matching for Large-Scale Structure from Motion**|Gonglin Chen et.al.|[2409.02310](http://arxiv.org/abs/2409.02310)|null|
@@ -1626,6 +1627,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|null|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
@@ -3392,6 +3394,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030](http://arxiv.org/abs/2409.09030)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
+|**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
+|**2024-09-13**|**Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance**|Lucio La Cava et.al.|[2409.08963](http://arxiv.org/abs/2409.08963)|null|
+|**2024-09-13**|**Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions**|Zahra Ashktorab et.al.|[2409.08937](http://arxiv.org/abs/2409.08937)|null|
+|**2024-09-13**|**SynSUM -- Synthetic Benchmark with Structured and Unstructured Medical Records**|Paloma Rabaey et.al.|[2409.08936](http://arxiv.org/abs/2409.08936)|**[link](https://github.com/prabaey/synsum)**|
+|**2024-09-13**|**LLM-based Weak Supervision Framework for Query Intent Classification in Video Search**|Farnoosh Javadi et.al.|[2409.08931](http://arxiv.org/abs/2409.08931)|null|
+|**2024-09-13**|**AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models**|Yifei Yao et.al.|[2409.08904](http://arxiv.org/abs/2409.08904)|null|
+|**2024-09-13**|**A Market for Lemons? Strategic Directions for a Vigilant Application of Artificial Intelligence in Entrepreneurship Research**|Martin Obschonka et.al.|[2409.08890](http://arxiv.org/abs/2409.08890)|null|
+|**2024-09-13**|**Exploring Graph Structure Comprehension Ability of Multimodal Large Language Models: Case Studies**|Zhiqiang Zhong et.al.|[2409.08864](http://arxiv.org/abs/2409.08864)|null|
+|**2024-09-13**|**FP-VEC: Fingerprinting Large Language Models via Efficient Vector Addition**|Zhenhua Xu et.al.|[2409.08846](http://arxiv.org/abs/2409.08846)|null|
 |**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264](http://arxiv.org/abs/2409.08264)|**[link](https://github.com/microsoft/windowsagentarena)**|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250](http://arxiv.org/abs/2409.08250)|null|
 |**2024-09-12**|**Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources**|Alisia Lupidi et.al.|[2409.08239](http://arxiv.org/abs/2409.08239)|null|
@@ -4845,6 +4857,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
+|**2024-09-13**|**Modeling Rational Adaptation of Visual Search to Hierarchical Structures**|Saku Sourulahti et.al.|[2409.08967](http://arxiv.org/abs/2409.08967)|null|
+|**2024-09-13**|**Average-Reward Maximum Entropy Reinforcement Learning for Underactuated Double Pendulum Tasks**|Jean Seong Bjorn Choe et.al.|[2409.08938](http://arxiv.org/abs/2409.08938)|null|
+|**2024-09-13**|**AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models**|Yifei Yao et.al.|[2409.08904](http://arxiv.org/abs/2409.08904)|null|
+|**2024-09-13**|**Deep reinforcement learning for tracking a moving target in jellyfish-like swimming**|Yihao Chen et.al.|[2409.08815](http://arxiv.org/abs/2409.08815)|null|
+|**2024-09-13**|**DexSim2Real $^{2}$ : Building Explicit World Model for Precise Articulated Object Dexterous Manipulation**|Taoran Jiang et.al.|[2409.08750](http://arxiv.org/abs/2409.08750)|null|
+|**2024-09-13**|**Quasimetric Value Functions with Dense Rewards**|Khadichabonu Valieva et.al.|[2409.08724](http://arxiv.org/abs/2409.08724)|null|
+|**2024-09-13**|**Secure Offloading in NOMA-Aided Aerial MEC Systems Based on Deep Reinforcement Learning**|Hongjiang Lei et.al.|[2409.08579](http://arxiv.org/abs/2409.08579)|null|
+|**2024-09-13**|**Batch Ensemble for Variance Dependent Regret in Stochastic Bandits**|Asaf Cassel et.al.|[2409.08570](http://arxiv.org/abs/2409.08570)|null|
+|**2024-09-13**|**OIDM: An Observability-based Intelligent Distributed Edge Sensing Method for Industrial Cyber-Physical Systems**|Shigeng Wang et.al.|[2409.08549](http://arxiv.org/abs/2409.08549)|null|
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273](http://arxiv.org/abs/2409.08273)|null|
 |**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237](http://arxiv.org/abs/2409.08237)|null|
 |**2024-09-12**|**Towards Online Safety Corrections for Robotic Manipulation Policies**|Ariana Spalter et.al.|[2409.08233](http://arxiv.org/abs/2409.08233)|null|
@@ -6260,6 +6282,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**QueryCAD: Grounded Question Answering for CAD Models**|Claudius Kienle et.al.|[2409.08704](http://arxiv.org/abs/2409.08704)|null|
+|**2024-09-13**|**AWF: Adaptive Weight Fusion for Enhanced Class Incremental Semantic Segmentation**|Zechao Sun et.al.|[2409.08516](http://arxiv.org/abs/2409.08516)|null|
+|**2024-09-13**|**VistaFormer: Scalable Vision Transformers for Satellite Image Time Series Segmentation**|Ezra MacDonald et.al.|[2409.08461](http://arxiv.org/abs/2409.08461)|**[link](https://github.com/macdonaldezra/VistaFormer)**|
 |**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251](http://arxiv.org/abs/2409.08251)|null|
 |**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
 |**2024-09-12**|**Depth Matters: Exploring Deep Interactions of RGB-D for Semantic Segmentation in Traffic Scenes**|Siyu Chen et.al.|[2409.07995](http://arxiv.org/abs/2409.07995)|null|
@@ -7115,6 +7140,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
+|**2024-09-13**|**Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention**|Yihang Tao et.al.|[2409.08840](http://arxiv.org/abs/2409.08840)|null|
+|**2024-09-13**|**RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision**|Shuo Wang et.al.|[2409.08475](http://arxiv.org/abs/2409.08475)|null|
+|**2024-09-12**|**X-ray Fluoroscopy Guided Localization and Steering of Medical Microrobots through Virtual Enhancement**|Husnu Halid Alabay et.al.|[2409.08337](http://arxiv.org/abs/2409.08337)|null|
 |**2024-09-12**|**What is YOLOv9: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2409.07813](http://arxiv.org/abs/2409.07813)|null|
 |**2024-09-11**|**Object Depth and Size Estimation using Stereo-vision and Integration with SLAM**|Layth Hamad et.al.|[2409.07623](http://arxiv.org/abs/2409.07623)|null|
 |**2024-09-11**|**ENACT: Entropy-based Clustering of Attention Input for Improving the Computational Performance of Object Detection Transformers**|Giorgos Savathrakis et.al.|[2409.07541](http://arxiv.org/abs/2409.07541)|**[link](https://github.com/gsavathrakis/enact)**|
