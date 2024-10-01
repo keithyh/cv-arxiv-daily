@@ -520,6 +520,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-29**|**Robust Incremental Structure-from-Motion with Hybrid Features**|Shaohui Liu et.al.|[2409.19811](http://arxiv.org/abs/2409.19811)|null|
+|**2024-09-27**|**MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion**|Bardienus Duisterhof et.al.|[2409.19152](http://arxiv.org/abs/2409.19152)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981](http://arxiv.org/abs/2409.17981)|null|
 |**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
@@ -759,6 +761,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597](http://arxiv.org/abs/2409.19597)|null|
+|**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq et.al.|[2409.19293](http://arxiv.org/abs/2409.19293)|**[link](https://github.com/ahmedest61/vlad-buff)**|
+|**2024-09-27**|**MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion**|Bardienus Duisterhof et.al.|[2409.19152](http://arxiv.org/abs/2409.19152)|null|
 |**2024-09-26**|**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**|Mankeerat Sidhu et.al.|[2409.18733](http://arxiv.org/abs/2409.18733)|null|
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
@@ -1672,6 +1677,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|null|
 |**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
 |**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
@@ -2187,6 +2193,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Distributed NeRF Learning for Collaborative Multi-Robot Perception**|Hongrui Zhao et.al.|[2409.20289](http://arxiv.org/abs/2409.20289)|null|
+|**2024-09-30**|**Active Neural Mapping at Scale**|Zijia Kuang et.al.|[2409.20276](http://arxiv.org/abs/2409.20276)|null|
+|**2024-09-30**|**OPONeRF: One-Point-One NeRF for Robust Neural Rendering**|Yu Zheng et.al.|[2409.20043](http://arxiv.org/abs/2409.20043)|null|
+|**2024-09-28**|**G3R: Gradient Guided Generalizable Reconstruction**|Yun Chen et.al.|[2409.19405](http://arxiv.org/abs/2409.19405)|null|
 |**2024-09-26**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057](http://arxiv.org/abs/2409.18057)|**[link](https://github.com/mingsun-tse/lightavatar-tensorflow)**|
 |**2024-09-26**|**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**|Weng Fei Low et.al.|[2409.17988](http://arxiv.org/abs/2409.17988)|null|
 |**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729](http://arxiv.org/abs/2409.17729)|null|
@@ -3471,6 +3481,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**|Haotian Zhang et.al.|[2409.20566](http://arxiv.org/abs/2409.20566)|null|
+|**2024-09-30**|**Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos**|Md Mohaiminul Islam et.al.|[2409.20557](http://arxiv.org/abs/2409.20557)|null|
+|**2024-09-30**|**LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation**|Ziyao Zhang et.al.|[2409.20550](http://arxiv.org/abs/2409.20550)|null|
+|**2024-09-30**|**Robi Butler: Remote Multimodal Interactions with Household Robot Assistant**|Anxing Xiao et.al.|[2409.20548](http://arxiv.org/abs/2409.20548)|null|
+|**2024-09-30**|**Uncertainty-Informed Screening for Safer Solvents Used in the Synthesis of Perovskite via Language Models**|Arpan Mukherjee et.al.|[2409.20512](http://arxiv.org/abs/2409.20512)|null|
+|**2024-09-30**|**COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models**|Divyanshu Daiya et.al.|[2409.20502](http://arxiv.org/abs/2409.20502)|null|
+|**2024-09-30**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441](http://arxiv.org/abs/2409.20441)|null|
+|**2024-09-30**|**Wait, but Tylenol is Acetaminophen... Investigating and Improving Language Models' Ability to Resist Requests for Misinformation**|Shan Chen et.al.|[2409.20385](http://arxiv.org/abs/2409.20385)|null|
+|**2024-09-30**|**The Perfect Blend: Redefining RLHF with Mixture of Judges**|Tengyu Xu et.al.|[2409.20370](http://arxiv.org/abs/2409.20370)|null|
+|**2024-09-30**|**VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs**|Ruotong Liao et.al.|[2409.20365](http://arxiv.org/abs/2409.20365)|null|
 |**2024-09-27**|**LML: Language Model Learning a Dataset for Data-Augmented Prediction**|Praneeth Vadlapati et.al.|[2409.18957](http://arxiv.org/abs/2409.18957)|**[link](https://github.com/pro-genai/lml-dap)**|
 |**2024-09-27**|**Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models**|Jiaming Li et.al.|[2409.18943](http://arxiv.org/abs/2409.18943)|**[link](https://github.com/geaming2002/ruler)**|
 |**2024-09-27**|**From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding**|Heqing Zou et.al.|[2409.18938](http://arxiv.org/abs/2409.18938)|null|
@@ -5006,6 +5026,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Upper and Lower Bounds for Distributionally Robust Off-Dynamics Reinforcement Learning**|Zhishuai Liu et.al.|[2409.20521](http://arxiv.org/abs/2409.20521)|null|
+|**2024-09-30**|**Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation**|Fukang Liu et.al.|[2409.20514](http://arxiv.org/abs/2409.20514)|null|
+|**2024-09-30**|**The Perfect Blend: Redefining RLHF with Mixture of Judges**|Tengyu Xu et.al.|[2409.20370](http://arxiv.org/abs/2409.20370)|null|
+|**2024-09-30**|**Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**|Osama Mustafa et.al.|[2409.20340](http://arxiv.org/abs/2409.20340)|null|
+|**2024-09-30**|**MARLadona -- Towards Cooperative Team Play Using Multi-Agent Reinforcement Learning**|Zichong Li et.al.|[2409.20326](http://arxiv.org/abs/2409.20326)|null|
+|**2024-09-30**|**RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning**|Yuxuan Wu et.al.|[2409.20291](http://arxiv.org/abs/2409.20291)|null|
+|**2024-09-30**|**Inferring Preferences from Demonstrations in Multi-objective Reinforcement Learning**|Junlin Lu et.al.|[2409.20258](http://arxiv.org/abs/2409.20258)|null|
+|**2024-09-30**|**Professor X: Manipulating EEG BCI with Invisible and Robust Backdoor Attack**|Xuan-Hao Liu et.al.|[2409.20158](http://arxiv.org/abs/2409.20158)|null|
+|**2024-09-30**|**DRLinSPH: An open-source platform using deep reinforcement learning and SPHinXsys for fluid-structure-interaction problems**|Mai Ye et.al.|[2409.20134](http://arxiv.org/abs/2409.20134)|null|
+|**2024-09-30**|**ACE: Abstractions for Communicating Efficiently**|Jonathan D. Thomas et.al.|[2409.20120](http://arxiv.org/abs/2409.20120)|null|
 |**2024-09-27**|**Robust Deep Reinforcement Learning for Volt-VAR Optimization in Active Distribution System under Uncertainty**|Zhengrong Chen et.al.|[2409.18937](http://arxiv.org/abs/2409.18937)|null|
 |**2024-09-27**|**HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models**|Yu Zhou et.al.|[2409.18893](http://arxiv.org/abs/2409.18893)|null|
 |**2024-09-27**|**ARLBench: Flexible and Efficient Benchmarking for Hyperparameter Optimization in Reinforcement Learning**|Jannis Becktepe et.al.|[2409.18827](http://arxiv.org/abs/2409.18827)|**[link](https://github.com/automl/arlbench)**|
@@ -6503,6 +6533,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation**|Boyu Han et.al.|[2409.20398](http://arxiv.org/abs/2409.20398)|null|
+|**2024-09-30**|**Leveraging CAM Algorithms for Explaining Medical Semantic Segmentation**|Tillmann Rheude et.al.|[2409.20287](http://arxiv.org/abs/2409.20287)|null|
+|**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164](http://arxiv.org/abs/2409.20164)|null|
+|**2024-09-30**|**Segmenting Wood Rot using Computer Vision Models**|Roland Kammerbauer et.al.|[2409.20137](http://arxiv.org/abs/2409.20137)|null|
+|**2024-09-30**|**Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels**|Heeseong Shin et.al.|[2409.19846](http://arxiv.org/abs/2409.19846)|null|
 |**2024-09-27**|**ProMerge: Prompt and Merge for Unsupervised Instance Segmentation**|Dylan Li et.al.|[2409.18961](http://arxiv.org/abs/2409.18961)|null|
 |**2024-09-27**|**Excavating in the Wild: The GOOSE-Ex Dataset for Semantic Segmentation**|Raphael Hagmanns et.al.|[2409.18788](http://arxiv.org/abs/2409.18788)|null|
 |**2024-09-27**|**Learning from Pattern Completion: Self-supervised Controllable Generation**|Zhiqiang Chen et.al.|[2409.18694](http://arxiv.org/abs/2409.18694)|null|
@@ -7405,6 +7440,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Accelerating Non-Maximum Suppression: A Graph Theory Perspective**|King-Siong Si et.al.|[2409.20520](http://arxiv.org/abs/2409.20520)|**[link](https://github.com/Yuri3-xr/NMS-Bench)**|
+|**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
+|**2024-09-30**|**Navigating Threats: A Survey of Physical Adversarial Attacks on LiDAR Perception Systems in Autonomous Vehicles**|Amira Guesmi et.al.|[2409.20426](http://arxiv.org/abs/2409.20426)|null|
+|**2024-09-30**|**Training a Computer Vision Model for Commercial Bakeries with Primarily Synthetic Images**|Thomas H. Schmitt et.al.|[2409.20122](http://arxiv.org/abs/2409.20122)|null|
+|**2024-09-30**|**GearTrack: Automating 6D Pose Estimation**|Yu Deng et.al.|[2409.19986](http://arxiv.org/abs/2409.19986)|null|
+|**2024-09-30**|**TSdetector: Temporal-Spatial Self-correction Collaborative Learning for Colonoscopy Video Detection**|Kaini Wang et.al.|[2409.19983](http://arxiv.org/abs/2409.19983)|null|
+|**2024-09-30**|**DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**|Zhen Yang et.al.|[2409.19972](http://arxiv.org/abs/2409.19972)|**[link](https://github.com/alphaplustt/daocc)**|
+|**2024-09-30**|**HazyDet: Open-source Benchmark for Drone-view Object Detection with Depth-cues in Hazy Scenes**|Changfeng Feng et.al.|[2409.19833](http://arxiv.org/abs/2409.19833)|**[link](https://github.com/grokcv/hazydet)**|
+|**2024-09-29**|**Applying the Lower-Biased Teacher Model in Semi-Suepervised Object Detection**|Shuang Wang et.al.|[2409.19703](http://arxiv.org/abs/2409.19703)|null|
+|**2024-09-29**|**OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images**|Jiaqi Zhao et.al.|[2409.19648](http://arxiv.org/abs/2409.19648)|**[link](https://github.com/wokaikaixinxin/OrientedFormer)**|
 |**2024-09-27**|**Spectral Wavelet Dropout: Regularization in the Wavelet Domain**|Rinor Cakaj et.al.|[2409.18951](http://arxiv.org/abs/2409.18951)|null|
 |**2024-09-27**|**MCUBench: A Benchmark of Tiny Object Detectors on MCUs**|Sudhakar Sah et.al.|[2409.18866](http://arxiv.org/abs/2409.18866)|**[link](https://github.com/deeplite/deeplite-torch-zoo)**|
 |**2024-09-26**|**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**|Mankeerat Sidhu et.al.|[2409.18733](http://arxiv.org/abs/2409.18733)|null|
