@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.01
+## Updated on 2024.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1665,7 +1665,7 @@ layout: default
 |**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
 |**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
-|**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
+|**2024-10-01**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
@@ -3463,7 +3463,7 @@ layout: default
 |**2024-09-30**|**Robi Butler: Remote Multimodal Interactions with Household Robot Assistant**|Anxing Xiao et.al.|[2409.20548](http://arxiv.org/abs/2409.20548)|null|
 |**2024-09-30**|**Uncertainty-Informed Screening for Safer Solvents Used in the Synthesis of Perovskite via Language Models**|Arpan Mukherjee et.al.|[2409.20512](http://arxiv.org/abs/2409.20512)|null|
 |**2024-09-30**|**COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models**|Divyanshu Daiya et.al.|[2409.20502](http://arxiv.org/abs/2409.20502)|null|
-|**2024-09-30**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441](http://arxiv.org/abs/2409.20441)|null|
+|**2024-10-01**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441](http://arxiv.org/abs/2409.20441)|null|
 |**2024-09-30**|**Wait, but Tylenol is Acetaminophen... Investigating and Improving Language Models' Ability to Resist Requests for Misinformation**|Shan Chen et.al.|[2409.20385](http://arxiv.org/abs/2409.20385)|null|
 |**2024-09-30**|**The Perfect Blend: Redefining RLHF with Mixture of Judges**|Tengyu Xu et.al.|[2409.20370](http://arxiv.org/abs/2409.20370)|null|
 |**2024-09-30**|**VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs**|Ruotong Liao et.al.|[2409.20365](http://arxiv.org/abs/2409.20365)|null|
@@ -6514,7 +6514,7 @@ layout: default
 |**2024-09-27**|**Excavating in the Wild: The GOOSE-Ex Dataset for Semantic Segmentation**|Raphael Hagmanns et.al.|[2409.18788](http://arxiv.org/abs/2409.18788)|null|
 |**2024-09-27**|**Learning from Pattern Completion: Self-supervised Controllable Generation**|Zhiqiang Chen et.al.|[2409.18694](http://arxiv.org/abs/2409.18694)|null|
 |**2024-09-27**|**Reducing Semantic Ambiguity In Domain Adaptive Semantic Segmentation Via Probabilistic Prototypical Pixel Contrast**|Xiaoke Hao et.al.|[2409.18543](http://arxiv.org/abs/2409.18543)|**[link](https://github.com/darlinginthesv/probabilistic-prototypical-pixel-contrast)**|
-|**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
+|**2024-10-01**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
 |**2024-09-27**|**Search3D: Hierarchical Open-Vocabulary 3D Segmentation**|Ayca Takmaz et.al.|[2409.18431](http://arxiv.org/abs/2409.18431)|null|
 |**2024-09-26**|**Efficient Microscopic Image Instance Segmentation for Food Crystal Quality Control**|Xiaoyu Ji et.al.|[2409.18291](http://arxiv.org/abs/2409.18291)|null|
 |**2024-09-26**|**Amodal Instance Segmentation with Diffusion Shape Prior Estimation**|Minh Tran et.al.|[2409.18256](http://arxiv.org/abs/2409.18256)|null|
