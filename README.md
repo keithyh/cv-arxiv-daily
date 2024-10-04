@@ -763,8 +763,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-02**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang et.al.|[2410.01544](http://arxiv.org/abs/2410.01544)|null|
-|**2024-10-03**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536](http://arxiv.org/abs/2410.01536)|null|
-|**2024-10-02**|**CSIM: A Copula-based similarity index sensitive to local changes for Image quality assessment**|Safouane El Ghazouali et.al.|[2410.01411](http://arxiv.org/abs/2410.01411)|null|
+|**2024-10-03**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536](http://arxiv.org/abs/2410.01536)|**[link](https://github.com/cesc47/eufcc-cir)**|
+|**2024-10-02**|**CSIM: A Copula-based similarity index sensitive to local changes for Image quality assessment**|Safouane El Ghazouali et.al.|[2410.01411](http://arxiv.org/abs/2410.01411)|**[link](https://github.com/safouaneelg/copulasimilarity)**|
 |**2024-09-30**|**Class-Agnostic Visio-Temporal Scene Sketch Semantic Segmentation**|Aleyna Kütük et.al.|[2410.00266](http://arxiv.org/abs/2410.00266)|null|
 |**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597](http://arxiv.org/abs/2409.19597)|null|
 |**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq et.al.|[2409.19293](http://arxiv.org/abs/2409.19293)|**[link](https://github.com/ahmedest61/vlad-buff)**|
@@ -1682,6 +1682,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**|Chengkai Hou et.al.|[2410.02237](http://arxiv.org/abs/2410.02237)|null|
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
 |**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|null|
 |**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
@@ -2199,6 +2200,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/abs/2410.02103)|null|
 |**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
 |**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614](http://arxiv.org/abs/2410.01614)|null|
@@ -3492,6 +3494,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models**|Zhipei Xu et.al.|[2410.02761](http://arxiv.org/abs/2410.02761)|null|
+|**2024-10-03**|**Loong: Generating Minute-level Long Videos with Autoregressive Language Models**|Yuqing Wang et.al.|[2410.02757](http://arxiv.org/abs/2410.02757)|null|
+|**2024-10-03**|**SIEVE: General Purpose Data Filtering System Matching GPT-4o Accuracy at 1% the Cost**|Jifan Zhang et.al.|[2410.02755](http://arxiv.org/abs/2410.02755)|null|
+|**2024-10-03**|**Training Language Models on Synthetic Edit Sequences Improves Code Synthesis**|Ulyana Piterbarg et.al.|[2410.02749](http://arxiv.org/abs/2410.02749)|null|
+|**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|null|
+|**2024-10-03**|**Contrastive Localized Language-Image Pre-Training**|Hong-You Chen et.al.|[2410.02746](http://arxiv.org/abs/2410.02746)|null|
+|**2024-10-03**|**Neutral residues: revisiting adapters for model extension**|Franck Signe Talla et.al.|[2410.02744](http://arxiv.org/abs/2410.02744)|null|
+|**2024-10-03**|**MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions**|Yekun Chai et.al.|[2410.02743](http://arxiv.org/abs/2410.02743)|null|
+|**2024-10-03**|**Grounding Large Language Models In Embodied Environment With Imperfect World Models**|Haolan Liu et.al.|[2410.02742](http://arxiv.org/abs/2410.02742)|null|
+|**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741](http://arxiv.org/abs/2410.02741)|null|
 |**2024-10-02**|**Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**|Yuxiang Huang et.al.|[2410.01805](http://arxiv.org/abs/2410.01805)|**[link](https://github.com/huangyuxiang03/Locret)**|
 |**2024-10-02**|**Efficient $1$ -bit tensor approximations**|Alex W. Neal Riasanovsky et.al.|[2410.01799](http://arxiv.org/abs/2410.01799)|null|
 |**2024-10-02**|**Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models**|Joseph Lee et.al.|[2410.01795](http://arxiv.org/abs/2410.01795)|**[link](https://github.com/pennshenlab/freeform)**|
@@ -5047,6 +5059,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
+|**2024-10-03**|**MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions**|Yekun Chai et.al.|[2410.02743](http://arxiv.org/abs/2410.02743)|null|
+|**2024-10-03**|**Grounded Answers for Multi-agent Decision-making Problem through Generative World Model**|Zeyang Liu et.al.|[2410.02664](http://arxiv.org/abs/2410.02664)|null|
+|**2024-10-03**|**Beyond Expected Returns: A Policy Gradient Algorithm for Cumulative Prospect Theoretic Reinforcement Learning**|Olivier Lepel et.al.|[2410.02605](http://arxiv.org/abs/2410.02605)|null|
+|**2024-10-03**|**Boosting Sample Efficiency and Generalization in Multi-agent Reinforcement Learning via Equivariance**|Joshua McClellan et.al.|[2410.02581](http://arxiv.org/abs/2410.02581)|null|
+|**2024-10-03**|**Machine Learning Approaches for Active Queue Management: A Survey, Taxonomy, and Future Directions**|Mohammad Parsa Toopchinezhad et.al.|[2410.02563](http://arxiv.org/abs/2410.02563)|null|
+|**2024-10-03**|**Semantic-Guided RL for Interpretable Feature Engineering**|Mohamed Bouadi et.al.|[2410.02519](http://arxiv.org/abs/2410.02519)|null|
+|**2024-10-03**|**Learning Emergence of Interaction Patterns across Independent RL Agents in Multi-Agent Environments**|Vasanth Reddy Baddam et.al.|[2410.02516](http://arxiv.org/abs/2410.02516)|null|
+|**2024-10-03**|**A Hitchhiker's Guide To Active Motion**|Tobias Plasczyk et.al.|[2410.02515](http://arxiv.org/abs/2410.02515)|null|
+|**2024-10-03**|**Choices are More Important than Efforts: LLM Enables Efficient Multi-Agent Exploration**|Yun Qu et.al.|[2410.02511](http://arxiv.org/abs/2410.02511)|**[link](https://github.com/hijkzzz/pymarl2)**|
 |**2024-10-02**|**Bellman Diffusion: Generative Modeling as Learning a Linear Operator in the Distribution Space**|Yangming Li et.al.|[2410.01796](http://arxiv.org/abs/2410.01796)|null|
 |**2024-10-02**|**Open Human-Robot Collaboration using Decentralized Inverse Reinforcement Learning**|Prasanth Sengadu Suresh et.al.|[2410.01790](http://arxiv.org/abs/2410.01790)|null|
 |**2024-10-02**|**Investigating on RLHF methodology**|Alexey Kutalev et.al.|[2410.01789](http://arxiv.org/abs/2410.01789)|null|
@@ -6564,7 +6586,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-02**|**SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images**|Kaiyu Li et.al.|[2410.01768](http://arxiv.org/abs/2410.01768)|null|
+|**2024-10-03**|**HiFiSeg: High-Frequency Information Enhanced Polyp Segmentation with Global-Local Vision Transformer**|Jingjing Ren et.al.|[2410.02528](http://arxiv.org/abs/2410.02528)|null|
+|**2024-10-03**|**SynCo: Synthetic Hard Negatives in Contrastive Learning for Better Unsupervised Visual Representations**|Nikolaos Giakoumoglou et.al.|[2410.02401](http://arxiv.org/abs/2410.02401)|null|
+|**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
+|**2024-10-03**|**ProtoSeg: A Prototype-Based Point Cloud Instance Segmentation Method**|Remco Royen et.al.|[2410.02352](http://arxiv.org/abs/2410.02352)|null|
+|**2024-10-03**|**RESSCAL3D++: Joint Acquisition and Semantic Segmentation of 3D Point Clouds**|Remco Royen et.al.|[2410.02323](http://arxiv.org/abs/2410.02323)|null|
+|**2024-10-03**|**Efficient Semantic Segmentation via Lightweight Multiple-Information Interaction Network**|Yangyang Qiu et.al.|[2410.02224](http://arxiv.org/abs/2410.02224)|null|
+|**2024-10-03**|**Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images**|Qingyuan Liu et.al.|[2410.02207](http://arxiv.org/abs/2410.02207)|null|
+|**2024-10-02**|**SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images**|Kaiyu Li et.al.|[2410.01768](http://arxiv.org/abs/2410.01768)|**[link](https://github.com/likyoo/SegEarth-OV)**|
 |**2024-10-02**|**One-Shot Robust Imitation Learning for Long-Horizon Visuomotor Tasks from Unsegmented Demonstrations**|Shaokang Wu et.al.|[2410.01630](http://arxiv.org/abs/2410.01630)|null|
 |**2024-10-02**|**Cognition Transferring and Decoupling for Text-supervised Egocentric Semantic Segmentation**|Zhaofeng Shi et.al.|[2410.01341](http://arxiv.org/abs/2410.01341)|null|
 |**2024-10-02**|**VectorGraphNET: Graph Attention Networks for Accurate Segmentation of Complex Technical Drawings**|Andrea Carrara et.al.|[2410.01336](http://arxiv.org/abs/2410.01336)|null|
@@ -7481,6 +7510,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Learning 3D Perception from Others' Predictions**|Jinsu Yoo et.al.|[2410.02646](http://arxiv.org/abs/2410.02646)|null|
+|**2024-10-02**|**Enhancing Screen Time Identification in Children with a Multi-View Vision Language Model and Screen Time Tracker**|Xinlong Hou et.al.|[2410.01966](http://arxiv.org/abs/2410.01966)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
 |**2024-10-02**|**Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps**|Jiyun Jang et.al.|[2410.01319](http://arxiv.org/abs/2410.01319)|null|
