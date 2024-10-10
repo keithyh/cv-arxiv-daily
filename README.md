@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -514,7 +514,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## SFM
 
@@ -527,7 +527,7 @@
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981](http://arxiv.org/abs/2409.17981)|null|
 |**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
-|**2024-09-24**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez et.al.|[2409.16465](http://arxiv.org/abs/2409.16465)|null|
+|**2024-10-07**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez et.al.|[2409.16465](http://arxiv.org/abs/2409.16465)|null|
 |**2024-09-24**|**Exploring the potential of collaborative UAV 3D mapping in Kenyan savanna for wildlife research**|Vandita Shukla et.al.|[2409.15914](http://arxiv.org/abs/2409.15914)|null|
 |**2024-09-23**|**Assessment of Submillimeter Precision via Structure from Motion Technique in Close-Range Capture Environments**|Francisco Roza de Moraes et.al.|[2409.15602](http://arxiv.org/abs/2409.15602)|null|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
@@ -757,7 +757,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1679,7 +1679,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1929,7 +1929,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2197,7 +2197,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## NeRF
 
@@ -3496,7 +3496,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## LLM
 
@@ -3504,9 +3504,9 @@
 |---|---|---|---|---|
 |**2024-10-07**|**Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models**|Fei Wang et.al.|[2410.05269](http://arxiv.org/abs/2410.05269)|null|
 |**2024-10-07**|**PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs**|Mengzhao Chen et.al.|[2410.05265](http://arxiv.org/abs/2410.05265)|**[link](https://github.com/chenmnz/prefixquant)**|
-|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262](http://arxiv.org/abs/2410.05262)|null|
+|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262](http://arxiv.org/abs/2410.05262)|**[link](https://github.com/mazzzystar/TurtleBench)**|
 |**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|null|
-|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|null|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|**[link](https://github.com/eilamshapira/GLEE)**|
 |**2024-10-07**|**Causal Micro-Narratives**|Mourad Heddaya et.al.|[2410.05252](http://arxiv.org/abs/2410.05252)|null|
 |**2024-10-07**|**SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe**|Yuxin Xiao et.al.|[2410.05248](http://arxiv.org/abs/2410.05248)|null|
 |**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243](http://arxiv.org/abs/2410.05243)|null|
@@ -5081,7 +5081,7 @@
 |**2024-02-13**|**Test-Time Backdoor Attacks on Multimodal Large Language Models**|Dong Lu et.al.|[2402.08577](http://arxiv.org/abs/2402.08577)|**[link](https://github.com/sail-sg/anydoor)**|
 |**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567](http://arxiv.org/abs/2402.08567)|**[link](https://github.com/sail-sg/agent-smith)**|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## agent
 
@@ -6628,7 +6628,7 @@
 |**2024-02-13**|**Off-Policy Evaluation in Markov Decision Processes under Weak Distributional Overlap**|Mohammad Mehrabi et.al.|[2402.08201](http://arxiv.org/abs/2402.08201)|null|
 |**2024-02-13**|**Enabling Multi-Agent Transfer Reinforcement Learning via Scenario Independent Representation**|Ayesha Siddika Nipu et.al.|[2402.08184](http://arxiv.org/abs/2402.08184)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Segmentation
 
@@ -7559,7 +7559,7 @@
 |**2024-02-09**|**Classifying point clouds at the facade-level using geometric features and deep learning networks**|Yue Tan et.al.|[2402.06506](http://arxiv.org/abs/2402.06506)|**[link](https://github.com/yue-t99/pointnet2-geometricfeatures-facade)**|
 |**2024-02-09**|**ControlUDA: Controllable Diffusion-assisted Unsupervised Domain Adaptation for Cross-Weather Semantic Segmentation**|Fengyi Shen et.al.|[2402.06446](http://arxiv.org/abs/2402.06446)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Detection
 
@@ -7569,7 +7569,7 @@
 |**2024-10-07**|**Human-in-the-loop Reasoning For Traffic Sign Detection: Collaborative Approach Yolo With Video-llava**|Mehdi Azarafza et.al.|[2410.05096](http://arxiv.org/abs/2410.05096)|null|
 |**2024-10-07**|**Improving Object Detection via Local-global Contrastive Learning**|Danai Triantafyllidou et.al.|[2410.05058](http://arxiv.org/abs/2410.05058)|null|
 |**2024-10-07**|**Improved detection of discarded fish species through BoxAL active learning**|Maria Sokolova et.al.|[2410.04880](http://arxiv.org/abs/2410.04880)|**[link](https://github.com/pieterblok/boxal)**|
-|**2024-10-06**|**Learning De-Biased Representations for Remote-Sensing Imagery**|Zichen Tian et.al.|[2410.04546](http://arxiv.org/abs/2410.04546)|null|
+|**2024-10-06**|**Learning De-Biased Representations for Remote-Sensing Imagery**|Zichen Tian et.al.|[2410.04546](http://arxiv.org/abs/2410.04546)|**[link](https://github.com/doem97/deblora)**|
 |**2024-10-05**|**ETHcavation: A Dataset and Pipeline for Panoptic Scene Understanding and Object Tracking in Dynamic Construction Environments**|Lorenzo Terenzi et.al.|[2410.04250](http://arxiv.org/abs/2410.04250)|null|
 |**2024-10-05**|**Fast Object Detection with a Machine Learning Edge Device**|Richard C. Rodriguez et.al.|[2410.04173](http://arxiv.org/abs/2410.04173)|null|
 |**2024-10-05**|**Robust Task-Oriented Communication Framework for Real-Time Collaborative Vision Perception**|Zhengru Fang et.al.|[2410.04168](http://arxiv.org/abs/2410.04168)|null|
@@ -8616,7 +8616,7 @@
 |**2024-02-10**|**Domain Adaptable Fine-Tune Distillation Framework For Advancing Farm Surveillance**|Raza Imam et.al.|[2402.07059](http://arxiv.org/abs/2402.07059)|**[link](https://github.com/razaimam45/fine-tune-distillation)**|
 |**2024-02-10**|**Semantic Object-level Modeling for Robust Visual Camera Relocalization**|Yifan Zhu et.al.|[2402.06951](http://arxiv.org/abs/2402.06951)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

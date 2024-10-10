@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -513,7 +513,7 @@ layout: default
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981](http://arxiv.org/abs/2409.17981)|null|
 |**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
-|**2024-09-24**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez et.al.|[2409.16465](http://arxiv.org/abs/2409.16465)|null|
+|**2024-10-07**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez et.al.|[2409.16465](http://arxiv.org/abs/2409.16465)|null|
 |**2024-09-24**|**Exploring the potential of collaborative UAV 3D mapping in Kenyan savanna for wildlife research**|Vandita Shukla et.al.|[2409.15914](http://arxiv.org/abs/2409.15914)|null|
 |**2024-09-23**|**Assessment of Submillimeter Precision via Structure from Motion Technique in Close-Range Capture Environments**|Francisco Roza de Moraes et.al.|[2409.15602](http://arxiv.org/abs/2409.15602)|null|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
@@ -3480,9 +3480,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-07**|**Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models**|Fei Wang et.al.|[2410.05269](http://arxiv.org/abs/2410.05269)|null|
 |**2024-10-07**|**PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs**|Mengzhao Chen et.al.|[2410.05265](http://arxiv.org/abs/2410.05265)|**[link](https://github.com/chenmnz/prefixquant)**|
-|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262](http://arxiv.org/abs/2410.05262)|null|
+|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262](http://arxiv.org/abs/2410.05262)|**[link](https://github.com/mazzzystar/TurtleBench)**|
 |**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|null|
-|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|null|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|**[link](https://github.com/eilamshapira/GLEE)**|
 |**2024-10-07**|**Causal Micro-Narratives**|Mourad Heddaya et.al.|[2410.05252](http://arxiv.org/abs/2410.05252)|null|
 |**2024-10-07**|**SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe**|Yuxin Xiao et.al.|[2410.05248](http://arxiv.org/abs/2410.05248)|null|
 |**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243](http://arxiv.org/abs/2410.05243)|null|
@@ -7539,7 +7539,7 @@ layout: default
 |**2024-10-07**|**Human-in-the-loop Reasoning For Traffic Sign Detection: Collaborative Approach Yolo With Video-llava**|Mehdi Azarafza et.al.|[2410.05096](http://arxiv.org/abs/2410.05096)|null|
 |**2024-10-07**|**Improving Object Detection via Local-global Contrastive Learning**|Danai Triantafyllidou et.al.|[2410.05058](http://arxiv.org/abs/2410.05058)|null|
 |**2024-10-07**|**Improved detection of discarded fish species through BoxAL active learning**|Maria Sokolova et.al.|[2410.04880](http://arxiv.org/abs/2410.04880)|**[link](https://github.com/pieterblok/boxal)**|
-|**2024-10-06**|**Learning De-Biased Representations for Remote-Sensing Imagery**|Zichen Tian et.al.|[2410.04546](http://arxiv.org/abs/2410.04546)|null|
+|**2024-10-06**|**Learning De-Biased Representations for Remote-Sensing Imagery**|Zichen Tian et.al.|[2410.04546](http://arxiv.org/abs/2410.04546)|**[link](https://github.com/doem97/deblora)**|
 |**2024-10-05**|**ETHcavation: A Dataset and Pipeline for Panoptic Scene Understanding and Object Tracking in Dynamic Construction Environments**|Lorenzo Terenzi et.al.|[2410.04250](http://arxiv.org/abs/2410.04250)|null|
 |**2024-10-05**|**Fast Object Detection with a Machine Learning Edge Device**|Richard C. Rodriguez et.al.|[2410.04173](http://arxiv.org/abs/2410.04173)|null|
 |**2024-10-05**|**Robust Task-Oriented Communication Framework for Real-Time Collaborative Vision Perception**|Zhengru Fang et.al.|[2410.04168](http://arxiv.org/abs/2410.04168)|null|
