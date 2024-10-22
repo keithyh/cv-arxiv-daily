@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -17,7 +17,7 @@ layout: default
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374](http://arxiv.org/abs/2410.09374)|**[link](https://github.com/nail-hnu/esvo2)**|
 |**2024-10-18**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151](http://arxiv.org/abs/2409.13151)|null|
-|**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692](http://arxiv.org/abs/2409.11692)|null|
+|**2024-10-19**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692](http://arxiv.org/abs/2409.11692)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
 |**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|null|
 |**2024-09-14**|**Panoramic Direct LiDAR-assisted Visual Odometry**|Zikang Yuan et.al.|[2409.09287](http://arxiv.org/abs/2409.09287)|**[link](https://github.com/ZikangYuan/panoramic_lidar_dso)**|
@@ -5204,7 +5204,7 @@ layout: default
 |**2024-10-18**|**Online Reinforcement Learning with Passive Memory**|Anay Pattanaik et.al.|[2410.14665](http://arxiv.org/abs/2410.14665)|null|
 |**2024-10-18**|**A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning**|Shengjie Sun et.al.|[2410.14660](http://arxiv.org/abs/2410.14660)|null|
 |**2024-10-18**|**Harnessing Causality in Reinforcement Learning With Bagged Decision Times**|Daiqi Gao et.al.|[2410.14659](http://arxiv.org/abs/2410.14659)|null|
-|**2024-10-18**|**Benchmarking Deep Reinforcement Learning for Navigation in Denied Sensor Environments**|Mariusz Wisniewski et.al.|[2410.14616](http://arxiv.org/abs/2410.14616)|null|
+|**2024-10-18**|**Benchmarking Deep Reinforcement Learning for Navigation in Denied Sensor Environments**|Mariusz Wisniewski et.al.|[2410.14616](http://arxiv.org/abs/2410.14616)|**[link](https://github.com/mazqtpopx/cranfield-navigation-gym)**|
 |**2024-10-18**|**Streaming Deep Reinforcement Learning Finally Works**|Mohamed Elsayed et.al.|[2410.14606](http://arxiv.org/abs/2410.14606)|null|
 |**2024-10-18**|**Reinforcement Learning in Non-Markov Market-Making**|Luca Lalor et.al.|[2410.14504](http://arxiv.org/abs/2410.14504)|null|
 |**2024-10-18**|**Transfer Reinforcement Learning in Heterogeneous Action Spaces using Subgoal Mapping**|Kavinayan P. Sivakumar et.al.|[2410.14484](http://arxiv.org/abs/2410.14484)|null|
