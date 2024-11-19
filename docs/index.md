@@ -513,6 +513,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879](http://arxiv.org/abs/2411.08879)|null|
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
 |**2024-11-08**|**From Transparent to Opaque: Rethinking Neural Implicit Surfaces with $α$ -NeuS**|Haoran Zhang et.al.|[2411.05362](http://arxiv.org/abs/2411.05362)|null|
@@ -768,6 +769,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao et.al.|[2411.08665](http://arxiv.org/abs/2411.08665)|null|
 |**2024-11-13**|**Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**|Saul Santos et.al.|[2411.08590](http://arxiv.org/abs/2411.08590)|**[link](https://github.com/deep-spin/HFYN)**|
 |**2024-11-13**|**Saliency Map-based Image Retrieval using Invariant Krawtchouk Moments**|Ashkan Nejad et.al.|[2411.08567](http://arxiv.org/abs/2411.08567)|**[link](https://github.com/arnejad/smikm)**|
@@ -2265,6 +2267,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
+|**2024-11-18**|**LeC $^2$ O-NeRF: Learning Continuous and Compact Large-Scale Occupancy for Urban Scenes**|Zhenxing Mi et.al.|[2411.11374](http://arxiv.org/abs/2411.11374)|null|
+|**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
+|**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504](http://arxiv.org/abs/2411.10504)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033](http://arxiv.org/abs/2411.10033)|null|
 |**2024-11-13**|**BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**|David Svitov et.al.|[2411.08508](http://arxiv.org/abs/2411.08508)|null|
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
@@ -3634,6 +3640,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Bi-Mamba: Towards Accurate 1-Bit State Space Models**|Shengkun Tang et.al.|[2411.11843](http://arxiv.org/abs/2411.11843)|null|
+|**2024-11-18**|**Tackling prediction tasks in relational databases with LLMs**|Marek Wydmuch et.al.|[2411.11829](http://arxiv.org/abs/2411.11829)|null|
+|**2024-11-18**|**Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods**|Egor Kovalev et.al.|[2411.11795](http://arxiv.org/abs/2411.11795)|null|
+|**2024-11-18**|**LLM-IE: A Python Package for Generative Information Extraction with Large Language Models**|Enshuo Hsu et.al.|[2411.11779](http://arxiv.org/abs/2411.11779)|null|
+|**2024-11-18**|**sMoRe: Enhancing Object Manipulation and Organization in Mixed Reality Spaces with LLMs and Generative AI**|Yunhao Xing et.al.|[2411.11752](http://arxiv.org/abs/2411.11752)|null|
+|**2024-11-18**|**BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration**|Yuzong Chen et.al.|[2411.11745](http://arxiv.org/abs/2411.11745)|null|
+|**2024-11-18**|**Moral Persuasion in Large Language Models: Evaluating Susceptibility and Ethical Alignment**|Allison Huang et.al.|[2411.11731](http://arxiv.org/abs/2411.11731)|null|
+|**2024-11-18**|**Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation**|Mingchao Qi et.al.|[2411.11714](http://arxiv.org/abs/2411.11714)|**[link](https://github.com/mingchaoqi/skill_transfer)**|
+|**2024-11-18**|**FedCoLLM: A Parameter-Efficient Federated Co-tuning Framework for Large and Small Language Models**|Tao Fan et.al.|[2411.11707](http://arxiv.org/abs/2411.11707)|null|
+|**2024-11-18**|**Technical Report: Enhancing LLM Reasoning with Reward-guided Tree Search**|Jinhao Jiang et.al.|[2411.11694](http://arxiv.org/abs/2411.11694)|null|
 |**2024-11-15**|**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization**|Weiyun Wang et.al.|[2411.10442](http://arxiv.org/abs/2411.10442)|null|
 |**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440](http://arxiv.org/abs/2411.10440)|null|
 |**2024-11-15**|**MARS: Unleashing the Power of Variance Reduction for Training Large Models**|Huizhuo Yuan et.al.|[2411.10438](http://arxiv.org/abs/2411.10438)|null|
@@ -5487,6 +5503,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Design And Optimization Of Multi-rendezvous Manoeuvres Based On Reinforcement Learning And Convex Optimization**|Antonio López Rivera et.al.|[2411.11778](http://arxiv.org/abs/2411.11778)|null|
+|**2024-11-18**|**High-Speed Cornering Control and Real-Vehicle Deployment for Autonomous Electric Vehicles**|Shiyue Zhao et.al.|[2411.11762](http://arxiv.org/abs/2411.11762)|null|
+|**2024-11-18**|**Mapping out the Space of Human Feedback for Reinforcement Learning: A Conceptual Framework**|Yannick Metz et.al.|[2411.11761](http://arxiv.org/abs/2411.11761)|null|
+|**2024-11-18**|**Aligning Few-Step Diffusion Models with Dense Reward Difference Learning**|Ziyi Zhang et.al.|[2411.11727](http://arxiv.org/abs/2411.11727)|**[link](https://github.com/ziyizhang27/sdpo)**|
+|**2024-11-18**|**Bitcoin Under Volatile Block Rewards: How Mempool Statistics Can Influence Bitcoin Mining**|Roozbeh Sarenche et.al.|[2411.11702](http://arxiv.org/abs/2411.11702)|null|
+|**2024-11-18**|**Robust Reinforcement Learning under Diffusion Models for Data with Jumps**|Chenyang Jiang et.al.|[2411.11697](http://arxiv.org/abs/2411.11697)|null|
+|**2024-11-18**|**Coevolution of Opinion Dynamics and Recommendation System: Modeling Analysis and Reinforcement Learning Based Manipulation**|Yuhong Chen et.al.|[2411.11687](http://arxiv.org/abs/2411.11687)|null|
+|**2024-11-18**|**No-regret Exploration in Shuffle Private Reinforcement Learning**|Shaojie Bai et.al.|[2411.11647](http://arxiv.org/abs/2411.11647)|null|
+|**2024-11-18**|**Signaling and Social Learning in Swarms of Robots**|Leo Cazenille et.al.|[2411.11616](http://arxiv.org/abs/2411.11616)|null|
+|**2024-11-18**|**A Pre-Trained Graph-Based Model for Adaptive Sequencing of Educational Documents**|Jean Vassoyan et.al.|[2411.11520](http://arxiv.org/abs/2411.11520)|null|
 |**2024-11-15**|**Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model for WECC Composite Load Model in Power Systems**|Feiqin Zhu et.al.|[2411.10431](http://arxiv.org/abs/2411.10431)|null|
 |**2024-11-15**|**Continual Adversarial Reinforcement Learning (CARL) of False Data Injection detection: forgetting and explainability**|Pooja Aslami et.al.|[2411.10367](http://arxiv.org/abs/2411.10367)|null|
 |**2024-11-15**|**BMP: Bridging the Gap between B-Spline and Movement Primitives**|Weiran Liao et.al.|[2411.10336](http://arxiv.org/abs/2411.10336)|null|
@@ -7302,6 +7328,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**MGNiceNet: Unified Monocular Geometric Scene Understanding**|Markus Schön et.al.|[2411.11466](http://arxiv.org/abs/2411.11466)|null|
+|**2024-11-18**|**MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models**|Harshita Sharma et.al.|[2411.11362](http://arxiv.org/abs/2411.11362)|null|
+|**2024-11-18**|**Reducing Label Dependency for Underwater Scene Understanding: A Survey of Datasets, Techniques and Applications**|Scarlett Raine et.al.|[2411.11287](http://arxiv.org/abs/2411.11287)|null|
+|**2024-11-18**|**Zero-Shot Automatic Annotation and Instance Segmentation using LLM-Generated Datasets: Eliminating Field Imaging and Manual Annotation for Deep Learning Model Development**|Ranjan Sapkota et.al.|[2411.11285](http://arxiv.org/abs/2411.11285)|null|
+|**2024-11-16**|**Attention-based U-Net Method for Autonomous Lane Detection**|Mohammadhamed Tangestanizadeh et.al.|[2411.10902](http://arxiv.org/abs/2411.10902)|null|
+|**2024-11-16**|**Automatic Discovery and Assessment of Interpretable Systematic Errors in Semantic Segmentation**|Jaisidh Singh et.al.|[2411.10845](http://arxiv.org/abs/2411.10845)|null|
+|**2024-11-16**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755](http://arxiv.org/abs/2411.10755)|null|
 |**2024-11-15**|**Y-MAP-Net: Real-time depth, normals, segmentation, multi-label captioning and 2D human pose in RGB images**|Ammar Qammaz et.al.|[2411.10334](http://arxiv.org/abs/2411.10334)|null|
 |**2024-11-15**|**RETR: Multi-View Radar Detection Transformer for Indoor Perception**|Ryoma Yataka et.al.|[2411.10293](http://arxiv.org/abs/2411.10293)|null|
 |**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086](http://arxiv.org/abs/2411.10086)|null|
@@ -8364,6 +8397,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**LightFFDNets: Lightweight Convolutional Neural Networks for Rapid Facial Forgery Detection**|Günel Jabbarlı et.al.|[2411.11826](http://arxiv.org/abs/2411.11826)|null|
+|**2024-11-18**|**WoodYOLO: A Novel Object Detector for Wood Species Detection in Microscopic Images**|Lars Nieradzik et.al.|[2411.11738](http://arxiv.org/abs/2411.11738)|null|
+|**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
+|**2024-11-18**|**SL-YOLO: A Stronger and Lighter Drone Target Detection Model**|Defan Chen et.al.|[2411.11477](http://arxiv.org/abs/2411.11477)|null|
+|**2024-11-16**|**EVT: Efficient View Transformation for Multi-Modal 3D Object Detection**|Yongjin Lee et.al.|[2411.10715](http://arxiv.org/abs/2411.10715)|null|
+|**2024-11-15**|**Vision Eagle Attention: A New Lens for Advancing Image Classification**|Mahmudul Hasan et.al.|[2411.10564](http://arxiv.org/abs/2411.10564)|**[link](https://github.com/MahmudulHasan11085/Vision-Eagle-Attention)**|
 |**2024-11-15**|**Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions**|Xumin Gao et.al.|[2411.10357](http://arxiv.org/abs/2411.10357)|null|
 |**2024-11-15**|**RETR: Multi-View Radar Detection Transformer for Indoor Perception**|Ryoma Yataka et.al.|[2411.10293](http://arxiv.org/abs/2411.10293)|null|
 |**2024-11-15**|**Visual-Linguistic Agent: Towards Collaborative Contextual Object Reasoning**|Jingru Yang et.al.|[2411.10252](http://arxiv.org/abs/2411.10252)|null|
