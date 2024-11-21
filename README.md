@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
 |**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
@@ -527,6 +528,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
 |**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592](http://arxiv.org/abs/2411.12592)|**[link](https://github.com/snldmt/SPARS3R)**|
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879](http://arxiv.org/abs/2411.08879)|null|
@@ -786,6 +788,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Globally Correlation-Aware Hard Negative Generation**|Wenjie Peng et.al.|[2411.13145](http://arxiv.org/abs/2411.13145)|**[link](https://github.com/pwenjay/gca-hng)**|
 |**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao et.al.|[2411.08665](http://arxiv.org/abs/2411.08665)|null|
 |**2024-11-13**|**Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**|Saul Santos et.al.|[2411.08590](http://arxiv.org/abs/2411.08590)|**[link](https://github.com/deep-spin/HFYN)**|
@@ -794,7 +797,7 @@
 |**2024-11-05**|**From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing**|Xintian Sun et.al.|[2411.05826](http://arxiv.org/abs/2411.05826)|null|
 |**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
 |**2024-11-11**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
-|**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
+|**2024-11-20**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
 |**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804](http://arxiv.org/abs/2411.01804)|null|
 |**2024-11-03**|**Efficient Medical Image Retrieval Using DenseNet and FAISS for BIRADS Classification**|MD Shaikh Rahman et.al.|[2411.01473](http://arxiv.org/abs/2411.01473)|null|
 |**2024-11-01**|**Identifying Implicit Social Biases in Vision-Language Models**|Kimia Hamidieh et.al.|[2411.00997](http://arxiv.org/abs/2411.00997)|null|
@@ -2011,6 +2014,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**DT-LSD: Deformable Transformer-based Line Segment Detection**|Sebastian Janampa et.al.|[2411.13005](http://arxiv.org/abs/2411.13005)|null|
 |**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
@@ -2291,6 +2295,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting**|Xiaobao Wei et.al.|[2411.12981](http://arxiv.org/abs/2411.12981)|null|
 |**2024-11-19**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471](http://arxiv.org/abs/2411.12471)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|null|
 |**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
@@ -3668,6 +3673,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs**|Shirley Kokane et.al.|[2411.13547](http://arxiv.org/abs/2411.13547)|null|
+|**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
+|**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
+|**2024-11-20**|**Advancing Complex Medical Communication in Arabic with Sporo AraSum: Surpassing Existing Large Language Models**|Chanseo Lee et.al.|[2411.13518](http://arxiv.org/abs/2411.13518)|null|
+|**2024-11-20**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
+|**2024-11-20**|**Utilizing Large Language Models to Synthesize Product Desirability Datasets**|John D. Hastings et.al.|[2411.13485](http://arxiv.org/abs/2411.13485)|null|
+|**2024-11-20**|**PatentEdits: Framing Patent Novelty as Textual Entailment**|Ryan Lee et.al.|[2411.13477](http://arxiv.org/abs/2411.13477)|null|
+|**2024-11-20**|**When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training**|Haonan Wang et.al.|[2411.13476](http://arxiv.org/abs/2411.13476)|**[link](https://github.com/haonan3/anchorcontext)**|
+|**2024-11-20**|**SoK: A Systems Perspective on Compound AI Threats and Countermeasures**|Sarbartha Banerjee et.al.|[2411.13459](http://arxiv.org/abs/2411.13459)|null|
+|**2024-11-20**|**AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations**|Gaurav Verma et.al.|[2411.13451](http://arxiv.org/abs/2411.13451)|null|
 |**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|**[link](https://github.com/salmakh1/ACING)**|
 |**2024-11-19**|**Information Theory of Meaningful Communication**|Doron Sivan et.al.|[2411.12728](http://arxiv.org/abs/2411.12728)|null|
 |**2024-11-19**|**Strengthening Fake News Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques. Defying BERT?**|Ahmed Akib Jawad Karim et.al.|[2411.12703](http://arxiv.org/abs/2411.12703)|null|
@@ -5543,6 +5558,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
+|**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
+|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
+|**2024-11-20**|**A Survey On Enhancing Reinforcement Learning in Complex Environments: Insights from Human and LLM Feedback**|Alireza Rashidi Laleh et.al.|[2411.13410](http://arxiv.org/abs/2411.13410)|null|
+|**2024-11-20**|**Fine-tuning Myoelectric Control through Reinforcement Learning in a Game Environment**|Kilian Freitag et.al.|[2411.13327](http://arxiv.org/abs/2411.13327)|null|
+|**2024-11-20**|**Backward Stochastic Control System with Entropy Regularization**|Ziyue Chen et.al.|[2411.13219](http://arxiv.org/abs/2411.13219)|null|
+|**2024-11-20**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|null|
+|**2024-11-20**|**Engagement-Driven Content Generation with Large Language Models**|Erica Coppolillo et.al.|[2411.13187](http://arxiv.org/abs/2411.13187)|null|
+|**2024-11-20**|**Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation**|Johannes Pitz et.al.|[2411.13148](http://arxiv.org/abs/2411.13148)|null|
+|**2024-11-20**|**ReinFog: A DRL Empowered Framework for Resource Management in Edge and Cloud Computing Environments**|Zhiyu Wang et.al.|[2411.13121](http://arxiv.org/abs/2411.13121)|null|
 |**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|**[link](https://github.com/salmakh1/ACING)**|
 |**2024-11-19**|**Reinforcement Learning, Collusion, and the Folk Theorem**|Galit Askenazi-Golan et.al.|[2411.12725](http://arxiv.org/abs/2411.12725)|null|
 |**2024-11-19**|**UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments**|Chunru Lin et.al.|[2411.12711](http://arxiv.org/abs/2411.12711)|null|
@@ -7380,6 +7405,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light Condition in Underground Mines**|Mizanur Rahman Jewel et.al.|[2411.13544](http://arxiv.org/abs/2411.13544)|null|
+|**2024-11-20**|**Entropy Bootstrapping for Weakly Supervised Nuclei Detection**|James Willoughby et.al.|[2411.13528](http://arxiv.org/abs/2411.13528)|null|
+|**2024-11-20**|**BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation**|Umamaheswaran Raman Kumar et.al.|[2411.13251](http://arxiv.org/abs/2411.13251)|null|
+|**2024-11-20**|**XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation**|Ziyi Wang et.al.|[2411.13243](http://arxiv.org/abs/2411.13243)|**[link](https://github.com/wangzy22/xmask3d)**|
+|**2024-11-20**|**Automating Sonologists USG Commands with AI and Voice Interface**|Emad Mohamed et.al.|[2411.13006](http://arxiv.org/abs/2411.13006)|null|
 |**2024-11-19**|**A Multimodal Approach Combining Structural and Cross-domain Textual Guidance for Weakly Supervised OCT Segmentation**|Jiaqi Yang et.al.|[2411.12615](http://arxiv.org/abs/2411.12615)|**[link](https://github.com/yangjiaqidig/WSSS-AGM)**|
 |**2024-11-19**|**SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation**|Ron Keuth et.al.|[2411.12602](http://arxiv.org/abs/2411.12602)|**[link](https://github.com/multimodallearning/samcarriestheburden)**|
 |**2024-11-19**|**ADV2E: Bridging the Gap Between Analogue Circuit and Discrete Frames in the Video-to-Events Simulator**|Xiao Jiang et.al.|[2411.12250](http://arxiv.org/abs/2411.12250)|null|
@@ -8456,6 +8486,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light Condition in Underground Mines**|Mizanur Rahman Jewel et.al.|[2411.13544](http://arxiv.org/abs/2411.13544)|null|
+|**2024-11-20**|**A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**|Kavin Chandrasekaran et.al.|[2411.13311](http://arxiv.org/abs/2411.13311)|**[link](https://github.com/tue-mps/refnet)**|
+|**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186](http://arxiv.org/abs/2411.13186)|null|
+|**2024-11-20**|**RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation**|Christoph Reinders et.al.|[2411.13150](http://arxiv.org/abs/2411.13150)|null|
+|**2024-11-20**|**YCB-LUMA: YCB Object Dataset with Luminance Keying for Object Localization**|Thomas Pöllabauer et.al.|[2411.13149](http://arxiv.org/abs/2411.13149)|null|
+|**2024-11-20**|**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**|Yongdong Luo et.al.|[2411.13093](http://arxiv.org/abs/2411.13093)|**[link](https://github.com/leon1207/video-rag-master)**|
+|**2024-11-20**|**Bounding-box Watermarking: Defense against Model Extraction Attacks on Object Detectors**|Satoru Koda et.al.|[2411.13047](http://arxiv.org/abs/2411.13047)|null|
+|**2024-11-20**|**Collaborative Feature-Logits Contrastive Learning for Open-Set Semi-Supervised Object Detection**|Xinhao Zhong et.al.|[2411.13001](http://arxiv.org/abs/2411.13001)|null|
 |**2024-11-19**|**Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images**|Matteo Toso et.al.|[2411.12620](http://arxiv.org/abs/2411.12620)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|null|
 |**2024-11-19**|**Physics-Guided Detector for SAR Airplanes**|Zhongling Huang et.al.|[2411.12301](http://arxiv.org/abs/2411.12301)|**[link](https://github.com/xai4sar/pgd)**|
