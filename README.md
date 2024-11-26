@@ -29,7 +29,7 @@
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
 |**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
-|**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
+|**2024-11-24**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231](http://arxiv.org/abs/2410.23231)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
 |**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213](http://arxiv.org/abs/2410.22213)|null|
@@ -529,6 +529,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
 |**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
 |**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592](http://arxiv.org/abs/2411.12592)|**[link](https://github.com/snldmt/SPARS3R)**|
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
@@ -789,6 +790,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Image Generation Diversity Issues and How to Tame Them**|Mischa Dombrowski et.al.|[2411.16171](http://arxiv.org/abs/2411.16171)|**[link](https://github.com/mischad/beyondfid)**|
+|**2024-11-24**|**PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments**|Haoang Li et.al.|[2411.15800](http://arxiv.org/abs/2411.15800)|null|
 |**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704](http://arxiv.org/abs/2411.14704)|**[link](https://github.com/ZbaoSun/CMPAGL)**|
 |**2024-11-20**|**Globally Correlation-Aware Hard Negative Generation**|Wenjie Peng et.al.|[2411.13145](http://arxiv.org/abs/2411.13145)|**[link](https://github.com/pwenjay/gca-hng)**|
 |**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
@@ -1754,6 +1757,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
 |**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676](http://arxiv.org/abs/2411.12676)|null|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-11-04**|**KptLLM: Unveiling the Power of Large Language Model for Keypoint Comprehension**|Jie Yang et.al.|[2411.01846](http://arxiv.org/abs/2411.01846)|null|
@@ -2297,9 +2301,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392](http://arxiv.org/abs/2411.16392)|null|
+|**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172](http://arxiv.org/abs/2411.16172)|null|
+|**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
+|**2024-11-24**|**GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**|Xu Baixin et.al.|[2411.15723](http://arxiv.org/abs/2411.15723)|**[link](https://github.com/xubaixinxbx/gsurf)**|
+|**2024-11-23**|**NeRF Inpainting with Geometric Diffusion Prior and Balanced Score Distillation**|Menglin Zhang et.al.|[2411.15551](http://arxiv.org/abs/2411.15551)|null|
+|**2024-11-23**|**SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion**|Runfa Blark Li et.al.|[2411.15468](http://arxiv.org/abs/2411.15468)|null|
+|**2024-11-20**|**Sparse Input View Synthesis: 3D Representations and Reliable Priors**|Nagabhushan Somraj et.al.|[2411.13631](http://arxiv.org/abs/2411.13631)|null|
 |**2024-11-20**|**Robust SG-NeRF: Robust Scene Graph Aided Neural Surface Reconstruction**|Yi Gu et.al.|[2411.13620](http://arxiv.org/abs/2411.13620)|null|
 |**2024-11-20**|**GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting**|Xiaobao Wei et.al.|[2411.12981](http://arxiv.org/abs/2411.12981)|null|
-|**2024-11-19**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471](http://arxiv.org/abs/2411.12471)|null|
+|**2024-11-25**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471](http://arxiv.org/abs/2411.12471)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 |**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
 |**2024-11-18**|**LeC $^2$ O-NeRF: Learning Continuous and Compact Large-Scale Occupancy for Urban Scenes**|Zhenxing Mi et.al.|[2411.11374](http://arxiv.org/abs/2411.11374)|null|
@@ -3676,6 +3687,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?**|Sohee Yang et.al.|[2411.16679](http://arxiv.org/abs/2411.16679)|null|
+|**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
+|**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
+|**2024-11-25**|**Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective**|Jean Marie Tshimula et.al.|[2411.16642](http://arxiv.org/abs/2411.16642)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602](http://arxiv.org/abs/2411.16602)|null|
+|**2024-11-25**|**From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge**|Dawei Li et.al.|[2411.16594](http://arxiv.org/abs/2411.16594)|**[link](https://github.com/llm-as-a-judge/awesome-llm-as-a-judge)**|
+|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[2411.16587](http://arxiv.org/abs/2411.16587)|null|
+|**2024-11-25**|**MarketGPT: Developing a Pre-trained transformer (GPT) for Modeling Financial Time Series**|Aaron Wheeler et.al.|[2411.16585](http://arxiv.org/abs/2411.16585)|null|
+|**2024-11-25**|**Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision**|Zhiheng Xi et.al.|[2411.16579](http://arxiv.org/abs/2411.16579)|null|
+|**2024-11-25**|**Predictive Power of LLMs in Financial Markets**|Jerick Shi et.al.|[2411.16569](http://arxiv.org/abs/2411.16569)|null|
 |**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129](http://arxiv.org/abs/2411.15129)|null|
 |**2024-11-22**|**AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution**|Fengyuan Liu et.al.|[2411.15102](http://arxiv.org/abs/2411.15102)|**[link](https://github.com/r-three/AttriBoT)**|
 |**2024-11-22**|**XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models**|Yixin Dong et.al.|[2411.15100](http://arxiv.org/abs/2411.15100)|null|
@@ -5581,6 +5602,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
+|**2024-11-25**|**Continual Deep Reinforcement Learning with Task-Agnostic Policy Distillation**|Muhammad Burhan Hafez et.al.|[2411.16532](http://arxiv.org/abs/2411.16532)|**[link](https://github.com/wabbajack1/tapd)**|
+|**2024-11-25**|**Reinforcement Learning for Bidding Strategy Optimization in Day-Ahead Energy Market**|Luca Di Persio et.al.|[2411.16519](http://arxiv.org/abs/2411.16519)|null|
+|**2024-11-25**|**Unsupervised Event Outlier Detection in Continuous Time**|Somjit Nath et.al.|[2411.16427](http://arxiv.org/abs/2411.16427)|null|
+|**2024-11-25**|**CATP-LLM: Empowering Large Language Models for Cost-Aware Tool Planning**|Duo Wu et.al.|[2411.16313](http://arxiv.org/abs/2411.16313)|null|
+|**2024-11-25**|**Probing for Consciousness in Machines**|Mathis Immertreu et.al.|[2411.16262](http://arxiv.org/abs/2411.16262)|null|
+|**2024-11-25**|**Multi-Robot Reliable Navigation in Uncertain Topological Environments with Graph Attention Networks**|Zhuoyuan Yu et.al.|[2411.16134](http://arxiv.org/abs/2411.16134)|null|
+|**2024-11-25**|**Why the Agent Made that Decision: Explaining Deep Reinforcement Learning with Vision Masks**|Rui Zuo et.al.|[2411.16120](http://arxiv.org/abs/2411.16120)|null|
+|**2024-11-25**|**M3: Mamba-assisted Multi-Circuit Optimization via MBRL with Effective Scheduling**|Youngmin Oh et.al.|[2411.16019](http://arxiv.org/abs/2411.16019)|null|
+|**2024-11-24**|**Partial Identifiability and Misspecification in Inverse Reinforcement Learning**|Joar Skalse et.al.|[2411.15951](http://arxiv.org/abs/2411.15951)|null|
 |**2024-11-22**|**Learning-based Trajectory Tracking for Bird-inspired Flapping-Wing Robots**|Jiaze Cai et.al.|[2411.15130](http://arxiv.org/abs/2411.15130)|null|
 |**2024-11-22**|**TÜLU 3: Pushing Frontiers in Open Language Model Post-Training**|Nathan Lambert et.al.|[2411.15124](http://arxiv.org/abs/2411.15124)|null|
 |**2024-11-22**|**On Multi-Agent Inverse Reinforcement Learning**|Till Freihaut et.al.|[2411.15046](http://arxiv.org/abs/2411.15046)|null|
@@ -7448,6 +7479,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Deformable Mamba for Wide Field of View Segmentation**|Jie Hu et.al.|[2411.16481](http://arxiv.org/abs/2411.16481)|**[link](https://github.com/jiehu1996/deformablemamba)**|
+|**2024-11-25**|**A Study on Unsupervised Domain Adaptation for Semantic Segmentation in the Era of Vision-Language Models**|Manuel Schwonberg et.al.|[2411.16407](http://arxiv.org/abs/2411.16407)|null|
+|**2024-11-25**|**CutS3D: Cutting Semantics in 3D for 2D Unsupervised Instance Segmentation**|Leon Sick et.al.|[2411.16319](http://arxiv.org/abs/2411.16319)|null|
+|**2024-11-25**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308](http://arxiv.org/abs/2411.16308)|null|
+|**2024-11-25**|**A Performance Increment Strategy for Semantic Segmentation of Low-Resolution Images from Damaged Roads**|Rafael S. Toledo et.al.|[2411.16295](http://arxiv.org/abs/2411.16295)|null|
+|**2024-11-25**|**Weakly supervised image segmentation for defect-based grading of fresh produce**|Manuel Knott et.al.|[2411.16219](http://arxiv.org/abs/2411.16219)|null|
+|**2024-11-25**|**Learn from Foundation Model: Fruit Detection Model without Manual Annotation**|Yanan Wang et.al.|[2411.16196](http://arxiv.org/abs/2411.16196)|null|
+|**2024-11-25**|**Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking**|Phuc Nguyen et.al.|[2411.16183](http://arxiv.org/abs/2411.16183)|null|
+|**2024-11-25**|**Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training**|Man Yao et.al.|[2411.16061](http://arxiv.org/abs/2411.16061)|**[link](https://github.com/biclab/spike-driven-transformer-v3)**|
+|**2024-11-24**|**Deep Learning for automated multi-scale functional field boundaries extraction using multi-date Sentinel-2 and PlanetScope imagery: Case Study of Netherlands and Pakistan**|Saba Zahid et.al.|[2411.15923](http://arxiv.org/abs/2411.15923)|null|
 |**2024-11-22**|**Effective SAM Combination for Open-Vocabulary Semantic Segmentation**|Minhyeok Lee et.al.|[2411.14723](http://arxiv.org/abs/2411.14723)|null|
 |**2024-11-21**|**Revisiting the Integration of Convolution and Attention for Vision Backbone**|Lei Zhu et.al.|[2411.14429](http://arxiv.org/abs/2411.14429)|**[link](https://github.com/rayleizhu/glmix)**|
 |**2024-11-21**|**CompetitorFormer: Competitor Transformer for 3D Instance Segmentation**|Duanchu Wang et.al.|[2411.14179](http://arxiv.org/abs/2411.14179)|null|
@@ -8535,6 +8576,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Imperceptible Adversarial Examples in the Physical World**|Weilin Xu et.al.|[2411.16622](http://arxiv.org/abs/2411.16622)|null|
+|**2024-11-25**|**STDWeb: Simple Transient Detection pipeline for the Web**|Sergey Karpov et.al.|[2411.16470](http://arxiv.org/abs/2411.16470)|null|
+|**2024-11-25**|**Machine Learning for the Digital Typhoon Dataset: Extensions to Multiple Basins and New Developments in Representations and Tasks**|Asanobu Kitamoto et.al.|[2411.16421](http://arxiv.org/abs/2411.16421)|**[link](https://github.com/kitamoto-lab/digital-typhoon)**|
+|**2024-11-25**|**CutS3D: Cutting Semantics in 3D for 2D Unsupervised Instance Segmentation**|Leon Sick et.al.|[2411.16319](http://arxiv.org/abs/2411.16319)|null|
+|**2024-11-25**|**Diagnosis of diabetic retinopathy using machine learning & deep learning technique**|Eric Shah et.al.|[2411.16250](http://arxiv.org/abs/2411.16250)|null|
+|**2024-11-25**|**Interpreting Object-level Foundation Models via Visual Precision Search**|Ruoyu Chen et.al.|[2411.16198](http://arxiv.org/abs/2411.16198)|null|
+|**2024-11-25**|**Learn from Foundation Model: Fruit Detection Model without Manual Annotation**|Yanan Wang et.al.|[2411.16196](http://arxiv.org/abs/2411.16196)|null|
+|**2024-11-25**|**CIA: Controllable Image Augmentation Framework Based on Stable Diffusion**|Mohamed Benkedadra et.al.|[2411.16128](http://arxiv.org/abs/2411.16128)|null|
+|**2024-11-25**|**You only thermoelastically deform once: Point Absorber Detection in LIGO Test Masses with YOLO**|Simon R. Goode et.al.|[2411.16104](http://arxiv.org/abs/2411.16104)|null|
+|**2024-11-25**|**Leverage Task Context for Object Affordance Ranking**|Haojie Huang et.al.|[2411.16082](http://arxiv.org/abs/2411.16082)|null|
 |**2024-11-22**|**A Real-Time DETR Approach to Bangladesh Road Object Detection for Autonomous Vehicles**|Irfan Nafiz Shahan et.al.|[2411.15110](http://arxiv.org/abs/2411.15110)|null|
 |**2024-11-22**|**MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving**|Hongsi Liu et.al.|[2411.15016](http://arxiv.org/abs/2411.15016)|null|
 |**2024-11-22**|**VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**|Haiming Zhang et.al.|[2411.14716](http://arxiv.org/abs/2411.14716)|null|
