@@ -3699,7 +3699,7 @@
 |**2024-11-27**|**A Pipeline of Neural-Symbolic Integration to Enhance Spatial Reasoning in Large Language Models**|Rong Wang et.al.|[2411.18564](http://arxiv.org/abs/2411.18564)|null|
 |**2024-11-27**|**DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation**|Zhixuan Liang et.al.|[2411.18562](http://arxiv.org/abs/2411.18562)|null|
 |**2024-11-27**|**Retrofitting (Large) Language Models with Dynamic Tokenization**|Darius Feher et.al.|[2411.18553](http://arxiv.org/abs/2411.18553)|null|
-|**2024-11-27**|**Emergence of Self-Identity in AI: A Mathematical Framework and Empirical Study with Generative Large Language Models**|Minhyeok Lee et.al.|[2411.18530](http://arxiv.org/abs/2411.18530)|null|
+|**2024-11-27**|**Emergence of Self-Identity in AI: A Mathematical Framework and Empirical Study with Generative Large Language Models**|Minhyeok Lee et.al.|[2411.18530](http://arxiv.org/abs/2411.18530)|**[link](https://github.com/BrainJellyPie/self)**|
 |**2024-11-27**|**LLM-ABBA: Understand time series via symbolic approximation**|Erin Carson et.al.|[2411.18506](http://arxiv.org/abs/2411.18506)|null|
 |**2024-11-27**|**GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**|Pengfei Zhou et.al.|[2411.18499](http://arxiv.org/abs/2411.18499)|null|
 |**2024-11-27**|**Beyond Examples: High-level Automated Reasoning Paradigm in In-Context Learning via MCTS**|Jinyang Wu et.al.|[2411.18478](http://arxiv.org/abs/2411.18478)|null|
@@ -5636,7 +5636,7 @@
 |**2024-11-27**|**Dynamic Retail Pricing via Q-Learning -- A Reinforcement Learning Framework for Enhanced Revenue Management**|Mohit Apte et.al.|[2411.18261](http://arxiv.org/abs/2411.18261)|null|
 |**2024-11-27**|**Dependency-Aware CAV Task Scheduling via Diffusion-Based Reinforcement Learning**|Xiang Cheng et.al.|[2411.18230](http://arxiv.org/abs/2411.18230)|null|
 |**2024-11-27**|**Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**|Di Zhang et.al.|[2411.18203](http://arxiv.org/abs/2411.18203)|null|
-|**2024-11-27**|**Scalable Multi-Objective Reinforcement Learning with Fairness Guarantees using Lorenz Dominance**|Dimitris Michailidis et.al.|[2411.18195](http://arxiv.org/abs/2411.18195)|null|
+|**2024-11-27**|**Scalable Multi-Objective Reinforcement Learning with Fairness Guarantees using Lorenz Dominance**|Dimitris Michailidis et.al.|[2411.18195](http://arxiv.org/abs/2411.18195)|**[link](https://github.com/sias-uva/mo-transport-network-design)**|
 |**2024-11-27**|**ORIS: Online Active Learning Using Reinforcement Learning-based Inclusive Sampling for Robust Streaming Analytics System**|Rahul Pandey et.al.|[2411.18060](http://arxiv.org/abs/2411.18060)|null|
 |**2024-11-26**|**Multi-Objective Reinforcement Learning for Automated Resilient Cyber Defence**|Ross O'Driscoll et.al.|[2411.17585](http://arxiv.org/abs/2411.17585)|null|
 |**2024-11-26**|**Ensuring Safety in Target Pursuit Control: A CBF-Safe Reinforcement Learning Approach**|Yaosheng Deng et.al.|[2411.17552](http://arxiv.org/abs/2411.17552)|null|
@@ -8636,7 +8636,7 @@
 |---|---|---|---|---|
 |**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443](http://arxiv.org/abs/2411.18443)|null|
 |**2024-11-27**|**Deep Fourier-embedded Network for Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.18409](http://arxiv.org/abs/2411.18409)|**[link](https://github.com/joshualpf/dfenet)**|
-|**2024-11-27**|**Optimizing Multispectral Object Detection: A Bag of Tricks and Comprehensive Benchmarks**|Chen Zhou et.al.|[2411.18288](http://arxiv.org/abs/2411.18288)|null|
+|**2024-11-27**|**Optimizing Multispectral Object Detection: A Bag of Tricks and Comprehensive Benchmarks**|Chen Zhou et.al.|[2411.18288](http://arxiv.org/abs/2411.18288)|**[link](https://github.com/cpboost/double-co-detr)**|
 |**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207](http://arxiv.org/abs/2411.18207)|**[link](https://github.com/343gltysprk/ovow)**|
 |**2024-11-27**|**RPEE-HEADS: A Novel Benchmark for Pedestrian Head Detection in Crowd Videos**|Mohamad Abubaker et.al.|[2411.18164](http://arxiv.org/abs/2411.18164)|null|
 |**2024-11-27**|**ROICtrl: Boosting Instance Control for Visual Generation**|Yuchao Gu et.al.|[2411.17949](http://arxiv.org/abs/2411.17949)|null|
