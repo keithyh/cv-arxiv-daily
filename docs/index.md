@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -791,7 +791,7 @@ layout: default
 |**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475](http://arxiv.org/abs/2412.14475)|null|
 |**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113](http://arxiv.org/abs/2412.14113)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
 |**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834](http://arxiv.org/abs/2412.13834)|null|
-|**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|null|
+|**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|**[link](https://github.com/zijunli7/condo)**|
 |**2024-12-17**|**Three Things to Know about Deep Metric Learning**|Yash Patel et.al.|[2412.12432](http://arxiv.org/abs/2412.12432)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
 |**2024-12-18**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
@@ -3756,12 +3756,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|null|
-|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194](http://arxiv.org/abs/2412.15194)|null|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
+|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194](http://arxiv.org/abs/2412.15194)|**[link](https://github.com/microsoft/mmlu-cf)**|
 |**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
 |**2024-12-19**|**Data for Mathematical Copilots: Better Ways of Presenting Proofs for Machine Learning**|Simon Frieder et.al.|[2412.15184](http://arxiv.org/abs/2412.15184)|null|
 |**2024-12-19**|**HPC-Coder-V2: Studying Code LLMs Across Low-Resource Parallel Languages**|Aman Chaturvedi et.al.|[2412.15178](http://arxiv.org/abs/2412.15178)|null|
-|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|null|
+|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|**[link](https://github.com/fcast07/cqot)**|
 |**2024-12-19**|**Rethinking Uncertainty Estimation in Natural Language Generation**|Lukas Aichberger et.al.|[2412.15176](http://arxiv.org/abs/2412.15176)|null|
 |**2024-12-19**|**Language Models as Continuous Self-Evolving Data Engineers**|Peidong Wang et.al.|[2412.15151](http://arxiv.org/abs/2412.15151)|null|
 |**2024-12-19**|**Adaptive Pruning for Large Language Models with Structural Importance Awareness**|Haotian Zheng et.al.|[2412.15127](http://arxiv.org/abs/2412.15127)|null|
@@ -7859,7 +7859,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-19**|**GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation**|G. Andrade-Miranda et.al.|[2412.15054](http://arxiv.org/abs/2412.15054)|null|
+|**2024-12-19**|**GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation**|G. Andrade-Miranda et.al.|[2412.15054](http://arxiv.org/abs/2412.15054)|**[link](https://github.com/andrade-miranda/girafe)**|
 |**2024-12-19**|**PC-BEV: An Efficient Polar-Cartesian BEV Fusion Framework for LiDAR Semantic Segmentation**|Shoumeng Qiu et.al.|[2412.14821](http://arxiv.org/abs/2412.14821)|**[link](https://github.com/skyshoumeng/pc-bev)**|
 |**2024-12-19**|**Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers**|Rui Ding et.al.|[2412.14633](http://arxiv.org/abs/2412.14633)|null|
 |**2024-12-19**|**Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation**|Zhenxin Lei et.al.|[2412.14587](http://arxiv.org/abs/2412.14587)|null|
@@ -9060,11 +9060,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-19**|**Leveraging Color Channel Independence for Improved Unsupervised Object Detection**|Bastian Jäckl et.al.|[2412.15150](http://arxiv.org/abs/2412.15150)|null|
-|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|null|
+|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|**[link](https://github.com/d-robotics-ai-lab/dosod)**|
 |**2024-12-19**|**Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers**|Rui Ding et.al.|[2412.14633](http://arxiv.org/abs/2412.14633)|null|
 |**2024-12-19**|**Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network**|Kunpeng Wang et.al.|[2412.14576](http://arxiv.org/abs/2412.14576)|**[link](https://github.com/angknpng/pcnet)**|
 |**2024-12-19**|**SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection**|Ruoyu Xu et.al.|[2412.14571](http://arxiv.org/abs/2412.14571)|null|
-|**2024-12-18**|**HA-RDet: Hybrid Anchor Rotation Detector for Oriented Object Detection**|Phuc D. A. Nguyen et.al.|[2412.14379](http://arxiv.org/abs/2412.14379)|null|
+|**2024-12-18**|**HA-RDet: Hybrid Anchor Rotation Detector for Oriented Object Detection**|Phuc D. A. Nguyen et.al.|[2412.14379](http://arxiv.org/abs/2412.14379)|**[link](https://github.com/phucnda/ha-rdet)**|
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088](http://arxiv.org/abs/2412.14088)|**[link](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-18**|**Object Style Diffusion for Generalized Object Detection in Urban Scene**|Hao Li et.al.|[2412.13815](http://arxiv.org/abs/2412.13815)|null|
 |**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
