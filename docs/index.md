@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.07
+## Updated on 2025.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3805,7 +3805,7 @@ layout: default
 |**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
 |**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
 |**2025-01-06**|**VicSim: Enhancing Victim Simulation with Emotional and Linguistic Fidelity**|Yerong Li et.al.|[2501.03139](http://arxiv.org/abs/2501.03139)|null|
-|**2025-01-06**|**PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models**|Mingyang Song et.al.|[2501.03124](http://arxiv.org/abs/2501.03124)|null|
+|**2025-01-06**|**PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models**|Mingyang Song et.al.|[2501.03124](http://arxiv.org/abs/2501.03124)|**[link](https://github.com/ssmisya/PRMBench)**|
 |**2025-01-06**|**CAT: Content-Adaptive Image Tokenization**|Junhong Shen et.al.|[2501.03120](http://arxiv.org/abs/2501.03120)|null|
 |**2025-01-06**|**LangFair: A Python Package for Assessing Bias and Fairness in Large Language Model Use Cases**|Dylan Bouchard et.al.|[2501.03112](http://arxiv.org/abs/2501.03112)|**[link](https://github.com/cvs-health/langfair)**|
 |**2025-01-03**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957](http://arxiv.org/abs/2501.01957)|**[link](https://github.com/VITA-MLLM/VITA)**|
@@ -8065,7 +8065,7 @@ layout: default
 |**2025-01-03**|**DreamMask: Boosting Open-vocabulary Panoptic Segmentation with Synthetic Data**|Yuanpeng Tu et.al.|[2501.02048](http://arxiv.org/abs/2501.02048)|null|
 |**2025-01-03**|**Semantic Segmentation for Sequential Historical Maps by Learning from Only One Map**|Yunshuang Yuan et.al.|[2501.01845](http://arxiv.org/abs/2501.01845)|null|
 |**2025-01-03**|**Dedicated Inference Engine and Binary-Weight Neural Networks for Lightweight Instance Segmentation**|Tse-Wei Chen et.al.|[2501.01841](http://arxiv.org/abs/2501.01841)|null|
-|**2025-01-03**|**IAM: Enhancing RGB-D Instance Segmentation with New Benchmarks**|Aecheon Jung et.al.|[2501.01685](http://arxiv.org/abs/2501.01685)|**[link](https://github.com/aim-skku/nyudv2-is)**|
+|**2025-01-03**|**IAM: Enhancing RGB-D Instance Segmentation with New Benchmarks**|Aecheon Jung et.al.|[2501.01685](http://arxiv.org/abs/2501.01685)|**[link](https://github.com/aim-skku/box-is)**|
 |**2025-01-03**|**Uncertainty and Energy based Loss Guided Semi-Supervised Semantic Segmentation**|Rini Smita Thakur et.al.|[2501.01640](http://arxiv.org/abs/2501.01640)|null|
 |**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|**[link](https://github.com/yoshitomo-matsubara/ladon-multi-task-sc2)**|
 |**2025-01-02**|**Leverage Cross-Attention for End-to-End Open-Vocabulary Panoptic Reconstruction**|Xuan Yu et.al.|[2501.01119](http://arxiv.org/abs/2501.01119)|null|
