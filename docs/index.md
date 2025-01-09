@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.08
+## Updated on 2025.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9328,7 +9328,7 @@ layout: default
 |**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[2501.04005](http://arxiv.org/abs/2501.04005)|null|
 |**2025-01-07**|**Visual question answering: from early developments to recent advances -- a survey**|Ngoc Dung Huynh et.al.|[2501.03939](http://arxiv.org/abs/2501.03939)|null|
 |**2025-01-07**|**SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**|Runci Bai et.al.|[2501.03836](http://arxiv.org/abs/2501.03836)|null|
-|**2025-01-07**|**Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection**|Xinbin Yuan et.al.|[2501.03775](http://arxiv.org/abs/2501.03775)|**[link](https://github.com/yxb-nku/strip-r-cnn)**|
+|**2025-01-07**|**Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection**|Xinbin Yuan et.al.|[2501.03775](http://arxiv.org/abs/2501.03775)|**[link](https://github.com/zcablii/lsknet)**|
 |**2025-01-07**|**AuxDepthNet: Real-Time Monocular 3D Object Detection with Depth-Sensitive Features**|Ruochen Zhang et.al.|[2501.03700](http://arxiv.org/abs/2501.03700)|null|
 |**2025-01-07**|**Anomaly Triplet-Net: Progress Recognition Model Using Deep Metric Learning Considering Occlusion for Manual Assembly Work**|Takumi Kitsukawa et.al.|[2501.03533](http://arxiv.org/abs/2501.03533)|null|
 |**2025-01-05**|**Multispectral Pedestrian Detection with Sparsely Annotated Label**|Chan Lee et.al.|[2501.02640](http://arxiv.org/abs/2501.02640)|null|
