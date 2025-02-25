@@ -529,6 +529,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684](http://arxiv.org/abs/2502.14684)|**[link](https://github.com/zqlin0521/cdgs-release)**|
 |**2025-02-19**|**Structure-from-Sherds++: Robust Incremental 3D Reassembly of Axially Symmetric Pots from Unordered and Mixed Fragment Collections**|Seong Jong Yoo et.al.|[2502.13986](http://arxiv.org/abs/2502.13986)|null|
 |**2025-02-19**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
@@ -818,6 +819,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|null|
+|**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|null|
+|**2025-02-23**|**SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition**|Feng Lu et.al.|[2502.16601](http://arxiv.org/abs/2502.16601)|null|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
 |**2025-02-20**|**Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition**|Tianyi Shang et.al.|[2502.14195](http://arxiv.org/abs/2502.14195)|**[link](https://github.com/nuozimiaowu/Text4VPR)**|
 |**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803](http://arxiv.org/abs/2502.13803)|null|
@@ -2151,8 +2155,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
-|**2025-02-11**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
+|**2025-02-24**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
 |**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
@@ -2444,7 +2449,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-21**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
+|**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992](http://arxiv.org/abs/2502.16992)|null|
+|**2025-02-22**|**AquaNeRF: Neural Radiance Fields in Underwater Media with Distractor Removal**|Luca Gough et.al.|[2502.16351](http://arxiv.org/abs/2502.16351)|null|
+|**2025-02-22**|**DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**|Yuxuan Xiong et.al.|[2502.16302](http://arxiv.org/abs/2502.16302)|null|
+|**2025-02-24**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
 |**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931](http://arxiv.org/abs/2502.14931)|null|
 |**2025-02-20**|**NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis**|Xiaoxing Liu et.al.|[2502.14178](http://arxiv.org/abs/2502.14178)|null|
 |**2025-02-19**|**GlossGau: Efficient Inverse Rendering for Glossy Surface with Anisotropic Spherical Gaussian**|Bang Du et.al.|[2502.14129](http://arxiv.org/abs/2502.14129)|null|
@@ -3924,6 +3932,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|null|
+|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|null|
+|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|null|
+|**2025-02-24**|**The Geometry of Refusal in Large Language Models: Concept Cones and Representational Independence**|Tom Wollschläger et.al.|[2502.17420](http://arxiv.org/abs/2502.17420)|null|
+|**2025-02-24**|**From System 1 to System 2: A Survey of Reasoning Large Language Models**|Zhong-Zhi Li et.al.|[2502.17419](http://arxiv.org/abs/2502.17419)|null|
+|**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416](http://arxiv.org/abs/2502.17416)|null|
+|**2025-02-24**|**COSMOS: A Hybrid Adaptive Optimizer for Memory-Efficient Training of LLMs**|Liming Liu et.al.|[2502.17410](http://arxiv.org/abs/2502.17410)|null|
+|**2025-02-24**|**Large Language Models are Powerful EHR Encoders**|Stefan Hegselmann et.al.|[2502.17403](http://arxiv.org/abs/2502.17403)|null|
+|**2025-02-24**|**On Relation-Specific Neurons in Large Language Models**|Yihong Liu et.al.|[2502.17355](http://arxiv.org/abs/2502.17355)|null|
+|**2025-02-24**|**How Scientists Use Large Language Models to Program**|Gabrielle O'Brien et.al.|[2502.17348](http://arxiv.org/abs/2502.17348)|null|
 |**2025-02-21**|**Privacy Ripple Effects from Adding or Removing Personal Information in Language Model Training**|Jaydeep Borkar et.al.|[2502.15680](http://arxiv.org/abs/2502.15680)|null|
 |**2025-02-21**|**FLEKE: Federated Locate-then-Edit Knowledge Editing**|Zongkai Zhao et.al.|[2502.15677](http://arxiv.org/abs/2502.15677)|null|
 |**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676](http://arxiv.org/abs/2502.15676)|null|
@@ -6397,6 +6415,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Event-Based Limit Order Book Simulation under a Neural Hawkes Process: Application in Market-Making**|Luca Lalor et.al.|[2502.17417](http://arxiv.org/abs/2502.17417)|null|
+|**2025-02-24**|**Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models**|Alon Albalak et.al.|[2502.17387](http://arxiv.org/abs/2502.17387)|null|
+|**2025-02-24**|**Distributed Coordination for Heterogeneous Non-Terrestrial Networks**|Jikang Deng et.al.|[2502.17366](http://arxiv.org/abs/2502.17366)|null|
+|**2025-02-24**|**TDMPBC: Self-Imitative Reinforcement Learning for Humanoid Robot Control**|Zifeng Zhuang et.al.|[2502.17322](http://arxiv.org/abs/2502.17322)|null|
+|**2025-02-24**|**Survey on Strategic Mining in Blockchain: A Reinforcement Learning Approach**|Jichen Li et.al.|[2502.17307](http://arxiv.org/abs/2502.17307)|null|
+|**2025-02-24**|**A Reinforcement Learning Approach to Non-prehensile Manipulation through Sliding**|Hamidreza Raei et.al.|[2502.17221](http://arxiv.org/abs/2502.17221)|null|
+|**2025-02-24**|**Humanoid Whole-Body Locomotion on Narrow Terrain via Dynamic Balance and Reinforcement Learning**|Weiji Xie et.al.|[2502.17219](http://arxiv.org/abs/2502.17219)|null|
+|**2025-02-24**|**Teleology-Driven Affective Computing: A Causal Framework for Sustained Well-Being**|Bin Yin et.al.|[2502.17172](http://arxiv.org/abs/2502.17172)|null|
+|**2025-02-24**|**A Novel Multiple Access Scheme for Heterogeneous Wireless Communications using Symmetry-aware Continual Deep Reinforcement Learning**|Hamidreza Mazandarani et.al.|[2502.17167](http://arxiv.org/abs/2502.17167)|null|
+|**2025-02-24**|**MA2RL: Masked Autoencoders for Generalizable Multi-Agent Reinforcement Learning**|Jinyuan Feng et.al.|[2502.17046](http://arxiv.org/abs/2502.17046)|null|
 |**2025-02-21**|**Automating Curriculum Learning for Reinforcement Learning using a Skill-Based Bayesian Network**|Vincent Hsiao et.al.|[2502.15662](http://arxiv.org/abs/2502.15662)|null|
 |**2025-02-21**|**A Simulation Pipeline to Facilitate Real-World Robotic Reinforcement Learning Applications**|Jefferson Silveira et.al.|[2502.15649](http://arxiv.org/abs/2502.15649)|null|
 |**2025-02-21**|**SALSA-RL: Stability Analysis in the Latent Space of Actions for Reinforcement Learning**|Xuyang Li et.al.|[2502.15512](http://arxiv.org/abs/2502.15512)|null|
@@ -8823,6 +8851,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**CLIMB-3D: Continual Learning for Imbalanced 3D Instance Segmentation**|Vishal Thengane et.al.|[2502.17429](http://arxiv.org/abs/2502.17429)|null|
+|**2025-02-24**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157](http://arxiv.org/abs/2502.17157)|**[link](https://github.com/aim-uofa/Diception)**|
+|**2025-02-24**|**SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**|Wendi Liu et.al.|[2502.17056](http://arxiv.org/abs/2502.17056)|null|
+|**2025-02-23**|**VPNeXt -- Rethinking Dense Decoding for Plain Vision Transformer**|Xikai Tang et.al.|[2502.16654](http://arxiv.org/abs/2502.16654)|null|
+|**2025-02-23**|**Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration**|Kim Jun-Seong et.al.|[2502.16652](http://arxiv.org/abs/2502.16652)|null|
+|**2025-02-23**|**OpenVox: Real-time Instance-level Open-vocabulary Probabilistic Voxel Representation**|Yinan Deng et.al.|[2502.16528](http://arxiv.org/abs/2502.16528)|null|
+|**2025-02-23**|**Deep learning approaches to surgical video segmentation and object detection: A Scoping Review**|Devanish N. Kamtam et.al.|[2502.16459](http://arxiv.org/abs/2502.16459)|null|
+|**2025-02-22**|**Pointmap Association and Piecewise-Plane Constraint for Consistent and Compact 3D Gaussian Segmentation Field**|Wenhao Hu et.al.|[2502.16303](http://arxiv.org/abs/2502.16303)|null|
+|**2025-02-22**|**Importance-Aware Source-Channel Coding for Multi-Modal Task-Oriented Semantic Communication**|Yi Ma et.al.|[2502.16194](http://arxiv.org/abs/2502.16194)|null|
+|**2025-02-22**|**FeatSharp: Your Vision Model Features, Sharper**|Mike Ranzinger et.al.|[2502.16025](http://arxiv.org/abs/2502.16025)|null|
 |**2025-02-21**|**Aligning Task- and Reconstruction-Oriented Communications for Edge Intelligence**|Yufeng Diao et.al.|[2502.15472](http://arxiv.org/abs/2502.15472)|null|
 |**2025-02-21**|**DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation**|Luzhou Ge et.al.|[2502.15309](http://arxiv.org/abs/2502.15309)|**[link](https://github.com/geluzhou/dynamic-gsg)**|
 |**2025-02-21**|**Confidence-Weighted Boundary-Aware Learning for Semi-Supervised Semantic Segmentation**|Ebenezer Tarubinga et.al.|[2502.15152](http://arxiv.org/abs/2502.15152)|null|
@@ -10203,6 +10241,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Experimental validation of UAV search and detection system in real wilderness environment**|Stella Dumenčić et.al.|[2502.17372](http://arxiv.org/abs/2502.17372)|null|
+|**2025-02-24**|**LCV2I: Communication-Efficient and High-Performance Collaborative Perception Framework with Low-Resolution LiDAR**|Xinxin Feng et.al.|[2502.17039](http://arxiv.org/abs/2502.17039)|null|
+|**2025-02-23**|**Geometry-Aware 3D Salient Object Detection Network**|Chen Wang et.al.|[2502.16488](http://arxiv.org/abs/2502.16488)|null|
+|**2025-02-23**|**MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering**|Caixiong Li et.al.|[2502.16486](http://arxiv.org/abs/2502.16486)|null|
+|**2025-02-23**|**Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment**|Zeyu Shangguan et.al.|[2502.16469](http://arxiv.org/abs/2502.16469)|null|
+|**2025-02-23**|**Deep learning approaches to surgical video segmentation and object detection: A Scoping Review**|Devanish N. Kamtam et.al.|[2502.16459](http://arxiv.org/abs/2502.16459)|null|
+|**2025-02-22**|**FeatSharp: Your Vision Model Features, Sharper**|Mike Ranzinger et.al.|[2502.16025](http://arxiv.org/abs/2502.16025)|null|
+|**2025-02-21**|**Generative AI Framework for 3D Object Generation in Augmented Reality**|Majid Behravan et.al.|[2502.15869](http://arxiv.org/abs/2502.15869)|null|
 |**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516](http://arxiv.org/abs/2502.15516)|null|
 |**2025-02-21**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488](http://arxiv.org/abs/2502.15488)|null|
 |**2025-02-20**|**Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**|Richard Marcus et.al.|[2502.15076](http://arxiv.org/abs/2502.15076)|null|
