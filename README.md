@@ -551,6 +551,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
+|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
+|**2025-03-10**|**VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**|Hanzhi Chen et.al.|[2503.07135](http://arxiv.org/abs/2503.07135)|null|
 |**2025-03-06**|**PLMP -- Point-Line Minimal Problems for Projective SfM**|Kim Kiehn et.al.|[2503.04351](http://arxiv.org/abs/2503.04351)|null|
 |**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311](http://arxiv.org/abs/2503.01311)|**[link](https://github.com/snt-arg/ecg2o)**|
 |**2025-03-05**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202](http://arxiv.org/abs/2503.01202)|null|
@@ -850,6 +853,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Mihcael Green et.al.|[2503.07038](http://arxiv.org/abs/2503.07038)|null|
+|**2025-03-10**|**Zero-Shot Hashing Based on Reconstruction With Part Alignment**|Yan Jiang et.al.|[2503.07037](http://arxiv.org/abs/2503.07037)|null|
+|**2025-03-10**|**Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction**|Somayeh Hussaini et.al.|[2503.06840](http://arxiv.org/abs/2503.06840)|null|
+|**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
+|**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601](http://arxiv.org/abs/2503.06601)|null|
+|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
 |**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|null|
@@ -1930,6 +1940,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
 |**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472](http://arxiv.org/abs/2503.05472)|null|
 |**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
@@ -2523,6 +2535,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/abs/2503.07425)|null|
+|**2025-03-08**|**Feature-EndoGaussian: Feature Distilled Gaussian Splatting in Surgical Deformable Scene Reconstruction**|Kai Li et.al.|[2503.06161](http://arxiv.org/abs/2503.06161)|null|
+|**2025-03-08**|**SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography**|Xuanyu Zhang et.al.|[2503.06118](http://arxiv.org/abs/2503.06118)|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-06**|**Surgical Gaussian Surfels: Highly Accurate Real-time Surgical Scene Rendering**|Idris O. Sunmola et.al.|[2503.04079](http://arxiv.org/abs/2503.04079)|null|
 |**2025-03-05**|**LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**|Qian Feng et.al.|[2503.03890](http://arxiv.org/abs/2503.03890)|null|
 |**2025-03-04**|**Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**|Zeqing Wang et.al.|[2503.02558](http://arxiv.org/abs/2503.02558)|null|
@@ -4025,6 +4041,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/abs/2503.07487)|null|
+|**2025-03-10**|**GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks Using Large Language Models and Image Generation Models**|Ryugo Morita et.al.|[2503.07463](http://arxiv.org/abs/2503.07463)|null|
+|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459](http://arxiv.org/abs/2503.07459)|null|
+|**2025-03-10**|**LLMs syntactically adapt their language use to their conversational partner**|Florian Kandra et.al.|[2503.07457](http://arxiv.org/abs/2503.07457)|null|
+|**2025-03-10**|**From Idea to Implementation: Evaluating the Influence of Large Language Models in Software Development -- An Opinion Paper**|Sargam Yadav et.al.|[2503.07450](http://arxiv.org/abs/2503.07450)|null|
+|**2025-03-10**|**From Text to Visuals: Using LLMs to Generate Math Diagrams with Vector Graphics**|Jaewook Lee et.al.|[2503.07429](http://arxiv.org/abs/2503.07429)|null|
+|**2025-03-10**|**RePO: ReLU-based Preference Optimization**|Junkang Wu et.al.|[2503.07426](http://arxiv.org/abs/2503.07426)|null|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**Revisiting Noise in Natural Language Processing for Computational Social Science**|Nadav Borenstein et.al.|[2503.07395](http://arxiv.org/abs/2503.07395)|null|
+|**2025-03-10**|**Process-Supervised LLM Recommenders via Flow-guided Tuning**|Chongming Gao et.al.|[2503.07377](http://arxiv.org/abs/2503.07377)|null|
 |**2025-03-07**|**Understanding the Limits of Lifelong Knowledge Editing in LLMs**|Lukas Thede et.al.|[2503.05683](http://arxiv.org/abs/2503.05683)|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
 |**2025-03-07**|**Learning LLM Preference over Intra-Dialogue Pairs: A Framework for Utterance-level Understandings**|Xuanqing Liu et.al.|[2503.05620](http://arxiv.org/abs/2503.05620)|null|
@@ -6590,6 +6616,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Is a Good Foundation Necessary for Efficient Reinforcement Learning? The Computational Role of the Base Model in Exploration**|Dylan J. Foster et.al.|[2503.07453](http://arxiv.org/abs/2503.07453)|null|
+|**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/abs/2503.07433)|null|
+|**2025-03-10**|**The Interplay of AI-and-RAN: Dynamic Resource Allocation for Converged 6G Platform**|Syed Danial Ali Shah et.al.|[2503.07420](http://arxiv.org/abs/2503.07420)|null|
+|**2025-03-10**|**Cost-Effective Design of Grid-tied Community Microgrid**|Moslem Uddin et.al.|[2503.07414](http://arxiv.org/abs/2503.07414)|null|
+|**2025-03-10**|**PER-DPP Sampling Framework and Its Application in Path Planning**|Junzhe Wang et.al.|[2503.07411](http://arxiv.org/abs/2503.07411)|null|
+|**2025-03-10**|**Towards Safe Robot Foundation Models**|Maximilian Tölle et.al.|[2503.07404](http://arxiv.org/abs/2503.07404)|null|
+|**2025-03-10**|**Q-MARL: A quantum-inspired algorithm using neural message passing for large-scale multi-agent reinforcement learning**|Kha Vo et.al.|[2503.07397](http://arxiv.org/abs/2503.07397)|null|
+|**2025-03-10**|**AttentionSwarm: Reinforcement Learning with Attention Control Barier Function for Crazyflie Drones in Dynamic Environments**|Grik Tadevosyan et.al.|[2503.07376](http://arxiv.org/abs/2503.07376)|null|
+|**2025-03-10**|**MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning**|Fanqing Meng et.al.|[2503.07365](http://arxiv.org/abs/2503.07365)|null|
+|**2025-03-10**|**Artificial Utopia: Simulation and Intelligent Agents for a Democratised Future**|Yannick Oswald et.al.|[2503.07364](http://arxiv.org/abs/2503.07364)|null|
 |**2025-03-07**|**Multi-Fidelity Policy Gradient Algorithms**|Xinjie Liu et.al.|[2503.05696](http://arxiv.org/abs/2503.05696)|null|
 |**2025-03-07**|**dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale**|Yihao Liu et.al.|[2503.05646](http://arxiv.org/abs/2503.05646)|null|
 |**2025-03-07**|**R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning**|Huatong Song et.al.|[2503.05592](http://arxiv.org/abs/2503.05592)|null|
@@ -9108,6 +9144,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**Semantic Communications with Computer Vision Sensing for Edge Video Transmission**|Yubo Peng et.al.|[2503.07252](http://arxiv.org/abs/2503.07252)|null|
+|**2025-03-10**|**OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation**|Ding Zhong et.al.|[2503.07098](http://arxiv.org/abs/2503.07098)|null|
+|**2025-03-10**|**Approximate Size Targets Are Sufficient for Accurate Semantic Segmentation**|Xingye Fan et.al.|[2503.06954](http://arxiv.org/abs/2503.06954)|null|
+|**2025-03-10**|**Aligning Instance-Semantic Sparse Representation towards Unsupervised Object Segmentation and Shape Abstraction with Repeatable Primitives**|Jiaxin Li et.al.|[2503.06947](http://arxiv.org/abs/2503.06947)|null|
+|**2025-03-10**|**HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors**|Siyu Li et.al.|[2503.06821](http://arxiv.org/abs/2503.06821)|null|
+|**2025-03-09**|**CoDa-4DGS: Dynamic Gaussian Splatting with Context and Deformation Awareness for Autonomous Driving**|Rui Song et.al.|[2503.06744](http://arxiv.org/abs/2503.06744)|null|
+|**2025-03-09**|**MemorySAM: Memorize Modalities and Semantics with Segment Anything Model 2 for Multi-modal Semantic Segmentation**|Chenfei Liao et.al.|[2503.06700](http://arxiv.org/abs/2503.06700)|null|
+|**2025-03-09**|**Asymmetric Decision-Making in Online Knowledge Distillation:Unifying Consensus and Divergence**|Zhaowei Chen et.al.|[2503.06685](http://arxiv.org/abs/2503.06685)|null|
+|**2025-03-09**|**Steerable Pyramid Weighted Loss: Multi-Scale Adaptive Weighting for Semantic Segmentation**|Renhao Lu et.al.|[2503.06604](http://arxiv.org/abs/2503.06604)|null|
 |**2025-03-07**|**Joint 3D Point Cloud Segmentation using Real-Sim Loop: From Panels to Trees and Branches**|Tian Qiu et.al.|[2503.05630](http://arxiv.org/abs/2503.05630)|null|
 |**2025-03-07**|**TomatoScanner: phenotyping tomato fruit based on only RGB image**|Xiaobei Zhao et.al.|[2503.05568](http://arxiv.org/abs/2503.05568)|null|
 |**2025-03-07**|**S4M: Segment Anything with 4 Extreme Points**|Adrien Meyer et.al.|[2503.05534](http://arxiv.org/abs/2503.05534)|null|
@@ -10540,6 +10586,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**YOLOE: Real-Time Seeing Anything**|Ao Wang et.al.|[2503.07465](http://arxiv.org/abs/2503.07465)|**[link](https://github.com/THU-MIG/yoloe)**|
+|**2025-03-10**|**HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection**|Qizhi Zheng et.al.|[2503.07371](http://arxiv.org/abs/2503.07371)|null|
+|**2025-03-10**|**Mitigating Hallucinations in YOLO-based Object Detection Models: A Revisit to Out-of-Distribution Detection**|Weicheng He et.al.|[2503.07330](http://arxiv.org/abs/2503.07330)|null|
+|**2025-03-10**|**Semantic Communications with Computer Vision Sensing for Edge Video Transmission**|Yubo Peng et.al.|[2503.07252](http://arxiv.org/abs/2503.07252)|null|
+|**2025-03-10**|**MIRAM: Masked Image Reconstruction Across Multiple Scales for Breast Lesion Risk Prediction**|Hung Q. Vo et.al.|[2503.07157](http://arxiv.org/abs/2503.07157)|null|
+|**2025-03-10**|**A Light Perspective for 3D Object Detection**|Marcelo Eduardo Pederiva et.al.|[2503.07133](http://arxiv.org/abs/2503.07133)|null|
+|**2025-03-10**|**SimROD: A Simple Baseline for Raw Object Detection with Global and Local Enhancements**|Haiyang Xie et.al.|[2503.07101](http://arxiv.org/abs/2503.07101)|null|
+|**2025-03-10**|**RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**|Ruidan Xing et.al.|[2503.07085](http://arxiv.org/abs/2503.07085)|null|
+|**2025-03-10**|**Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**|Dong-Hee Paek et.al.|[2503.07029](http://arxiv.org/abs/2503.07029)|null|
+|**2025-03-10**|**Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection**|Wentao Wu et.al.|[2503.06948](http://arxiv.org/abs/2503.06948)|null|
 |**2025-03-06**|**Fine-Tuning Florence2 for Enhanced Object Detection in Un-constructed Environments: Vision-Language Model Approach**|Soumyadeep Ro et.al.|[2503.04918](http://arxiv.org/abs/2503.04918)|null|
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
