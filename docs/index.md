@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -17,7 +17,7 @@ layout: default
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
-|**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373](http://arxiv.org/abs/2503.03373)|null|
+|**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373](http://arxiv.org/abs/2503.03373)|**[link](https://github.com/JD-hust/gs-dso)**|
 |**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|null|
 |**2025-03-04**|**DnD Filter: Differentiable State Estimation for Dynamic Systems using Diffusion Models**|Ziyu Wan et.al.|[2503.01274](http://arxiv.org/abs/2503.01274)|**[link](https://github.com/ziyunus/dndfilter)**|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078](http://arxiv.org/abs/2502.20078)|null|
@@ -539,7 +539,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-11**|**A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**|Felix Rydell et.al.|[2503.08142](http://arxiv.org/abs/2503.08142)|null|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
-|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
+|**2025-03-12**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
 |**2025-03-10**|**VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**|Hanzhi Chen et.al.|[2503.07135](http://arxiv.org/abs/2503.07135)|null|
 |**2025-03-06**|**PLMP -- Point-Line Minimal Problems for Projective SfM**|Kim Kiehn et.al.|[2503.04351](http://arxiv.org/abs/2503.04351)|null|
 |**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311](http://arxiv.org/abs/2503.01311)|**[link](https://github.com/snt-arg/ecg2o)**|
@@ -6623,7 +6623,7 @@ layout: default
 |**2025-03-11**|**GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training**|Tong Wei et.al.|[2503.08525](http://arxiv.org/abs/2503.08525)|null|
 |**2025-03-11**|**Hierarchical Multi Agent DRL for Soft Handovers Between Edge Clouds in Open RAN**|F. Giarrè et.al.|[2503.08493](http://arxiv.org/abs/2503.08493)|null|
 |**2025-03-11**|**Hybrid Deep Reinforcement Learning for Radio Tracer Localisation in Robotic-assisted Radioguided Surgery**|Hanyi Zhang et.al.|[2503.08492](http://arxiv.org/abs/2503.08492)|null|
-|**2025-03-11**|**An autonomous rl agent methodology for dynamic Web ui testing in a bdd framework**|Ali Hassaan Mughal et.al.|[2503.08464](http://arxiv.org/abs/2503.08464)|null|
+|**2025-03-12**|**An Autonomous RL Agent Methodology for Dynamic Web UI Testing in a BDD Framework**|Ali Hassaan Mughal et.al.|[2503.08464](http://arxiv.org/abs/2503.08464)|null|
 |**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[2503.08388](http://arxiv.org/abs/2503.08388)|null|
 |**2025-03-11**|**Gait in Eight: Efficient On-Robot Learning for Omnidirectional Quadruped Locomotion**|Nico Bohlinger et.al.|[2503.08375](http://arxiv.org/abs/2503.08375)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Qiang Zhang et.al.|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
@@ -10610,7 +10610,7 @@ layout: default
 |**2025-03-11**|**Embodied Crowd Counting**|Runling Long et.al.|[2503.08367](http://arxiv.org/abs/2503.08367)|null|
 |**2025-03-11**|**Physics-based AI methodology for Material Parameter Extraction from Optical Data**|M. Koumans et.al.|[2503.08183](http://arxiv.org/abs/2503.08183)|null|
 |**2025-03-11**|**Bring Remote Sensing Object Detect Into Nature Language Model: Using SFT Method**|Fei Wang et.al.|[2503.08144](http://arxiv.org/abs/2503.08144)|null|
-|**2025-03-11**|**Accelerate 3D Object Detection Models via Zero-Shot Attention Key Pruning**|Lizhen Xu et.al.|[2503.08101](http://arxiv.org/abs/2503.08101)|**[link](https://github.com/iseri27/tg_gbc)**|
+|**2025-03-12**|**Accelerate 3D Object Detection Models via Zero-Shot Attention Key Pruning**|Lizhen Xu et.al.|[2503.08101](http://arxiv.org/abs/2503.08101)|**[link](https://github.com/iseri27/tg_gbc)**|
 |**2025-03-11**|**SparseVoxFormer: Sparse Voxel-based Transformer for Multi-modal 3D Object Detection**|Hyeongseok Son et.al.|[2503.08092](http://arxiv.org/abs/2503.08092)|null|
 |**2025-03-11**|**Simulating Automotive Radar with Lidar and Camera Inputs**|Peili Song et.al.|[2503.08068](http://arxiv.org/abs/2503.08068)|null|
 |**2025-03-10**|**YOLOE: Real-Time Seeing Anything**|Ao Wang et.al.|[2503.07465](http://arxiv.org/abs/2503.07465)|**[link](https://github.com/THU-MIG/yoloe)**|
