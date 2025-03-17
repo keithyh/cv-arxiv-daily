@@ -854,6 +854,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692](http://arxiv.org/abs/2503.10692)|null|
 |**2025-03-13**|**ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166](http://arxiv.org/abs/2503.10166)|null|
 |**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370](http://arxiv.org/abs/2503.09370)|null|
 |**2025-03-11**|**CQVPR: Landmark-aware Contextual Queries for Visual Place Recognition**|Dongyue Li et.al.|[2503.08170](http://arxiv.org/abs/2503.08170)|null|
@@ -2235,6 +2236,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-03-06**|**Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis**|Xingcan Hu et.al.|[2503.04205](http://arxiv.org/abs/2503.04205)|null|
@@ -4056,6 +4058,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning**|Xinyi Wang et.al.|[2503.11617](http://arxiv.org/abs/2503.11617)|null|
+|**2025-03-14**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs using Semantic Space**|Zhiliang Chen et.al.|[2503.11586](http://arxiv.org/abs/2503.11586)|null|
+|**2025-03-14**|**Synthesizing Access Control Policies using Large Language Models**|Adarsh Vatsa et.al.|[2503.11573](http://arxiv.org/abs/2503.11573)|null|
+|**2025-03-14**|**Implicit Bias-Like Patterns in Reasoning Models**|Messi H. J. Lee et.al.|[2503.11572](http://arxiv.org/abs/2503.11572)|null|
+|**2025-03-14**|**VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity**|Jing Bi et.al.|[2503.11557](http://arxiv.org/abs/2503.11557)|null|
+|**2025-03-14**|**Potential of large language model-powered nudges for promoting daily water and energy conservation**|Zonghan Li et.al.|[2503.11531](http://arxiv.org/abs/2503.11531)|null|
+|**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513](http://arxiv.org/abs/2503.11513)|null|
+|**2025-03-14**|**V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning**|Zixu Cheng et.al.|[2503.11495](http://arxiv.org/abs/2503.11495)|null|
+|**2025-03-14**|**A Review of DeepSeek Models' Key Innovative Techniques**|Chengen Wang et.al.|[2503.11486](http://arxiv.org/abs/2503.11486)|null|
+|**2025-03-14**|**Integrating LLMs in Gamified Systems**|Carlos J. Costa et.al.|[2503.11458](http://arxiv.org/abs/2503.11458)|null|
 |**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|**[link](https://github.com/rongyaofang/got)**|
 |**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631](http://arxiv.org/abs/2503.10631)|null|
 |**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630](http://arxiv.org/abs/2503.10630)|null|
@@ -6671,6 +6683,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Scaling the Automated Discovery of Quantum Circuits via Reinforcement Learning with Gadgets**|Jan Olle et.al.|[2503.11638](http://arxiv.org/abs/2503.11638)|null|
+|**2025-03-14**|**Unicorn: A Universal and Collaborative Reinforcement Learning Approach Towards Generalizable Network-Wide Traffic Signal Control**|Yifeng Zhang et.al.|[2503.11488](http://arxiv.org/abs/2503.11488)|null|
+|**2025-03-14**|**A Review of DeepSeek Models' Key Innovative Techniques**|Chengen Wang et.al.|[2503.11486](http://arxiv.org/abs/2503.11486)|null|
+|**2025-03-14**|**Dynamic Obstacle Avoidance with Bounded Rationality Adversarial Reinforcement Learning**|Jose-Luis Holgado-Alvarez et.al.|[2503.11467](http://arxiv.org/abs/2503.11467)|null|
+|**2025-03-14**|**Optimizing 6G Dense Network Deployment for the Metaverse Using Deep Reinforcement Learning**|Jie Zhang et.al.|[2503.11449](http://arxiv.org/abs/2503.11449)|null|
+|**2025-03-14**|**Adaptive Torque Control of Exoskeletons under Spasticity Conditions via Reinforcement Learning**|Andrés Chavarrías et.al.|[2503.11433](http://arxiv.org/abs/2503.11433)|null|
+|**2025-03-14**|**Reinforcement Learning-Based Controlled Switching Approach for Inrush Current Minimization in Power Transformers**|Jone Ugarte Valdivielso et.al.|[2503.11398](http://arxiv.org/abs/2503.11398)|null|
+|**2025-03-14**|**Contextual Similarity Distillation: Ensemble Uncertainties with a Single Model**|Moritz A. Zanger et.al.|[2503.11339](http://arxiv.org/abs/2503.11339)|null|
+|**2025-03-14**|**Learning to reset in target search problems**|Gorka Muñoz-Gil et.al.|[2503.11330](http://arxiv.org/abs/2503.11330)|null|
+|**2025-03-14**|**Exploring Competitive and Collusive Behaviors in Algorithmic Pricing with Deep Reinforcement Learning**|Shidi Deng et.al.|[2503.11270](http://arxiv.org/abs/2503.11270)|null|
 |**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626](http://arxiv.org/abs/2503.10626)|null|
 |**2025-03-13**|**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**|Yi Yang et.al.|[2503.10615](http://arxiv.org/abs/2503.10615)|**[link](https://github.com/Fancy-MLLM/R1-onevision)**|
 |**2025-03-13**|**The Lagrangian Method for Solving Constrained Markov Games**|Soham Das et.al.|[2503.10561](http://arxiv.org/abs/2503.10561)|null|
@@ -9232,6 +9254,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439](http://arxiv.org/abs/2503.11439)|null|
+|**2025-03-14**|**CyclePose -- Leveraging Cycle-Consistency for Annotation-Free Nuclei Segmentation in Fluorescence Microscopy**|Jonas Utz et.al.|[2503.11266](http://arxiv.org/abs/2503.11266)|null|
+|**2025-03-14**|**SpaceSeg: A High-Precision Intelligent Perception Segmentation Method for Multi-Spacecraft On-Orbit Targets**|Hao Liu et.al.|[2503.11133](http://arxiv.org/abs/2503.11133)|null|
+|**2025-03-14**|**A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data**|Wenbang Deng et.al.|[2503.11097](http://arxiv.org/abs/2503.11097)|null|
+|**2025-03-12**|**Knowledge Consultation for Semi-Supervised Semantic Segmentation**|Thuan Than et.al.|[2503.10693](http://arxiv.org/abs/2503.10693)|null|
 |**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392](http://arxiv.org/abs/2503.10392)|**[link](https://github.com/mililab/roma)**|
 |**2025-03-13**|**OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions**|Maxim Popov et.al.|[2503.10331](http://arxiv.org/abs/2503.10331)|null|
 |**2025-03-12**|**CleverDistiller: Simple and Spatially Consistent Cross-modal Distillation**|Hariprasath Govindarajan et.al.|[2503.09878](http://arxiv.org/abs/2503.09878)|null|
@@ -10684,6 +10711,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**FLASHμ: Fast Localizing And Sizing of Holographic Microparticles**|Ayush Paliwal et.al.|[2503.11538](http://arxiv.org/abs/2503.11538)|null|
+|**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070](http://arxiv.org/abs/2503.11070)|null|
+|**2025-03-14**|**FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection**|Ming Deng et.al.|[2503.11030](http://arxiv.org/abs/2503.11030)|null|
+|**2025-03-14**|**Comparative Analysis of Advanced AI-based Object Detection Models for Pavement Marking Quality Assessment during Daytime**|Gian Antariksa et.al.|[2503.11008](http://arxiv.org/abs/2503.11008)|null|
+|**2025-03-14**|**Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection**|Chuhan Zhang et.al.|[2503.11005](http://arxiv.org/abs/2503.11005)|null|
+|**2025-03-13**|**The Power of One: A Single Example is All it Takes for Segmentation in VLMs**|Mir Rayat Imtiaz Hossain et.al.|[2503.10779](http://arxiv.org/abs/2503.10779)|null|
+|**2025-03-13**|**HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer**|Zhang Zhang et.al.|[2503.10777](http://arxiv.org/abs/2503.10777)|null|
 |**2025-03-13**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579](http://arxiv.org/abs/2503.10579)|null|
 |**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410](http://arxiv.org/abs/2503.10410)|**[link](https://github.com/duyuwen-duen/roco-sim)**|
 |**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392](http://arxiv.org/abs/2503.10392)|**[link](https://github.com/mililab/roma)**|
