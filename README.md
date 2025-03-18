@@ -551,6 +551,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086](http://arxiv.org/abs/2503.13086)|null|
 |**2025-03-11**|**A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**|Felix Rydell et.al.|[2503.08142](http://arxiv.org/abs/2503.08142)|null|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|**[link](https://github.com/parskatt/dad)**|
 |**2025-03-12**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
@@ -854,6 +855,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
+|**2025-03-17**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090](http://arxiv.org/abs/2503.13090)|null|
+|**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045](http://arxiv.org/abs/2503.13045)|null|
 |**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692](http://arxiv.org/abs/2503.10692)|null|
 |**2025-03-13**|**ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166](http://arxiv.org/abs/2503.10166)|null|
 |**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370](http://arxiv.org/abs/2503.09370)|null|
@@ -1945,6 +1949,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541](http://arxiv.org/abs/2503.12541)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|**[link](https://github.com/parskatt/dad)**|
@@ -2236,6 +2241,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
+|**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
@@ -2544,11 +2551,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347](http://arxiv.org/abs/2503.13347)|null|
+|**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176](http://arxiv.org/abs/2503.13176)|null|
+|**2025-03-17**|**DivCon-NeRF: Generating Augmented Rays with Diversity and Consistency for Few-shot View Synthesis**|Ingyun Lee et.al.|[2503.12947](http://arxiv.org/abs/2503.12947)|null|
+|**2025-03-15**|**FA-BARF: Frequency Adapted Bundle-Adjusting Neural Radiance Fields**|Rui Qian et.al.|[2503.12086](http://arxiv.org/abs/2503.12086)|null|
+|**2025-03-14**|**Industrial-Grade Sensor Simulation via Gaussian Splatting: A Modular Framework for Scalable Editing and Full-Stack Validation**|Xianming Zeng et.al.|[2503.11731](http://arxiv.org/abs/2503.11731)|null|
 |**2025-03-13**|**Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations**|Xunzhi Zheng et.al.|[2503.10464](http://arxiv.org/abs/2503.10464)|null|
 |**2025-03-13**|**AI-assisted 3D Preservation and Reconstruction of Temple Arts**|Naai-Jung Shih et.al.|[2503.10031](http://arxiv.org/abs/2503.10031)|null|
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-11**|**GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**|Nhat Phuong Anh Vu et.al.|[2503.08483](http://arxiv.org/abs/2503.08483)|null|
-|**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
+|**2025-03-17**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
 |**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
 |**2025-03-11**|**NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields**|Yanyu Zhang et.al.|[2503.07952](http://arxiv.org/abs/2503.07952)|null|
 |**2025-03-10**|**Neural Radiance and Gaze Fields for Visual Attention Modeling in 3D Environments**|Andrei Chubarau et.al.|[2503.07828](http://arxiv.org/abs/2503.07828)|null|
@@ -4058,6 +4070,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447](http://arxiv.org/abs/2503.13447)|null|
+|**2025-03-17**|**Faithfulness of LLM Self-Explanations for Commonsense Tasks: Larger Is Better, and Instruction-Tuning Allows Trade-Offs but Not Pareto Dominance**|Noah Y. Siegel et.al.|[2503.13445](http://arxiv.org/abs/2503.13445)|null|
+|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444](http://arxiv.org/abs/2503.13444)|null|
+|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/abs/2503.13427)|null|
+|**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415](http://arxiv.org/abs/2503.13415)|null|
+|**2025-03-17**|**DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective**|Dengyun Peng et.al.|[2503.13413](http://arxiv.org/abs/2503.13413)|null|
+|**2025-03-17**|**Using the Tools of Cognitive Science to Understand Large Language Models at Different Levels of Analysis**|Alexander Ku et.al.|[2503.13401](http://arxiv.org/abs/2503.13401)|null|
+|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399](http://arxiv.org/abs/2503.13399)|null|
+|**2025-03-17**|**Cream of the Crop: Harvesting Rich, Scalable and Transferable Multi-Modal Data for Instruction Fine-Tuning**|Mengyao Lyu et.al.|[2503.13383](http://arxiv.org/abs/2503.13383)|null|
+|**2025-03-17**|**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**|Hai-Long Sun et.al.|[2503.13360](http://arxiv.org/abs/2503.13360)|null|
 |**2025-03-14**|**ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning**|Xinyi Wang et.al.|[2503.11617](http://arxiv.org/abs/2503.11617)|null|
 |**2025-03-14**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs using Semantic Space**|Zhiliang Chen et.al.|[2503.11586](http://arxiv.org/abs/2503.11586)|null|
 |**2025-03-14**|**Synthesizing Access Control Policies using Large Language Models**|Adarsh Vatsa et.al.|[2503.11573](http://arxiv.org/abs/2503.11573)|null|
@@ -6683,6 +6705,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Uncovering Utility Functions from Observed Outcomes**|Marta Grzeskiewicz et.al.|[2503.13432](http://arxiv.org/abs/2503.13432)|null|
+|**2025-03-17**|**FLEX: A Framework for Learning Robot-Agnostic Force-based Skills Involving Sustained Contact Object Manipulation**|Shijie Fang et.al.|[2503.13418](http://arxiv.org/abs/2503.13418)|null|
+|**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415](http://arxiv.org/abs/2503.13415)|null|
+|**2025-03-17**|**TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM**|Ye Wang et.al.|[2503.13377](http://arxiv.org/abs/2503.13377)|null|
+|**2025-03-17**|**Agents Play Thousands of 3D Video Games**|Zhongwen Xu et.al.|[2503.13356](http://arxiv.org/abs/2503.13356)|null|
+|**2025-03-17**|**Local-Global Learning of Interpretable Control Policies: The Interface between MPC and Reinforcement Learning**|Thomas Banker et.al.|[2503.13289](http://arxiv.org/abs/2503.13289)|null|
+|**2025-03-17**|**Timing the Match: A Deep Reinforcement Learning Approach for Ride-Hailing and Ride-Pooling Services**|Yiman Bao et.al.|[2503.13200](http://arxiv.org/abs/2503.13200)|null|
+|**2025-03-17**|**A representational framework for learning and encoding structurally enriched trajectories in complex agent environments**|Corina Catarau-Cotutiu et.al.|[2503.13194](http://arxiv.org/abs/2503.13194)|null|
+|**2025-03-17**|**Towards Better Sample Efficiency in Multi-Agent Reinforcement Learning via Exploration**|Amir Baghi et.al.|[2503.13077](http://arxiv.org/abs/2503.13077)|null|
+|**2025-03-17**|**Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach**|Muhan Hou et.al.|[2503.12993](http://arxiv.org/abs/2503.12993)|null|
 |**2025-03-14**|**Scaling the Automated Discovery of Quantum Circuits via Reinforcement Learning with Gadgets**|Jan Olle et.al.|[2503.11638](http://arxiv.org/abs/2503.11638)|null|
 |**2025-03-14**|**Unicorn: A Universal and Collaborative Reinforcement Learning Approach Towards Generalizable Network-Wide Traffic Signal Control**|Yifeng Zhang et.al.|[2503.11488](http://arxiv.org/abs/2503.11488)|null|
 |**2025-03-14**|**A Review of DeepSeek Models' Key Innovative Techniques**|Chengen Wang et.al.|[2503.11486](http://arxiv.org/abs/2503.11486)|null|
@@ -9254,6 +9286,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**|Corentin Sautier et.al.|[2503.13203](http://arxiv.org/abs/2503.13203)|null|
+|**2025-03-17**|**3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors**|Matteo Sodano et.al.|[2503.13188](http://arxiv.org/abs/2503.13188)|null|
+|**2025-03-17**|**DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model**|Zhicheng Zhao et.al.|[2503.13073](http://arxiv.org/abs/2503.13073)|null|
+|**2025-03-17**|**Adaptive Transformer Attention and Multi-Scale Fusion for Spine 3D Segmentation**|Yanlin Xiang et.al.|[2503.12853](http://arxiv.org/abs/2503.12853)|null|
+|**2025-03-17**|**LangDA: Building Context-Awareness via Language for Domain Adaptive Semantic Segmentation**|Chang Liu et.al.|[2503.12780](http://arxiv.org/abs/2503.12780)|null|
+|**2025-03-17**|**TransDiff: Diffusion-Based Method for Manipulating Transparent Objects Using a Single RGB-D Image**|Haoxiao Wang et.al.|[2503.12779](http://arxiv.org/abs/2503.12779)|null|
+|**2025-03-16**|**Point Cloud Based Scene Segmentation: A Survey**|Dan Halperin et.al.|[2503.12595](http://arxiv.org/abs/2503.12595)|null|
+|**2025-03-16**|**BFANet: Revisiting 3D Semantic Segmentation with Boundary Feature Analysis**|Weiguang Zhao et.al.|[2503.12539](http://arxiv.org/abs/2503.12539)|null|
+|**2025-03-16**|**SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs**|Guibiao Liao et.al.|[2503.12535](http://arxiv.org/abs/2503.12535)|null|
+|**2025-03-16**|**Shape Bias and Robustness Evaluation via Cue Decomposition for Image Classification and Segmentation**|Edgar Heinert et.al.|[2503.12453](http://arxiv.org/abs/2503.12453)|null|
 |**2025-03-14**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439](http://arxiv.org/abs/2503.11439)|null|
 |**2025-03-14**|**CyclePose -- Leveraging Cycle-Consistency for Annotation-Free Nuclei Segmentation in Fluorescence Microscopy**|Jonas Utz et.al.|[2503.11266](http://arxiv.org/abs/2503.11266)|null|
 |**2025-03-14**|**SpaceSeg: A High-Precision Intelligent Perception Segmentation Method for Multi-Spacecraft On-Orbit Targets**|Hao Liu et.al.|[2503.11133](http://arxiv.org/abs/2503.11133)|null|
@@ -10711,6 +10753,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Beyond RGB: Adaptive Parallel Processing for RAW Object Detection**|Shani Gamrian et.al.|[2503.13163](http://arxiv.org/abs/2503.13163)|null|
+|**2025-03-17**|**SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2503.12982](http://arxiv.org/abs/2503.12982)|null|
+|**2025-03-17**|**Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation**|Zhuoqun Su et.al.|[2503.12914](http://arxiv.org/abs/2503.12914)|null|
+|**2025-03-16**|**Point Cloud Based Scene Segmentation: A Survey**|Dan Halperin et.al.|[2503.12595](http://arxiv.org/abs/2503.12595)|null|
+|**2025-03-16**|**GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing**|Zilun Zhang et.al.|[2503.12490](http://arxiv.org/abs/2503.12490)|null|
+|**2025-03-15**|**An Efficient Deep Learning-Based Approach to Automating Invoice Document Validation**|Aziz Amari et.al.|[2503.12267](http://arxiv.org/abs/2503.12267)|null|
+|**2025-03-15**|**Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing**|Boyu Chen et.al.|[2503.12249](http://arxiv.org/abs/2503.12249)|null|
+|**2025-03-15**|**SFMNet: Sparse Focal Modulation for 3D Object Detection**|Oren Shrout et.al.|[2503.12093](http://arxiv.org/abs/2503.12093)|null|
+|**2025-03-15**|**UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection**|Xin Jin et.al.|[2503.12009](http://arxiv.org/abs/2503.12009)|null|
+|**2025-03-14**|**Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning**|Tianyi Zhao et.al.|[2503.11780](http://arxiv.org/abs/2503.11780)|null|
 |**2025-03-14**|**FLASHμ: Fast Localizing And Sizing of Holographic Microparticles**|Ayush Paliwal et.al.|[2503.11538](http://arxiv.org/abs/2503.11538)|null|
 |**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070](http://arxiv.org/abs/2503.11070)|null|
 |**2025-03-14**|**FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection**|Ming Deng et.al.|[2503.11030](http://arxiv.org/abs/2503.11030)|null|
