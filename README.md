@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
@@ -861,6 +862,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|null|
+|**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
+|**2025-03-25**|**From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting**|Zhiwei Huang et.al.|[2503.19358](http://arxiv.org/abs/2503.19358)|null|
+|**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|null|
 |**2025-03-23**|**LocDiffusion: Identifying Locations on Earth by Diffusing in the Hilbert Space**|Zhangyu Wang et.al.|[2503.18142](http://arxiv.org/abs/2503.18142)|null|
 |**2025-03-23**|**Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning**|Xiang Fang et.al.|[2503.17938](http://arxiv.org/abs/2503.17938)|null|
 |**2025-03-23**|**What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**|Dongheng Lin et.al.|[2503.17899](http://arxiv.org/abs/2503.17899)|null|
@@ -1965,6 +1970,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278](http://arxiv.org/abs/2503.19278)|null|
 |**2025-03-05**|**Periodontal Bone Loss Analysis via Keypoint Detection With Heuristic Post-Processing**|Ryan Banks et.al.|[2503.13477](http://arxiv.org/abs/2503.13477)|null|
 |**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541](http://arxiv.org/abs/2503.12541)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
@@ -2572,6 +2578,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**MultimodalStudio: A Heterogeneous Sensor Dataset and Framework for Neural Rendering across Multiple Imaging Modalities**|Federico Lincetto et.al.|[2503.19673](http://arxiv.org/abs/2503.19673)|null|
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
 |**2025-03-25**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
 |**2025-03-24**|**NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction**|Wenyuan Zhang et.al.|[2503.18361](http://arxiv.org/abs/2503.18361)|null|
@@ -4110,6 +4117,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|null|
+|**2025-03-25**|**A Multi-Agent Framework Integrating Large Language Models and Generative AI for Accelerated Metamaterial Design**|Jie Tian et.al.|[2503.19889](http://arxiv.org/abs/2503.19889)|null|
+|**2025-03-25**|**CausalRAG: Integrating Causal Graphs into Retrieval-Augmented Generation**|Nengbo Wang et.al.|[2503.19878](http://arxiv.org/abs/2503.19878)|null|
+|**2025-03-25**|**SLA-Awareness for AI-assisted coding**|Kishanthan Thangarajah et.al.|[2503.19876](http://arxiv.org/abs/2503.19876)|null|
+|**2025-03-25**|**Think Twice: Enhancing LLM Reasoning by Scaling Multi-round Test-time Thinking**|Xiaoyu Tian et.al.|[2503.19855](http://arxiv.org/abs/2503.19855)|null|
+|**2025-03-25**|**Towards Online Multi-Modal Social Interaction Understanding**|Xinpeng Li et.al.|[2503.19851](http://arxiv.org/abs/2503.19851)|null|
+|**2025-03-25**|**FALCONEye: Finding Answers and Localizing Content in ONE-hour-long videos with multi-modal LLMs**|Carlos Plou et.al.|[2503.19850](http://arxiv.org/abs/2503.19850)|null|
+|**2025-03-25**|**A Comparative Analysis of Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition for Historical Chinese Sources, 1900-1950**|Zhao Fang et.al.|[2503.19844](http://arxiv.org/abs/2503.19844)|null|
+|**2025-03-25**|**SemEval-2025 Task 9: The Food Hazard Detection Challenge**|Korbinian Randl et.al.|[2503.19800](http://arxiv.org/abs/2503.19800)|null|
+|**2025-03-25**|**PAVE: Patching and Adapting Video Large Language Models**|Zhuoming Liu et.al.|[2503.19794](http://arxiv.org/abs/2503.19794)|null|
 |**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943](http://arxiv.org/abs/2503.18943)|null|
 |**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
 |**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941](http://arxiv.org/abs/2503.18941)|null|
@@ -6795,6 +6812,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**Think Twice: Enhancing LLM Reasoning by Scaling Multi-round Test-time Thinking**|Xiaoyu Tian et.al.|[2503.19855](http://arxiv.org/abs/2503.19855)|null|
+|**2025-03-25**|**Optimal Path Planning and Cost Minimization for a Drone Delivery System Via Model Predictive Control**|Muhammad Al-Zafar Khan et.al.|[2503.19699](http://arxiv.org/abs/2503.19699)|null|
+|**2025-03-25**|**Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection**|Bo Leng et.al.|[2503.19690](http://arxiv.org/abs/2503.19690)|null|
+|**2025-03-25**|**Learning to chain-of-thought with Jensen's evidence lower bound**|Yunhao Tang et.al.|[2503.19618](http://arxiv.org/abs/2503.19618)|null|
+|**2025-03-25**|**RL-finetuning LLMs from on- and off-policy data with a single algorithm**|Yunhao Tang et.al.|[2503.19612](http://arxiv.org/abs/2503.19612)|null|
+|**2025-03-25**|**Optimizing Language Models for Inference Time Objectives using Reinforcement Learning**|Yunhao Tang et.al.|[2503.19595](http://arxiv.org/abs/2503.19595)|null|
+|**2025-03-25**|**One Framework to Rule Them All: Unifying RL-Based and RL-Free Methods in RLHF**|Xin Cai et.al.|[2503.19523](http://arxiv.org/abs/2503.19523)|null|
+|**2025-03-25**|**ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning**|Mingyang Chen et.al.|[2503.19470](http://arxiv.org/abs/2503.19470)|null|
+|**2025-03-25**|**Multi-Agent Deep Reinforcement Learning for Safe Autonomous Driving with RICS-Assisted MEC**|Xueyao Zhang et.al.|[2503.19418](http://arxiv.org/abs/2503.19418)|null|
+|**2025-03-25**|**NeoRL-2: Near Real-World Benchmarks for Offline Reinforcement Learning with Extended Realistic Scenarios**|Songyi Gao et.al.|[2503.19267](http://arxiv.org/abs/2503.19267)|null|
 |**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
 |**2025-03-24**|**SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**|Weihao Zeng et.al.|[2503.18892](http://arxiv.org/abs/2503.18892)|null|
 |**2025-03-24**|**Learning Multi-Robot Coordination through Locality-Based Factorized Multi-Agent Actor-Critic Algorithm**|Chak Lam Shek et.al.|[2503.18816](http://arxiv.org/abs/2503.18816)|null|
@@ -9426,6 +9453,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|null|
+|**2025-03-25**|**OpenLex3D: A New Evaluation Benchmark for Open-Vocabulary 3D Scene Representations**|Christina Kassab et.al.|[2503.19764](http://arxiv.org/abs/2503.19764)|null|
+|**2025-03-25**|**Show or Tell? Effectively prompting Vision-Language Models for semantic segmentation**|Niccolo Avogaro et.al.|[2503.19647](http://arxiv.org/abs/2503.19647)|null|
+|**2025-03-25**|**Exploring Textual Semantics Diversity for Image Transmission in Semantic Communication Systems using Visual Language Model**|Peishan Huang et.al.|[2503.19386](http://arxiv.org/abs/2503.19386)|null|
+|**2025-03-25**|**BIMII-Net: Brain-Inspired Multi-Iterative Interactive Network for RGB-T Road Scene Semantic Segmentation**|Hanshuo Qiu et.al.|[2503.19303](http://arxiv.org/abs/2503.19303)|null|
+|**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278](http://arxiv.org/abs/2503.19278)|null|
+|**2025-03-25**|**Context-Aware Semantic Segmentation: Enhancing Pixel-Level Understanding with Large Language Models for Advanced Vision Applications**|Ben Rahman et.al.|[2503.19276](http://arxiv.org/abs/2503.19276)|null|
 |**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|**[link](https://github.com/VisualComputingInstitute/DITR)**|
 |**2025-03-24**|**Exploring the Integration of Key-Value Attention Into Pure and Hybrid Transformers for Semantic Segmentation**|DeShin Hwa et.al.|[2503.18862](http://arxiv.org/abs/2503.18862)|null|
 |**2025-03-24**|**EgoSurgery-HTS: A Dataset for Egocentric Hand-Tool Segmentation in Open Surgery Videos**|Nathan Darjana et.al.|[2503.18755](http://arxiv.org/abs/2503.18755)|null|
@@ -10921,6 +10955,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707](http://arxiv.org/abs/2503.19707)|null|
+|**2025-03-25**|**BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction**|Jan Kohút et.al.|[2503.19658](http://arxiv.org/abs/2503.19658)|null|
+|**2025-03-25**|**Single Shot AI-assisted quantification of KI-67 proliferation index in breast cancer**|Deepti Madurai Muthu et.al.|[2503.19606](http://arxiv.org/abs/2503.19606)|null|
+|**2025-03-25**|**MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection**|Jee Won Lee et.al.|[2503.19330](http://arxiv.org/abs/2503.19330)|null|
+|**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278](http://arxiv.org/abs/2503.19278)|null|
+|**2025-03-24**|**Benchmarking Object Detectors under Real-World Distribution Shifts in Satellite Imagery**|Sara Al-Emadi et.al.|[2503.19202](http://arxiv.org/abs/2503.19202)|null|
+|**2025-03-24**|**Pitch Contour Exploration Across Audio Domains: A Vision-Based Transfer Learning Approach**|Jakob Abeßer et.al.|[2503.19161](http://arxiv.org/abs/2503.19161)|null|
+|**2025-03-24**|**Cooperative Control of Multi-Quadrotors for Transporting Cable-Suspended Payloads: Obstacle-Aware Planning and Event-Based Nonlinear Model Predictive Control**|Tohid Kargar Tasooji et.al.|[2503.19135](http://arxiv.org/abs/2503.19135)|null|
 |**2025-03-24**|**Building Blocks for Robust and Effective Semi-Supervised Real-World Object Detection**|Moussa Kassem Sbeyti et.al.|[2503.18903](http://arxiv.org/abs/2503.18903)|null|
 |**2025-03-24**|**LGI-DETR: Local-Global Interaction for UAV Object Detection**|Zifa Chen et.al.|[2503.18785](http://arxiv.org/abs/2503.18785)|null|
 |**2025-03-25**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783](http://arxiv.org/abs/2503.18783)|null|
