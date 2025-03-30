@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.29
+## Updated on 2025.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4116,7 +4116,7 @@ layout: default
 |**2025-03-27**|**LLM-Gomoku: A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning**|Hui Wang et.al.|[2503.21683](http://arxiv.org/abs/2503.21683)|null|
 |**2025-03-27**|**JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community**|Yunze Xiao et.al.|[2503.21679](http://arxiv.org/abs/2503.21679)|null|
 |**2025-03-27**|**How do language models learn facts? Dynamics, curricula and hallucinations**|Nicolas Zucchet et.al.|[2503.21676](http://arxiv.org/abs/2503.21676)|null|
-|**2025-03-27**|**Intelligent IoT Attack Detection Design via ODLLM with Feature Ranking-based Knowledge Base**|Satvik Verma et.al.|[2503.21674](http://arxiv.org/abs/2503.21674)|null|
+|**2025-03-27**|**Intelligent IoT Attack Detection Design via ODLLM with Feature Ranking-based Knowledge Base**|Satvik Verma et.al.|[2503.21674](http://arxiv.org/abs/2503.21674)|**[link](https://github.com/claudwq/Intelligent-IoT-Attack-Detection-Design-via-LLM-with-Feature-Ranking-Based-Knowledge-Base-Design)**|
 |**2025-03-26**|**Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark**|Sondos Mahmoud Bsharat et.al.|[2503.20786](http://arxiv.org/abs/2503.20786)|null|
 |**2025-03-26**|**MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams**|Yanpeng Sun et.al.|[2503.20745](http://arxiv.org/abs/2503.20745)|null|
 |**2025-03-26**|**Dynamic Motion Blending for Versatile Motion Editing**|Nan Jiang et.al.|[2503.20724](http://arxiv.org/abs/2503.20724)|null|
@@ -9487,7 +9487,7 @@ layout: default
 |**2025-03-26**|**Assessing SAM for Tree Crown Instance Segmentation from Drone Imagery**|Mélisande Teng et.al.|[2503.20199](http://arxiv.org/abs/2503.20199)|null|
 |**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
 |**2025-03-25**|**The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs**|Jonathan Sauder et.al.|[2503.20000](http://arxiv.org/abs/2503.20000)|null|
-|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|null|
+|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|**[link](https://github.com/vladan-stojnic/lposs)**|
 |**2025-03-25**|**OpenLex3D: A New Evaluation Benchmark for Open-Vocabulary 3D Scene Representations**|Christina Kassab et.al.|[2503.19764](http://arxiv.org/abs/2503.19764)|null|
 |**2025-03-25**|**Show or Tell? Effectively prompting Vision-Language Models for semantic segmentation**|Niccolo Avogaro et.al.|[2503.19647](http://arxiv.org/abs/2503.19647)|null|
 |**2025-03-25**|**Exploring Textual Semantics Diversity for Image Transmission in Semantic Communication Systems using Visual Language Model**|Peishan Huang et.al.|[2503.19386](http://arxiv.org/abs/2503.19386)|null|
