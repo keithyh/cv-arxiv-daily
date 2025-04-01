@@ -26,6 +26,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199](http://arxiv.org/abs/2503.23199)|null|
+|**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
@@ -862,6 +864,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**CIBR: Cross-modal Information Bottleneck Regularization for Robust CLIP Generalization**|Yingrui Ji et.al.|[2503.24182](http://arxiv.org/abs/2503.24182)|null|
+|**2025-03-31**|**LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds**|Masahiko Tsuji et.al.|[2503.23664](http://arxiv.org/abs/2503.23664)|null|
+|**2025-03-30**|**Multiview Image-Based Localization**|Cameron Fiore et.al.|[2503.23577](http://arxiv.org/abs/2503.23577)|null|
 |**2025-03-27**|**LOCORE: Image Re-ranking with Long-Context Sequence Modeling**|Zilin Xiao et.al.|[2503.21772](http://arxiv.org/abs/2503.21772)|**[link](https://github.com/MrZilinXiao/LongContextReranker)**|
 |**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757](http://arxiv.org/abs/2503.21757)|null|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338](http://arxiv.org/abs/2503.21338)|**[link](https://github.com/nubot-nudt/ugna-vpr)**|
@@ -1975,6 +1980,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-29**|**Deep Visual Servoing of an Aerial Robot Using Keypoint Feature Extraction**|Shayan Sepahvand et.al.|[2503.23171](http://arxiv.org/abs/2503.23171)|null|
 |**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278](http://arxiv.org/abs/2503.19278)|null|
 |**2025-03-05**|**Periodontal Bone Loss Analysis via Keypoint Detection With Heuristic Post-Processing**|Ryan Banks et.al.|[2503.13477](http://arxiv.org/abs/2503.13477)|null|
 |**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541](http://arxiv.org/abs/2503.12541)|null|
@@ -2269,6 +2275,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
+|**2025-03-28**|**Pairwise Matching of Intermediate Representations for Fine-grained Explainability**|Lauren Shrack et.al.|[2503.22881](http://arxiv.org/abs/2503.22881)|**[link](https://github.com/pairx-explains/pairx)**|
 |**2025-03-26**|**Multimodal Image Matching based on Frequency-domain Information of Local Energy Response**|Meng Yang et.al.|[2503.20827](http://arxiv.org/abs/2503.20827)|null|
 |**2025-03-22**|**Normalized Matching Transformer**|Abtin Pourhadi et.al.|[2503.17715](http://arxiv.org/abs/2503.17715)|**[link](https://github.com/apollos1301/normmatchtrans)**|
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
@@ -2584,6 +2592,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**ERUPT: Efficient Rendering with Unposed Patch Transformer**|Maxim V. Shugaev et.al.|[2503.24374](http://arxiv.org/abs/2503.24374)|null|
+|**2025-03-29**|**NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations**|Zhenyu Tang et.al.|[2503.23162](http://arxiv.org/abs/2503.23162)|null|
 |**2025-03-28**|**ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting**|Wenjie Liu et.al.|[2503.22218](http://arxiv.org/abs/2503.22218)|null|
 |**2025-03-27**|**NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications**|Kibon Ku et.al.|[2503.21958](http://arxiv.org/abs/2503.21958)|null|
 |**2025-03-27**|**Refined Geometry-guided Head Avatar Reconstruction from Monocular RGB Video**|Pilseo Park et.al.|[2503.21886](http://arxiv.org/abs/2503.21886)|null|
@@ -4134,6 +4144,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
+|**2025-03-31**|**Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models**|Rui Wang et.al.|[2503.24377](http://arxiv.org/abs/2503.24377)|**[link](https://github.com/devoallen/awesome-reasoning-economy-papers)**|
+|**2025-03-31**|**Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**|Yi Chen et.al.|[2503.24376](http://arxiv.org/abs/2503.24376)|**[link](https://github.com/tencentarc/seed-bench-r1)**|
+|**2025-03-31**|**Effectively Controlling Reasoning Models through Thinking Intervention**|Tong Wu et.al.|[2503.24370](http://arxiv.org/abs/2503.24370)|null|
+|**2025-03-31**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354](http://arxiv.org/abs/2503.24354)|null|
+|**2025-03-31**|**BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models**|Alok Abhishek et.al.|[2503.24310](http://arxiv.org/abs/2503.24310)|null|
+|**2025-03-31**|**A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG**|Arshia Kermani et.al.|[2503.24307](http://arxiv.org/abs/2503.24307)|null|
+|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|null|
+|**2025-03-31**|**Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality**|Sewoong Lee et.al.|[2503.24277](http://arxiv.org/abs/2503.24277)|**[link](https://github.com/sewoonglee/top-afa-sae)**|
+|**2025-03-31**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245](http://arxiv.org/abs/2503.24245)|null|
 |**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
 |**2025-03-28**|**QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?**|Belinda Z. Li et.al.|[2503.22674](http://arxiv.org/abs/2503.22674)|null|
 |**2025-03-28**|**Exploring the Effectiveness of Multi-stage Fine-tuning for Cross-encoder Re-rankers**|Francesca Pezzuti et.al.|[2503.22672](http://arxiv.org/abs/2503.22672)|**[link](https://github.com/fpezzuti/multistage-finetuning)**|
@@ -6859,6 +6879,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**|Yi Chen et.al.|[2503.24376](http://arxiv.org/abs/2503.24376)|**[link](https://github.com/tencentarc/seed-bench-r1)**|
+|**2025-03-31**|**Fair Dynamic Spectrum Access via Fully Decentralized Multi-Agent Reinforcement Learning**|Yubo Zhang et.al.|[2503.24296](http://arxiv.org/abs/2503.24296)|null|
+|**2025-03-31**|**Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model**|Jingcheng Hu et.al.|[2503.24290](http://arxiv.org/abs/2503.24290)|null|
+|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|null|
+|**2025-03-31**|**Moving Edge for On-Demand Edge Computing: An Uncertainty-aware Approach**|Fangtong Zhou et.al.|[2503.24214](http://arxiv.org/abs/2503.24214)|null|
+|**2025-03-31**|**Ride-Sourcing Vehicle Rebalancing with Service Accessibility Guarantees via Constrained Mean-Field Reinforcement Learning**|Matej Jusup et.al.|[2503.24183](http://arxiv.org/abs/2503.24183)|**[link](https://github.com/mjusup1501/mf-vehicle-rebalancing)**|
+|**2025-03-31**|**Learning a Canonical Basis of Human Preferences from Binary Ratings**|Kailas Vodrahalli et.al.|[2503.24150](http://arxiv.org/abs/2503.24150)|null|
+|**2025-03-31**|**Reinforcement Learning for Safe Autonomous Two Device Navigation of Cerebral Vessels in Mechanical Thrombectomy**|Harry Robertshaw et.al.|[2503.24140](http://arxiv.org/abs/2503.24140)|null|
+|**2025-03-31**|**Level the Level: Balancing Game Levels for Asymmetric Player Archetypes With Reinforcement Learning**|Florian Rupp et.al.|[2503.24099](http://arxiv.org/abs/2503.24099)|null|
+|**2025-03-31**|**HACTS: a Human-As-Copilot Teleoperation System for Robot Learning**|Zhiyuan Xu et.al.|[2503.24070](http://arxiv.org/abs/2503.24070)|null|
 |**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
 |**2025-03-28**|**Reinforcement Learning for Machine Learning Model Deployment: Evaluating Multi-Armed Bandits in ML Ops Environments**|S. Aaron McClendon et.al.|[2503.22595](http://arxiv.org/abs/2503.22595)|null|
 |**2025-03-28**|**On the Mistaken Assumption of Interchangeable Deep Reinforcement Learning Implementations**|Rajdeep Singh Hundal et.al.|[2503.22575](http://arxiv.org/abs/2503.22575)|null|
@@ -9530,6 +9560,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes**|Daichi Otsuka et.al.|[2503.24229](http://arxiv.org/abs/2503.24229)|null|
+|**2025-03-31**|**Spectral-Adaptive Modulation Networks for Visual Perception**|Guhnoo Yun et.al.|[2503.23947](http://arxiv.org/abs/2503.23947)|null|
+|**2025-03-31**|**Bridge the Gap Between Visual and Linguistic Comprehension for Generalized Zero-shot Semantic Segmentation**|Xiaoqing Guo et.al.|[2503.23806](http://arxiv.org/abs/2503.23806)|null|
+|**2025-03-31**|**Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks**|Yu Zhou et.al.|[2503.23751](http://arxiv.org/abs/2503.23751)|null|
+|**2025-03-31**|**Semantic Packet Aggregation and Repeated Transmission for Text-to-Image Generation**|Seunghun Lee et.al.|[2503.23734](http://arxiv.org/abs/2503.23734)|null|
+|**2025-03-31**|**CrossFormer: Cross-Segment Semantic Fusion for Document Segmentation**|Tongke Ni et.al.|[2503.23671](http://arxiv.org/abs/2503.23671)|null|
+|**2025-03-30**|**BoundMatch: Boundary detection applied to semi-supervised segmentation for urban-driving scenes**|Haruya Ishikawa et.al.|[2503.23519](http://arxiv.org/abs/2503.23519)|null|
+|**2025-03-30**|**Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention**|Xin Zuo et.al.|[2503.23422](http://arxiv.org/abs/2503.23422)|null|
+|**2025-03-29**|**Open-Vocabulary Semantic Segmentation with Uncertainty Alignment for Robotic Scene Understanding in Indoor Building Environments**|Yifan Xu et.al.|[2503.23105](http://arxiv.org/abs/2503.23105)|null|
+|**2025-03-28**|**Enhancing DeepLabV3+ to Fuse Aerial and Satellite Images for Semantic Segmentation**|Anas Berka et.al.|[2503.22909](http://arxiv.org/abs/2503.22909)|null|
 |**2025-03-28**|**KEVS: Enhancing Segmentation of Visceral Adipose Tissue in Pre-Cystectomy CT with Gaussian Kernel Density Estimation**|Thomas Boucher et.al.|[2503.22592](http://arxiv.org/abs/2503.22592)|null|
 |**2025-03-28**|**A Dataset for Semantic Segmentation in the Presence of Unknowns**|Zakaria Laskar et.al.|[2503.22309](http://arxiv.org/abs/2503.22309)|null|
 |**2025-03-28**|**Concept-Aware LoRA for Domain-Aligned Segmentation Dataset Generation**|Minho Park et.al.|[2503.22172](http://arxiv.org/abs/2503.22172)|null|
@@ -11048,6 +11088,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389](http://arxiv.org/abs/2503.24389)|**[link](https://github.com/lwxfight/snn-underwater)**|
+|**2025-03-31**|**MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**|Karim Radouane et.al.|[2503.24219](http://arxiv.org/abs/2503.24219)|null|
+|**2025-03-31**|**Spectral-Adaptive Modulation Networks for Visual Perception**|Guhnoo Yun et.al.|[2503.23947](http://arxiv.org/abs/2503.23947)|null|
+|**2025-03-31**|**Expanding-and-Shrinking Binary Neural Networks**|Xulong Shi et.al.|[2503.23709](http://arxiv.org/abs/2503.23709)|**[link](https://github.com/imfinethanks/esbnn)**|
+|**2025-03-30**|**Re-Aligning Language to Visual Objects with an Agentic Workflow**|Yuming Chen et.al.|[2503.23508](http://arxiv.org/abs/2503.23508)|null|
+|**2025-03-30**|**EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing**|Hongxiang Jiang et.al.|[2503.23330](http://arxiv.org/abs/2503.23330)|null|
+|**2025-03-29**|**Context in object detection: a systematic literature review**|Mahtab Jamali et.al.|[2503.23249](http://arxiv.org/abs/2503.23249)|null|
+|**2025-03-29**|**Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection**|Marc-Antoine Lavoie et.al.|[2503.23220](http://arxiv.org/abs/2503.23220)|null|
+|**2025-03-29**|**A GAN-Enhanced Deep Learning Framework for Rooftop Detection from Historical Aerial Imagery**|Pengyu Chen et.al.|[2503.23200](http://arxiv.org/abs/2503.23200)|null|
+|**2025-03-29**|**Intelligent Bear Prevention System Based on Computer Vision: An Approach to Reduce Human-Bear Conflicts in the Tibetan Plateau Area, China**|Pengyu Chen et.al.|[2503.23178](http://arxiv.org/abs/2503.23178)|null|
 |**2025-03-28**|**AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization**|Martin Kišš et.al.|[2503.22526](http://arxiv.org/abs/2503.22526)|null|
 |**2025-03-28**|**Data Quality Matters: Quantifying Image Quality Impact on Machine Learning Performance**|Christian Steinhauser et.al.|[2503.22375](http://arxiv.org/abs/2503.22375)|null|
 |**2025-03-28**|**ForcePose: A Deep Learning Approach for Force Calculation Based on Action Recognition Using MediaPipe Pose Estimation Combined with Object Detection**|Nandakishor M et.al.|[2503.22363](http://arxiv.org/abs/2503.22363)|null|
