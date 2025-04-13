@@ -2276,7 +2276,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-09**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|null|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
-|**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|null|
+|**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|**[link](https://github.com/stilcrad/denseaffine)**|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
 |**2025-03-28**|**Pairwise Matching of Intermediate Representations for Fine-grained Explainability**|Lauren Shrack et.al.|[2503.22881](http://arxiv.org/abs/2503.22881)|**[link](https://github.com/pairx-explains/pairx)**|
@@ -4164,9 +4164,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|null|
+|**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|**[link](https://github.com/tianyi-lab/c3po)**|
 |**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](http://arxiv.org/abs/2504.07962)|null|
-|**2025-04-10**|**MM-IFEngine: Towards Multimodal Instruction Following**|Shengyuan Ding et.al.|[2504.07957](http://arxiv.org/abs/2504.07957)|null|
+|**2025-04-10**|**MM-IFEngine: Towards Multimodal Instruction Following**|Shengyuan Ding et.al.|[2504.07957](http://arxiv.org/abs/2504.07957)|**[link](https://github.com/syuan03/mm-ifengine)**|
 |**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
 |**2025-04-10**|**Porting an LLM based Application from ChatGPT to an On-Premise Environment**|Teemu Paloniemi et.al.|[2504.07907](http://arxiv.org/abs/2504.07907)|null|
 |**2025-04-10**|**Redefining Machine Translation on Social Network Services with Large Language Models**|Hongcheng Guo et.al.|[2504.07901](http://arxiv.org/abs/2504.07901)|null|
@@ -6967,15 +6967,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-10**|**Perception-R1: Pioneering Perception Policy with Reinforcement Learning**|En Yu et.al.|[2504.07954](http://arxiv.org/abs/2504.07954)|null|
-|**2025-04-10**|**Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining**|Rosie Zhao et.al.|[2504.07912](http://arxiv.org/abs/2504.07912)|null|
+|**2025-04-10**|**Perception-R1: Pioneering Perception Policy with Reinforcement Learning**|En Yu et.al.|[2504.07954](http://arxiv.org/abs/2504.07954)|**[link](https://github.com/linkangheng/pr1)**|
+|**2025-04-10**|**Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining**|Rosie Zhao et.al.|[2504.07912](http://arxiv.org/abs/2504.07912)|**[link](https://github.com/rosieyzh/openrlhf-pretrain)**|
 |**2025-04-10**|**Fast Adaptation with Behavioral Foundation Models**|Harshit Sikchi et.al.|[2504.07896](http://arxiv.org/abs/2504.07896)|null|
 |**2025-04-10**|**2D-Curri-DPO: Two-Dimensional Curriculum Learning for Direct Preference Optimization**|Mengyang Li et.al.|[2504.07856](http://arxiv.org/abs/2504.07856)|null|
 |**2025-04-10**|**Genetic Programming with Reinforcement Learning Trained Transformer for Real-World Dynamic Scheduling Problems**|Xian Chen et.al.|[2504.07779](http://arxiv.org/abs/2504.07779)|null|
 |**2025-04-10**|**Harnessing Equivariance: Modeling Turbulence with Graph Neural Networks**|Marius Kurz et.al.|[2504.07741](http://arxiv.org/abs/2504.07741)|null|
 |**2025-04-10**|**Relaxing the Markov Requirements on Reinforcement Learning Under Weak Partial Ignorability**|MaryLena Bleile et.al.|[2504.07722](http://arxiv.org/abs/2504.07722)|null|
 |**2025-04-10**|**Sim-to-Real Transfer in Reinforcement Learning for Maneuver Control of a Variable-Pitch MAV**|Zhikun Wang et.al.|[2504.07694](http://arxiv.org/abs/2504.07694)|null|
-|**2025-04-10**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Haozhan Shen et.al.|[2504.07615](http://arxiv.org/abs/2504.07615)|null|
+|**2025-04-10**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Haozhan Shen et.al.|[2504.07615](http://arxiv.org/abs/2504.07615)|**[link](https://github.com/om-ai-lab/vlm-r1)**|
 |**2025-04-10**|**Boosting Universal LLM Reward Design through the Heuristic Reward Observation Space Evolution**|Zen Kit Heng et.al.|[2504.07596](http://arxiv.org/abs/2504.07596)|null|
 |**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095](http://arxiv.org/abs/2504.07095)|null|
 |**2025-04-09**|**AssistanceZero: Scalably Solving Assistance Games**|Cassidy Laidlaw et.al.|[2504.07091](http://arxiv.org/abs/2504.07091)|null|
@@ -11287,7 +11287,7 @@ layout: default
 |**2025-04-10**|**P2Object: Single Point Supervised Object Detection and Instance Segmentation**|Pengfei Chen et.al.|[2504.07813](http://arxiv.org/abs/2504.07813)|null|
 |**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
 |**2025-04-10**|**Adaptive Detection of Fast Moving Celestial Objects Using a Mixture of Experts and Physical-Inspired Neural Network**|Peng Jia et.al.|[2504.07777](http://arxiv.org/abs/2504.07777)|null|
-|**2025-04-10**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Haozhan Shen et.al.|[2504.07615](http://arxiv.org/abs/2504.07615)|null|
+|**2025-04-10**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Haozhan Shen et.al.|[2504.07615](http://arxiv.org/abs/2504.07615)|**[link](https://github.com/om-ai-lab/vlm-r1)**|
 |**2025-04-10**|**RASMD: RGB And SWIR Multispectral Driving Dataset for Robust Perception in Adverse Conditions**|Youngwan Jin et.al.|[2504.07603](http://arxiv.org/abs/2504.07603)|null|
 |**2025-04-10**|**WS-DETR: Robust Water Surface Object Detection through Vision-Radar Fusion with Detection Transformer**|Huilin Yin et.al.|[2504.07441](http://arxiv.org/abs/2504.07441)|null|
 |**2025-04-09**|**Few-Shot Adaptation of Grounding DINO for Agricultural Domain**|Rajhans Singh et.al.|[2504.07252](http://arxiv.org/abs/2504.07252)|null|
