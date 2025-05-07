@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
@@ -561,6 +562,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
 |**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|null|
@@ -891,6 +893,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|null|
+|**2025-05-06**|**Seeing the Abstract: Translating the Abstract Language for Vision Language Models**|Davide Talon et.al.|[2505.03242](http://arxiv.org/abs/2505.03242)|null|
 |**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
@@ -2343,6 +2348,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|null|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-04-29**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|null|
 |**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang et.al.|[2504.19398](http://arxiv.org/abs/2504.19398)|null|
@@ -4273,6 +4279,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|null|
+|**2025-05-06**|**Graph Drawing for LLMs: An Empirical Evaluation**|Walter Didimo et.al.|[2505.03678](http://arxiv.org/abs/2505.03678)|null|
+|**2025-05-06**|**Binding threshold units with artificial oscillatory neurons**|Vladimir Fanaskov et.al.|[2505.03648](http://arxiv.org/abs/2505.03648)|null|
+|**2025-05-06**|**PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing**|Yiping Xie et.al.|[2505.03621](http://arxiv.org/abs/2505.03621)|null|
+|**2025-05-06**|**DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes**|Sergey Linok et.al.|[2505.03581](http://arxiv.org/abs/2505.03581)|null|
+|**2025-05-06**|**LlamaFirewall: An open source guardrail system for building secure AI agents**|Sahana Chennabasappa et.al.|[2505.03574](http://arxiv.org/abs/2505.03574)|null|
+|**2025-05-06**|**Say It Another Way: A Framework for User-Grounded Paraphrasing**|Cléa Chataigner et.al.|[2505.03563](http://arxiv.org/abs/2505.03563)|null|
+|**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556](http://arxiv.org/abs/2505.03556)|null|
+|**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/abs/2505.03553)|null|
+|**2025-05-06**|**STORY2GAME: Generating (Almost) Everything in an Interactive Fiction Game**|Eric Zhou et.al.|[2505.03547](http://arxiv.org/abs/2505.03547)|null|
 |**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836](http://arxiv.org/abs/2505.02836)|null|
 |**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|null|
 |**2025-05-05**|**ReplaceMe: Network Simplification via Layer Pruning and Linear Transformations**|Dmitriy Shopkhoev et.al.|[2505.02819](http://arxiv.org/abs/2505.02819)|null|
@@ -7248,6 +7264,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
+|**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721](http://arxiv.org/abs/2505.03721)|null|
+|**2025-05-06**|**Actor-Critics Can Achieve Optimal Sample Efficiency**|Kevin Tan et.al.|[2505.03710](http://arxiv.org/abs/2505.03710)|null|
+|**2025-05-06**|**Policy Gradient Adaptive Control for the LQR: Indirect and Direct Approaches**|Feiran Zhao et.al.|[2505.03706](http://arxiv.org/abs/2505.03706)|null|
+|**2025-05-06**|**Rainbow Delay Compensation: A Multi-Agent Reinforcement Learning Framework for Mitigating Delayed Observation**|Songchen Fu et.al.|[2505.03586](http://arxiv.org/abs/2505.03586)|null|
+|**2025-05-06**|**Ergodic Generative Flows**|Leo Maxime Brunswic et.al.|[2505.03561](http://arxiv.org/abs/2505.03561)|null|
+|**2025-05-06**|**Multi-Agent Reinforcement Learning Scheduling to Support Low Latency in Teleoperated Driving**|Giacomo Avanzi et.al.|[2505.03558](http://arxiv.org/abs/2505.03558)|null|
+|**2025-05-06**|**Small-Scale-Fading-Aware Resource Allocation in Wireless Federated Learning**|Jiacheng Wang et.al.|[2505.03533](http://arxiv.org/abs/2505.03533)|null|
+|**2025-05-06**|**The Steganographic Potentials of Language Models**|Artem Karpov et.al.|[2505.03439](http://arxiv.org/abs/2505.03439)|null|
+|**2025-05-06**|**Wasserstein Convergence of Score-based Generative Models under Semiconvexity and Discontinuous Gradients**|Stefano Bruno et.al.|[2505.03432](http://arxiv.org/abs/2505.03432)|null|
 |**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/abs/2505.02811)|null|
@@ -10168,6 +10194,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
+|**2025-05-06**|**Panoramic Out-of-Distribution Segmentation**|Mengfei Duan et.al.|[2505.03539](http://arxiv.org/abs/2505.03539)|null|
+|**2025-05-06**|**3D Can Be Explored In 2D: Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation**|Andrew Caunes et.al.|[2505.03300](http://arxiv.org/abs/2505.03300)|null|
 |**2025-05-05**|**Platelet enumeration in dense aggregates**|H. Martin Gillis et.al.|[2505.02751](http://arxiv.org/abs/2505.02751)|null|
 |**2025-05-04**|**Segment Any RGB-Thermal Model with Language-aided Distillation**|Dong Xing et.al.|[2505.01950](http://arxiv.org/abs/2505.01950)|null|
 |**2025-05-03**|**OODTE: A Differential Testing Engine for the ONNX Optimizer**|Nikolaos Louloudakis et.al.|[2505.01892](http://arxiv.org/abs/2505.01892)|null|
@@ -11818,6 +11848,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs**|Xinyuan Zhang et.al.|[2505.03460](http://arxiv.org/abs/2505.03460)|null|
+|**2025-05-06**|**From Word to Sentence: A Large-Scale Multi-Instance Dataset for Open-Set Aerial Detection**|Guoting Wei et.al.|[2505.03334](http://arxiv.org/abs/2505.03334)|null|
+|**2025-05-06**|**VISLIX: An XAI Framework for Validating Vision Models with Slice Discovery and Analysis**|Xinyuan Yan et.al.|[2505.03132](http://arxiv.org/abs/2505.03132)|null|
+|**2025-05-05**|**Sim2Real Transfer for Vision-Based Grasp Verification**|Pau Amargant et.al.|[2505.03046](http://arxiv.org/abs/2505.03046)|null|
 |**2025-05-05**|**DPNet: Dynamic Pooling Network for Tiny Object Detection**|Luqi Gong et.al.|[2505.02797](http://arxiv.org/abs/2505.02797)|null|
 |**2025-05-05**|**RGBX-DiffusionDet: A Framework for Multi-Modal RGB-X Object Detection Using DiffusionDet**|Eliraz Orfaig et.al.|[2505.02586](http://arxiv.org/abs/2505.02586)|null|
 |**2025-05-05**|**Point Cloud Recombination: Systematic Real Data Augmentation Using Robotic Targets for LiDAR Perception Validation**|Hubert Padusinski et.al.|[2505.02476](http://arxiv.org/abs/2505.02476)|null|
