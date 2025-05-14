@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -556,7 +556,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## SFM
 
@@ -890,7 +890,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2039,7 +2039,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2348,7 +2348,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2358,7 +2358,7 @@
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
-|**2025-04-29**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|null|
+|**2025-04-29**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|**[link](https://github.com/sutaoyu/CDMEA)**|
 |**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang et.al.|[2504.19398](http://arxiv.org/abs/2504.19398)|null|
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346](http://arxiv.org/abs/2504.16346)|null|
 |**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
@@ -2678,13 +2678,13 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
+|**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
 |**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894](http://arxiv.org/abs/2505.06894)|null|
 |**2025-05-10**|**3D Characterization of Smoke Plume Dispersion Using Multi-View Drone Swarm**|Nikil Krishnakumar et.al.|[2505.06638](http://arxiv.org/abs/2505.06638)|null|
@@ -4287,7 +4287,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## LLM
 
@@ -7312,14 +7312,14 @@
 |**2024-02-13**|**Test-Time Backdoor Attacks on Multimodal Large Language Models**|Dong Lu et.al.|[2402.08577](http://arxiv.org/abs/2402.08577)|**[link](https://github.com/sail-sg/anydoor)**|
 |**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567](http://arxiv.org/abs/2402.08567)|**[link](https://github.com/sail-sg/agent-smith)**|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
-|**2025-05-12**|**A Theoretical Framework for Explaining Reinforcement Learning with Shapley Values**|Daniel Beechey et.al.|[2505.07797](http://arxiv.org/abs/2505.07797)|null|
+|**2025-05-12**|**A Theoretical Framework for Explaining Reinforcement Learning with Shapley Values**|Daniel Beechey et.al.|[2505.07797](http://arxiv.org/abs/2505.07797)|**[link](https://github.com/djeb20/sverl)**|
 |**2025-05-12**|**MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering**|Rushi Qiang et.al.|[2505.07782](http://arxiv.org/abs/2505.07782)|null|
 |**2025-05-12**|**Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving**|Xinji Mai et.al.|[2505.07773](http://arxiv.org/abs/2505.07773)|**[link](https://github.com/anonymize-author/agentrl)**|
 |**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/abs/2505.07686)|null|
@@ -10282,7 +10282,7 @@
 |**2024-02-13**|**Off-Policy Evaluation in Markov Decision Processes under Weak Distributional Overlap**|Mohammad Mehrabi et.al.|[2402.08201](http://arxiv.org/abs/2402.08201)|null|
 |**2024-02-13**|**Enabling Multi-Agent Transfer Reinforcement Learning via Scenario Independent Representation**|Ayesha Siddika Nipu et.al.|[2402.08184](http://arxiv.org/abs/2402.08184)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## Segmentation
 
@@ -10290,14 +10290,14 @@
 |---|---|---|---|---|
 |**2025-05-12**|**Privacy Risks of Robot Vision: A User Study on Image Modalities and Resolution**|Xuying Huang et.al.|[2505.07766](http://arxiv.org/abs/2505.07766)|null|
 |**2025-05-12**|**Feedback-Driven Pseudo-Label Reliability Assessment: Redefining Thresholding for Semi-Supervised Semantic Segmentation**|Negin Ghamsarian et.al.|[2505.07691](http://arxiv.org/abs/2505.07691)|null|
-|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
+|**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-11**|**Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**|Zihang Liu et.al.|[2505.07071](http://arxiv.org/abs/2505.07071)|**[link](https://github.com/liu-zihang/samsr)**|
 |**2025-05-11**|**Depth-Sensitive Soft Suppression with RGB-D Inter-Modal Stylization Flow for Domain Generalization Semantic Segmentation**|Binbin Wei et.al.|[2505.07050](http://arxiv.org/abs/2505.07050)|null|
 |**2025-05-11**|**Technical Report for ICRA 2025 GOOSE 2D Semantic Segmentation Challenge: Leveraging Color Shift Correction, RoPE-Swin Backbone, and Quantile-based Label Denoising Strategy for Robust Outdoor Scene Understanding**|Chih-Chung Hsu et.al.|[2505.06991](http://arxiv.org/abs/2505.06991)|null|
 |**2025-05-11**|**Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation**|Seokjun Kwon et.al.|[2505.06951](http://arxiv.org/abs/2505.06951)|null|
 |**2025-05-10**|**Reducing Unimodal Bias in Multi-Modal Semantic Segmentation with Multi-Scale Functional Entropy Regularization**|Xu Zheng et.al.|[2505.06635](http://arxiv.org/abs/2505.06635)|null|
 |**2025-05-10**|**RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**|Zhiwen Zeng et.al.|[2505.06515](http://arxiv.org/abs/2505.06515)|null|
-|**2025-05-09**|**Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet**|Kodai Hirata et.al.|[2505.06185](http://arxiv.org/abs/2505.06185)|null|
+|**2025-05-13**|**Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet**|Kodai Hirata et.al.|[2505.06185](http://arxiv.org/abs/2505.06185)|null|
 |**2025-05-08**|**CottonSim: Development of an autonomous visual-guided robotic cotton-picking system in the Gazebo**|Thevathayarajh Thayananthan et.al.|[2505.05317](http://arxiv.org/abs/2505.05317)|null|
 |**2025-05-08**|**RepSNet: A Nucleus Instance Segmentation model based on Boundary Regression and Structural Re-parameterization**|Shengchun Xiong et.al.|[2505.05073](http://arxiv.org/abs/2505.05073)|null|
 |**2025-05-09**|**UncertainSAM: Fast and Efficient Uncertainty Quantification of the Segment Anything Model**|Timo Kaiser et.al.|[2505.05049](http://arxiv.org/abs/2505.05049)|**[link](https://github.com/GreenAutoML4FAS/UncertainSAM)**|
@@ -11955,7 +11955,7 @@
 |**2024-02-09**|**Classifying point clouds at the facade-level using geometric features and deep learning networks**|Yue Tan et.al.|[2402.06506](http://arxiv.org/abs/2402.06506)|**[link](https://github.com/yue-t99/pointnet2-geometricfeatures-facade)**|
 |**2024-02-09**|**ControlUDA: Controllable Diffusion-assisted Unsupervised Domain Adaptation for Cross-Weather Semantic Segmentation**|Fengyi Shen et.al.|[2402.06446](http://arxiv.org/abs/2402.06446)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## Detection
 
@@ -11969,7 +11969,7 @@
 |**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980](http://arxiv.org/abs/2505.06980)|null|
 |**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[2505.06746](http://arxiv.org/abs/2505.06746)|null|
 |**2025-05-10**|**Underwater object detection in sonar imagery with detection transformer and Zero-shot neural architecture search**|XiaoTong Gu et.al.|[2505.06694](http://arxiv.org/abs/2505.06694)|null|
-|**2025-05-10**|**METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection**|Yongqi Wang et.al.|[2505.06663](http://arxiv.org/abs/2505.06663)|null|
+|**2025-05-10**|**METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection**|Yongqi Wang et.al.|[2505.06663](http://arxiv.org/abs/2505.06663)|**[link](https://github.com/wangyongqi558/METOR)**|
 |**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
 |**2025-05-09**|**Artificial intelligence pioneers the double-strangeness factory**|Yan He et.al.|[2505.05802](http://arxiv.org/abs/2505.05802)|null|
 |**2025-05-09**|**Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection**|Zhangchi Hu et.al.|[2505.05741](http://arxiv.org/abs/2505.05741)|null|
@@ -13938,7 +13938,7 @@
 |**2024-02-10**|**Domain Adaptable Fine-Tune Distillation Framework For Advancing Farm Surveillance**|Raza Imam et.al.|[2402.07059](http://arxiv.org/abs/2402.07059)|**[link](https://github.com/razaimam45/fine-tune-distillation)**|
 |**2024-02-10**|**Semantic Object-level Modeling for Robust Visual Camera Relocalization**|Yifan Zhu et.al.|[2402.06951](http://arxiv.org/abs/2402.06951)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
