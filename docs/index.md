@@ -548,6 +548,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
@@ -881,6 +882,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
@@ -2028,6 +2030,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
 |**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436](http://arxiv.org/abs/2505.06436)|null|
@@ -2336,6 +2339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
@@ -2664,6 +2668,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
+|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
@@ -4276,6 +4282,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**|Zhaolan Huang et.al.|[2505.11483](http://arxiv.org/abs/2505.11483)|null|
+|**2025-05-16**|**Improving Assembly Code Performance with Large Language Models via Reinforcement Learning**|Anjiang Wei et.al.|[2505.11480](http://arxiv.org/abs/2505.11480)|null|
+|**2025-05-16**|**HelpSteer3-Preference: Open Human-Annotated Preference Data across Diverse Tasks and Languages**|Zhilin Wang et.al.|[2505.11475](http://arxiv.org/abs/2505.11475)|null|
+|**2025-05-16**|**Disentangling Reasoning and Knowledge in Medical Large Language Models**|Rahul Thapa et.al.|[2505.11462](http://arxiv.org/abs/2505.11462)|null|
+|**2025-05-16**|**ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks**|Zhixiong Zhuang et.al.|[2505.11459](http://arxiv.org/abs/2505.11459)|null|
+|**2025-05-16**|**LLMs unlock new paths to monetizing exploits**|Nicholas Carlini et.al.|[2505.11449](http://arxiv.org/abs/2505.11449)|null|
+|**2025-05-16**|**Is Compression Really Linear with Code Intelligence?**|Xianzhen Luo et.al.|[2505.11441](http://arxiv.org/abs/2505.11441)|null|
+|**2025-05-16**|**GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**|Chenkai Zhang et.al.|[2505.11436](http://arxiv.org/abs/2505.11436)|null|
+|**2025-05-16**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
+|**2025-05-16**|**When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs**|Xiaomin Li et.al.|[2505.11423](http://arxiv.org/abs/2505.11423)|null|
 |**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/abs/2505.10562)|null|
 |**2025-05-15**|**Neural Thermodynamic Laws for Large Language Model Training**|Ziming Liu et.al.|[2505.10559](http://arxiv.org/abs/2505.10559)|null|
 |**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551](http://arxiv.org/abs/2505.10551)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|
@@ -7329,6 +7345,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics**|Lizhi Yang et.al.|[2505.11494](http://arxiv.org/abs/2505.11494)|null|
+|**2025-05-16**|**Improving Assembly Code Performance with Large Language Models via Reinforcement Learning**|Anjiang Wei et.al.|[2505.11480](http://arxiv.org/abs/2505.11480)|null|
+|**2025-05-16**|**Automatic Reward Shaping from Confounded Offline Data**|Mingxuan Li et.al.|[2505.11478](http://arxiv.org/abs/2505.11478)|null|
+|**2025-05-16**|**HelpSteer3-Preference: Open Human-Annotated Preference Data across Diverse Tasks and Languages**|Zhilin Wang et.al.|[2505.11475](http://arxiv.org/abs/2505.11475)|null|
+|**2025-05-16**|**Disentangling Reasoning and Knowledge in Medical Large Language Models**|Rahul Thapa et.al.|[2505.11462](http://arxiv.org/abs/2505.11462)|null|
+|**2025-05-16**|**Signal attenuation enables scalable decentralized multi-agent reinforcement learning over networks**|Wesley A Suttle et.al.|[2505.11461](http://arxiv.org/abs/2505.11461)|null|
+|**2025-05-16**|**Visual Planning: Let's Think Only with Images**|Yi Xu et.al.|[2505.11409](http://arxiv.org/abs/2505.11409)|null|
+|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|null|
+|**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366](http://arxiv.org/abs/2505.11366)|null|
+|**2025-05-16**|**Explaining Strategic Decisions in Multi-Agent Reinforcement Learning for Aerial Combat Tactics**|Ardian Selmonaj et.al.|[2505.11311](http://arxiv.org/abs/2505.11311)|null|
 |**2025-05-15**|**Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models**|Zhiyuan Hu et.al.|[2505.10554](http://arxiv.org/abs/2505.10554)|**[link](https://github.com/zhiyuanhubj/meta-ability-alignment)**|
 |**2025-05-15**|**Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation**|Xinrui Wang et.al.|[2505.10522](http://arxiv.org/abs/2505.10522)|null|
 |**2025-05-15**|**Fixing Incomplete Value Function Decomposition for Multi-Agent Reinforcement Learning**|Andrea Baisero et.al.|[2505.10484](http://arxiv.org/abs/2505.10484)|null|
@@ -10327,6 +10353,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision**|Utsav Rai et.al.|[2505.11439](http://arxiv.org/abs/2505.11439)|null|
+|**2025-05-16**|**Pseudo-Label Quality Decoupling and Correction for Semi-Supervised Instance Segmentation**|Jianghang Lin et.al.|[2505.11075](http://arxiv.org/abs/2505.11075)|null|
+|**2025-05-16**|**Completely Weakly Supervised Class-Incremental Learning for Semantic Segmentation**|David Minkwan Kim et.al.|[2505.10781](http://arxiv.org/abs/2505.10781)|null|
+|**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
+|**2025-05-15**|**TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation**|Manthan Patel et.al.|[2505.10696](http://arxiv.org/abs/2505.10696)|null|
 |**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352](http://arxiv.org/abs/2505.10352)|null|
 |**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971](http://arxiv.org/abs/2505.09971)|**[link](https://github.com/gaoyuan2/apcotta)**|
 |**2025-05-14**|**FedSaaS: Class-Consistency Federated Semantic Segmentation via Global Prototype Supervision and Local Adversarial Harmonization**|Xiaoyang Yu et.al.|[2505.09385](http://arxiv.org/abs/2505.09385)|null|
@@ -12008,6 +12039,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Improving Object Detection Performance through YOLOv8: A Comprehensive Training and Evaluation Study**|Rana Poureskandar et.al.|[2505.11424](http://arxiv.org/abs/2505.11424)|null|
+|**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|null|
+|**2025-05-16**|**M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Fusion Object Detection**|Chao Wang et.al.|[2505.10931](http://arxiv.org/abs/2505.10931)|null|
+|**2025-05-16**|**A High-Performance Thermal Infrared Object Detection Framework with Centralized Regulation**|Jinke Li et.al.|[2505.10825](http://arxiv.org/abs/2505.10825)|null|
 |**2025-05-15**|**StoryReasoning Dataset: Using Chain-of-Thought for Scene Understanding and Grounded Story Generation**|Daniel A. P. Oliveira et.al.|[2505.10292](http://arxiv.org/abs/2505.10292)|**[link](https://github.com/daniel3303/storyreasoning)**|
 |**2025-05-15**|**Defect Detection in Photolithographic Patterns Using Deep Learning Models Trained on Synthetic Data**|Prashant P. Shinde et.al.|[2505.10192](http://arxiv.org/abs/2505.10192)|null|
 |**2025-05-15**|**Application of YOLOv8 in monocular downward multiple Car Target detection**|Shijie Lyu et.al.|[2505.10016](http://arxiv.org/abs/2505.10016)|null|
