@@ -568,7 +568,7 @@
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
-|**2025-05-20**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
+|**2025-05-20**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|**[link](https://github.com/pals-ttic/fastmap)**|
 |**2025-05-15**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
@@ -900,6 +900,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
 |**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
@@ -2696,6 +2697,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
 |**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
@@ -4314,6 +4316,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684](http://arxiv.org/abs/2505.14684)|null|
+|**2025-05-20**|**UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**|Rui Tian et.al.|[2505.14682](http://arxiv.org/abs/2505.14682)|null|
+|**2025-05-20**|**UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Large Language Models**|Xiaojie Gu et.al.|[2505.14679](http://arxiv.org/abs/2505.14679)|null|
+|**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677](http://arxiv.org/abs/2505.14677)|null|
+|**2025-05-20**|**Reward Reasoning Model**|Jiaxin Guo et.al.|[2505.14674](http://arxiv.org/abs/2505.14674)|null|
+|**2025-05-20**|**Quartet: Native FP4 Training Can Be Optimal for Large Language Models**|Roberto L. Castro et.al.|[2505.14669](http://arxiv.org/abs/2505.14669)|null|
+|**2025-05-20**|**ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions**|Bufang Yang et.al.|[2505.14668](http://arxiv.org/abs/2505.14668)|null|
+|**2025-05-20**|**Beyond Words: Multimodal LLM Knows When to Speak**|Zikai Liao et.al.|[2505.14654](http://arxiv.org/abs/2505.14654)|null|
+|**2025-05-20**|**General-Reasoner: Advancing LLM Reasoning Across All Domains**|Xueguang Ma et.al.|[2505.14652](http://arxiv.org/abs/2505.14652)|null|
+|**2025-05-20**|**Think Only When You Need with Large Hybrid-Reasoning Models**|Lingjie Jiang et.al.|[2505.14631](http://arxiv.org/abs/2505.14631)|null|
 |**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445](http://arxiv.org/abs/2505.13445)|null|
 |**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/abs/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|
 |**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
@@ -7389,6 +7401,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684](http://arxiv.org/abs/2505.14684)|null|
+|**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677](http://arxiv.org/abs/2505.14677)|null|
+|**2025-05-20**|**Reward Reasoning Model**|Jiaxin Guo et.al.|[2505.14674](http://arxiv.org/abs/2505.14674)|null|
+|**2025-05-20**|**General-Reasoner: Advancing LLM Reasoning Across All Domains**|Xueguang Ma et.al.|[2505.14652](http://arxiv.org/abs/2505.14652)|null|
+|**2025-05-20**|**Think Only When You Need with Large Hybrid-Reasoning Models**|Lingjie Jiang et.al.|[2505.14631](http://arxiv.org/abs/2505.14631)|null|
+|**2025-05-20**|**TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning**|Zhangchen Xu et.al.|[2505.14625](http://arxiv.org/abs/2505.14625)|null|
+|**2025-05-20**|**Context Reasoner: Incentivizing Reasoning Capability for Contextualized Privacy and Safety Compliance via Reinforcement Learning**|Wenbin Hu et.al.|[2505.14585](http://arxiv.org/abs/2505.14585)|null|
+|**2025-05-20**|**Performance Optimization of Energy-Harvesting Underlay Cognitive Radio Networks Using Reinforcement Learning**|Deemah H. Tashman et.al.|[2505.14581](http://arxiv.org/abs/2505.14581)|null|
+|**2025-05-20**|**KIPPO: Koopman-Inspired Proximal Policy Optimization**|Andrei Cozma et.al.|[2505.14566](http://arxiv.org/abs/2505.14566)|null|
+|**2025-05-20**|**Bellman operator convergence enhancements in reinforcement learning algorithms**|David Krame Kadurha et.al.|[2505.14564](http://arxiv.org/abs/2505.14564)|null|
 |**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445](http://arxiv.org/abs/2505.13445)|null|
 |**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/abs/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|
 |**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426](http://arxiv.org/abs/2505.13426)|**[link](https://github.com/chenllliang/g1)**|
@@ -10409,6 +10431,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583](http://arxiv.org/abs/2505.14583)|null|
+|**2025-05-20**|**ReservoirTTA: Prolonged Test-time Adaptation for Evolving and Recurring Domains**|Guillaume Vray et.al.|[2505.14511](http://arxiv.org/abs/2505.14511)|null|
+|**2025-05-20**|**Decoupling Classifier for Boosting Few-shot Object Detection and Instance Segmentation**|Bin-Bin Gao et.al.|[2505.14239](http://arxiv.org/abs/2505.14239)|null|
+|**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124](http://arxiv.org/abs/2505.14124)|**[link](https://github.com/hchoi71/intra-class-patch-swap)**|
+|**2025-05-20**|**Generalizable Multispectral Land Cover Classification via Frequency-Aware Mixture of Low-Rank Token Experts**|Xi Chen et.al.|[2505.14088](http://arxiv.org/abs/2505.14088)|null|
+|**2025-05-20**|**Scaling Vision Mamba Across Resolutions via Fractal Traversal**|Bo Li et.al.|[2505.14062](http://arxiv.org/abs/2505.14062)|null|
+|**2025-05-20**|**EGFormer: Towards Efficient and Generalizable Multimodal Semantic Segmentation**|Zelin Zhang et.al.|[2505.14014](http://arxiv.org/abs/2505.14014)|null|
+|**2025-05-19**|**Self-Supervised Learning for Image Segmentation: A Comprehensive Survey**|Thangarajah Akilan et.al.|[2505.13584](http://arxiv.org/abs/2505.13584)|null|
 |**2025-05-19**|**FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching**|Alp Eren Sari et.al.|[2505.13174](http://arxiv.org/abs/2505.13174)|null|
 |**2025-05-20**|**Industrial Synthetic Segment Pre-training**|Shinichi Mae et.al.|[2505.13099](http://arxiv.org/abs/2505.13099)|null|
 |**2025-05-19**|**Robust Multimodal Segmentation with Representation Regularization and Hybrid Prototype Distillation**|Jiaqi Tan et.al.|[2505.12861](http://arxiv.org/abs/2505.12861)|**[link](https://github.com/robustseg/robustseg)**|
@@ -12106,6 +12136,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation**|Yuyang Dong et.al.|[2505.14381](http://arxiv.org/abs/2505.14381)|null|
+|**2025-05-20**|**Decoupling Classifier for Boosting Few-shot Object Detection and Instance Segmentation**|Bin-Bin Gao et.al.|[2505.14239](http://arxiv.org/abs/2505.14239)|null|
+|**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124](http://arxiv.org/abs/2505.14124)|**[link](https://github.com/hchoi71/intra-class-patch-swap)**|
+|**2025-05-20**|**Scaling Vision Mamba Across Resolutions via Fractal Traversal**|Bo Li et.al.|[2505.14062](http://arxiv.org/abs/2505.14062)|null|
+|**2025-05-20**|**Automated Quality Evaluation of Cervical Cytopathology Whole Slide Images Based on Content Analysis**|Lanlan Kang et.al.|[2505.13875](http://arxiv.org/abs/2505.13875)|null|
+|**2025-05-20**|**Safety2Drive: Safety-Critical Scenario Benchmark for the Evaluation of Autonomous Driving**|Jingzheng Li et.al.|[2505.13872](http://arxiv.org/abs/2505.13872)|null|
+|**2025-05-20**|**A Challenge to Build Neuro-Symbolic Video Agents**|Sahil Shah et.al.|[2505.13851](http://arxiv.org/abs/2505.13851)|null|
+|**2025-05-20**|**InstanceBEV: Unifying Instance and BEV Representation for Global Modeling**|Feng Li et.al.|[2505.13817](http://arxiv.org/abs/2505.13817)|null|
 |**2025-05-19**|**Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection**|Xiao Wang et.al.|[2505.12908](http://arxiv.org/abs/2505.12908)|**[link](https://github.com/event-ahu/openevdet)**|
 |**2025-05-19**|**Rethinking Features-Fused-Pyramid-Neck for Object Detection**|Hulin Li et.al.|[2505.12820](http://arxiv.org/abs/2505.12820)|**[link](https://github.com/alanli1997/rethinking-fpn)**|
 |**2025-05-19**|**Enhancing Transformers Through Conditioned Embedded Tokens**|Hemanth Saratchandran et.al.|[2505.12789](http://arxiv.org/abs/2505.12789)|null|
