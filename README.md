@@ -564,6 +564,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-22**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|null|
 |**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
@@ -902,6 +903,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
+|**2025-05-23**|**CU-Multi: A Dataset for Multi-Robot Data Association**|Doncey Albin et.al.|[2505.17576](http://arxiv.org/abs/2505.17576)|null|
 |**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447](http://arxiv.org/abs/2505.16447)|null|
 |**2025-05-21**|**Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**|Siting Li et.al.|[2505.15877](http://arxiv.org/abs/2505.15877)|null|
 |**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|null|
@@ -2371,6 +2375,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
@@ -4322,6 +4327,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs**|Wafa Alghallabi et.al.|[2505.18152](http://arxiv.org/abs/2505.18152)|null|
+|**2025-05-23**|**First Finish Search: Efficient Test-Time Scaling in Large Language Models**|Aradhye Agarwal et.al.|[2505.18149](http://arxiv.org/abs/2505.18149)|null|
+|**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
+|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|null|
+|**2025-05-23**|**Reward Model Overoptimisation in Iterated RLHF**|Lorenz Wolf et.al.|[2505.18126](http://arxiv.org/abs/2505.18126)|null|
+|**2025-05-23**|**UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification**|Poojah Ganesan et.al.|[2505.18122](http://arxiv.org/abs/2505.18122)|null|
+|**2025-05-23**|**ProgRM: Build Better GUI Agents with Progress Rewards**|Danyang Zhang et.al.|[2505.18121](http://arxiv.org/abs/2505.18121)|null|
+|**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
+|**2025-05-23**|**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**|Zinuo Li et.al.|[2505.18110](http://arxiv.org/abs/2505.18110)|null|
+|**2025-05-23**|**ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework**|Lisheng Huang et.al.|[2505.18105](http://arxiv.org/abs/2505.18105)|null|
 |**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
 |**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
 |**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|**[link](https://github.com/kxfan2002/sophiavl-r1)**|
@@ -7427,6 +7442,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129](http://arxiv.org/abs/2505.18129)|null|
+|**2025-05-23**|**Reward Model Overoptimisation in Iterated RLHF**|Lorenz Wolf et.al.|[2505.18126](http://arxiv.org/abs/2505.18126)|null|
+|**2025-05-23**|**Bridging Supervised Learning and Reinforcement Learning in Math Reasoning**|Huayu Chen et.al.|[2505.18116](http://arxiv.org/abs/2505.18116)|null|
+|**2025-05-23**|**Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**|Joey Hong et.al.|[2505.18098](http://arxiv.org/abs/2505.18098)|null|
+|**2025-05-23**|**Stable Reinforcement Learning for Efficient Reasoning**|Muzhi Dai et.al.|[2505.18086](http://arxiv.org/abs/2505.18086)|null|
+|**2025-05-23**|**What Do You Need for Diverse Trajectory Stitching in Diffusion Planning?**|Quentin Clark et.al.|[2505.18083](http://arxiv.org/abs/2505.18083)|null|
+|**2025-05-23**|**Extended Inductive Reasoning for Personalized Preference Inference from Behavioral Signals**|Jia-Nan Li et.al.|[2505.18071](http://arxiv.org/abs/2505.18071)|null|
+|**2025-05-23**|**Towards Analyzing and Understanding the Limitations of VAPO: A Theoretical Perspective**|Jintian Shao et.al.|[2505.17997](http://arxiv.org/abs/2505.17997)|null|
+|**2025-05-23**|**Outcome-based Reinforcement Learning to Predict the Future**|Benjamin Turtel et.al.|[2505.17989](http://arxiv.org/abs/2505.17989)|null|
+|**2025-05-23**|**Towards Revealing the Effectiveness of Small-Scale Fine-tuning in R1-style Reinforcement Learning**|Yutong Chen et.al.|[2505.17988](http://arxiv.org/abs/2505.17988)|null|
 |**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|**[link](https://github.com/gogoduan/got-r1)**|
 |**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|**[link](https://github.com/kxfan2002/sophiavl-r1)**|
 |**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
@@ -10477,6 +10502,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153](http://arxiv.org/abs/2505.18153)|null|
+|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|null|
+|**2025-05-23**|**Semantic segmentation with reward**|Xie Ting et.al.|[2505.17905](http://arxiv.org/abs/2505.17905)|null|
+|**2025-05-23**|**Hephaestus Minicubes: A Global, Multi-Modal Dataset for Volcanic Unrest Monitoring**|Nikolas Papadopoulos et.al.|[2505.17782](http://arxiv.org/abs/2505.17782)|null|
+|**2025-05-23**|**EMRA-proxy: Enhancing Multi-Class Region Semantic Segmentation in Remote Sensing Images with Attention Proxy**|Yichun Yu et.al.|[2505.17665](http://arxiv.org/abs/2505.17665)|null|
 |**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008](http://arxiv.org/abs/2505.17008)|**[link](https://github.com/ltracegeo/deep-mineralogical-segmentation)**|
 |**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974](http://arxiv.org/abs/2505.16974)|**[link](https://github.com/hanzy1996/openseg-r)**|
 |**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938](http://arxiv.org/abs/2505.16938)|null|
@@ -12197,6 +12227,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129](http://arxiv.org/abs/2505.18129)|null|
+|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|null|
+|**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732](http://arxiv.org/abs/2505.17732)|null|
+|**2025-05-23**|**Adaptive Semantic Token Communication for Transformer-based Edge Inference**|Alessio Devoto et.al.|[2505.17604](http://arxiv.org/abs/2505.17604)|null|
+|**2025-05-23**|**OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics**|Jiangning Zhu et.al.|[2505.17473](http://arxiv.org/abs/2505.17473)|null|
+|**2025-05-23**|**Reflectance Prediction-based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds**|Hao Jing et.al.|[2505.17442](http://arxiv.org/abs/2505.17442)|null|
+|**2025-05-23**|**Optimizing YOLOv8 for Parking Space Detection: Comparative Analysis of Custom YOLOv8 Architecture**|Apar Pokhrel et.al.|[2505.17364](http://arxiv.org/abs/2505.17364)|null|
+|**2025-05-22**|**Extending Dataset Pruning to Object Detection: A Variance-based Approach**|Ryota Yagi et.al.|[2505.17245](http://arxiv.org/abs/2505.17245)|null|
 |**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811](http://arxiv.org/abs/2505.16811)|null|
 |**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740](http://arxiv.org/abs/2505.16740)|**[link](https://github.com/alyasltd/conformal_runway_detection)**|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[2505.16524](http://arxiv.org/abs/2505.16524)|null|
