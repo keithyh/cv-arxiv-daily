@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4298,16 +4298,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|null|
-|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|null|
-|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|null|
-|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|null|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
+|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
+|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|**[link](https://github.com/kxfan2002/sophiavl-r1)**|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
 |**2025-05-22**|**Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models**|Runsen Xu et.al.|[2505.17015](http://arxiv.org/abs/2505.17015)|null|
 |**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012](http://arxiv.org/abs/2505.17012)|**[link](https://github.com/haoningwu3639/SpatialScore)**|
-|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|null|
-|**2025-05-22**|**Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?**|Jin Jiang et.al.|[2505.16998](http://arxiv.org/abs/2505.16998)|null|
+|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|**[link](https://github.com/rucaibox/r1-searcher-plus)**|
+|**2025-05-22**|**Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?**|Jin Jiang et.al.|[2505.16998](http://arxiv.org/abs/2505.16998)|**[link](https://github.com/jiangjin1999/formaleval)**|
 |**2025-05-22**|**DecoupledESC: Enhancing Emotional Support Generation via Strategy-Response Decoupled Preference Optimization**|Chao Zhang et.al.|[2505.16995](http://arxiv.org/abs/2505.16995)|null|
-|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990](http://arxiv.org/abs/2505.16990)|null|
+|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990](http://arxiv.org/abs/2505.16990)|**[link](https://github.com/yu-rp/dimple)**|
 |**2025-05-21**|**The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation**|Patrick Kahardipraja et.al.|[2505.15807](http://arxiv.org/abs/2505.15807)|null|
 |**2025-05-21**|**Keep Security! Benchmarking Security Policy Preservation in Large Language Model Contexts Against Indirect Attacks in Question Answering**|Hwan Chang et.al.|[2505.15805](http://arxiv.org/abs/2505.15805)|null|
 |**2025-05-21**|**STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs**|Zongzhao Li et.al.|[2505.15804](http://arxiv.org/abs/2505.15804)|null|
@@ -7401,13 +7401,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|null|
-|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|null|
-|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|null|
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|**[link](https://github.com/gogoduan/got-r1)**|
+|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|**[link](https://github.com/kxfan2002/sophiavl-r1)**|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016](http://arxiv.org/abs/2505.17016)|null|
-|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|null|
-|**2025-05-22**|**$\text{R}^2\text{ec}$ : Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994](http://arxiv.org/abs/2505.16994)|null|
-|**2025-05-22**|**SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development**|Yaxin Du et.al.|[2505.16975](http://arxiv.org/abs/2505.16975)|null|
+|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|**[link](https://github.com/rucaibox/r1-searcher-plus)**|
+|**2025-05-22**|**$\text{R}^2\text{ec}$ : Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994](http://arxiv.org/abs/2505.16994)|**[link](https://github.com/yryangang/rrec)**|
+|**2025-05-22**|**SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development**|Yaxin Du et.al.|[2505.16975](http://arxiv.org/abs/2505.16975)|**[link](https://github.com/justlittlewhite/swe-dev)**|
 |**2025-05-22**|**Risk-Averse Reinforcement Learning with Itakura-Saito Loss**|Igor Udovichenko et.al.|[2505.16925](http://arxiv.org/abs/2505.16925)|null|
 |**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865](http://arxiv.org/abs/2505.16865)|null|
 |**2025-05-22**|**Efficient Online RL Fine Tuning with Offline Pre-trained Policy Only**|Wei Xiao et.al.|[2505.16856](http://arxiv.org/abs/2505.16856)|null|
@@ -10449,14 +10449,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008](http://arxiv.org/abs/2505.17008)|null|
-|**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974](http://arxiv.org/abs/2505.16974)|null|
+|**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008](http://arxiv.org/abs/2505.17008)|**[link](https://github.com/ltracegeo/deep-mineralogical-segmentation)**|
+|**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974](http://arxiv.org/abs/2505.16974)|**[link](https://github.com/hanzy1996/openseg-r)**|
 |**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938](http://arxiv.org/abs/2505.16938)|null|
 |**2025-05-22**|**TextureSAM: Towards a Texture Aware Foundation Model for Segmentation**|Inbal Cohen et.al.|[2505.16540](http://arxiv.org/abs/2505.16540)|null|
 |**2025-05-22**|**Detailed Evaluation of Modern Machine Learning Approaches for Optic Plastics Sorting**|Vaishali Maheshkar et.al.|[2505.16513](http://arxiv.org/abs/2505.16513)|null|
 |**2025-05-22**|**Sketchy Bounding-box Supervision for 3D Instance Segmentation**|Qian Deng et.al.|[2505.16399](http://arxiv.org/abs/2505.16399)|null|
-|**2025-05-22**|**Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation**|Estelle Chigot et.al.|[2505.16360](http://arxiv.org/abs/2505.16360)|null|
-|**2025-05-22**|**RE-TRIP : Reflectivity Instance Augmented Triangle Descriptor for 3D Place Recognition**|Yechan Park et.al.|[2505.16165](http://arxiv.org/abs/2505.16165)|null|
+|**2025-05-22**|**Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation**|Estelle Chigot et.al.|[2505.16360](http://arxiv.org/abs/2505.16360)|**[link](https://github.com/echigot/cactif)**|
+|**2025-05-22**|**RE-TRIP : Reflectivity Instance Augmented Triangle Descriptor for 3D Place Recognition**|Yechan Park et.al.|[2505.16165](http://arxiv.org/abs/2505.16165)|**[link](https://github.com/pyc5714/re-trip)**|
 |**2025-05-21**|**VP Lab: a PEFT-Enabled Visual Prompting Laboratory for Semantic Segmentation**|Niccolo Avogaro et.al.|[2505.15592](http://arxiv.org/abs/2505.15592)|null|
 |**2025-05-21**|**UWSAM: Segment Anything Model Guided Underwater Instance Segmentation and A Large-scale Benchmark Dataset**|Hua Li et.al.|[2505.15581](http://arxiv.org/abs/2505.15581)|**[link](https://github.com/liamlian0727/uiis10k)**|
 |**2025-05-21**|**seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**|Andrew Caunes et.al.|[2505.15545](http://arxiv.org/abs/2505.15545)|**[link](https://github.com/andrewcaunes/ia4markings)**|
@@ -12168,10 +12168,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811](http://arxiv.org/abs/2505.16811)|null|
-|**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740](http://arxiv.org/abs/2505.16740)|null|
+|**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740](http://arxiv.org/abs/2505.16740)|**[link](https://github.com/alyasltd/conformal_runway_detection)**|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[2505.16524](http://arxiv.org/abs/2505.16524)|null|
 |**2025-05-22**|**MAFE R-CNN: Selecting More Samples to Learn Category-aware Features for Small Object Detection**|Yichen Li et.al.|[2505.16442](http://arxiv.org/abs/2505.16442)|null|
-|**2025-05-22**|**AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402](http://arxiv.org/abs/2505.16402)|null|
+|**2025-05-22**|**AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402](http://arxiv.org/abs/2505.16402)|**[link](https://github.com/huangyh98/advreal)**|
 |**2025-05-22**|**Self-Classification Enhancement and Correction for Weakly Supervised Object Detection**|Yufei Yin et.al.|[2505.16294](http://arxiv.org/abs/2505.16294)|null|
 |**2025-05-21**|**SNAP: A Benchmark for Testing the Effects of Capture Conditions on Fundamental Vision Tasks**|Iuliia Kotseruba et.al.|[2505.15628](http://arxiv.org/abs/2505.15628)|**[link](https://github.com/ykotseruba/snap)**|
 |**2025-05-21**|**Detection of Underwater Multi-Targets Based on Self-Supervised Learning and Deformable Path Aggregation Feature Pyramid Network**|Chang Liu et.al.|[2505.15518](http://arxiv.org/abs/2505.15518)|null|
