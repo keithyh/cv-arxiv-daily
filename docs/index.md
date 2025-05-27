@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -551,7 +551,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
-|**2025-05-22**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|null|
+|**2025-05-23**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|null|
 |**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
@@ -892,7 +892,7 @@ layout: default
 |**2025-05-23**|**CU-Multi: A Dataset for Multi-Robot Data Association**|Doncey Albin et.al.|[2505.17576](http://arxiv.org/abs/2505.17576)|null|
 |**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447](http://arxiv.org/abs/2505.16447)|null|
 |**2025-05-21**|**Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**|Siting Li et.al.|[2505.15877](http://arxiv.org/abs/2505.15877)|null|
-|**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|null|
+|**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|**[link](https://github.com/nickhaidos/scenir-icml2025)**|
 |**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
@@ -10481,7 +10481,7 @@ layout: default
 |**2025-05-23**|**EMRA-proxy: Enhancing Multi-Class Region Semantic Segmentation in Remote Sensing Images with Attention Proxy**|Yichun Yu et.al.|[2505.17665](http://arxiv.org/abs/2505.17665)|null|
 |**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008](http://arxiv.org/abs/2505.17008)|**[link](https://github.com/ltracegeo/deep-mineralogical-segmentation)**|
 |**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974](http://arxiv.org/abs/2505.16974)|**[link](https://github.com/hanzy1996/openseg-r)**|
-|**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938](http://arxiv.org/abs/2505.16938)|null|
+|**2025-05-25**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938](http://arxiv.org/abs/2505.16938)|null|
 |**2025-05-22**|**TextureSAM: Towards a Texture Aware Foundation Model for Segmentation**|Inbal Cohen et.al.|[2505.16540](http://arxiv.org/abs/2505.16540)|null|
 |**2025-05-22**|**Detailed Evaluation of Modern Machine Learning Approaches for Optic Plastics Sorting**|Vaishali Maheshkar et.al.|[2505.16513](http://arxiv.org/abs/2505.16513)|null|
 |**2025-05-22**|**Sketchy Bounding-box Supervision for 3D Instance Segmentation**|Qian Deng et.al.|[2505.16399](http://arxiv.org/abs/2505.16399)|null|
