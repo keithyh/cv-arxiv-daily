@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -552,7 +552,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
 |**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729](http://arxiv.org/abs/2505.20729)|null|
-|**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
+|**2025-05-29**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
 |**2025-05-25**|**Improving Novel view synthesis of 360 $^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264](http://arxiv.org/abs/2505.19264)|**[link](https://github.com/angchen-dev/hemisparsegs)**|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-23**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|**[link](https://github.com/neuroinformatics-unit/zebras-stitching)**|
@@ -7486,7 +7486,7 @@ layout: default
 |**2025-05-28**|**SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning**|Jiaqi Huang et.al.|[2505.22596](http://arxiv.org/abs/2505.22596)|null|
 |**2025-05-28**|**Emotion-o1: Adaptive Long Reasoning for Emotion Understanding in LLMs**|Changhao Song et.al.|[2505.22548](http://arxiv.org/abs/2505.22548)|null|
 |**2025-05-28**|**Demystifying the Paradox of Importance Sampling with an Estimated History-Dependent Behavior Policy in Off-Policy Evaluation**|Hongyi Zhou et.al.|[2505.22492](http://arxiv.org/abs/2505.22492)|null|
-|**2025-05-28**|**Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems**|Jiaxi Yang et.al.|[2505.22467](http://arxiv.org/abs/2505.22467)|null|
+|**2025-05-29**|**Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems**|Jiaxi Yang et.al.|[2505.22467](http://arxiv.org/abs/2505.22467)|null|
 |**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
 |**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
@@ -10568,12 +10568,12 @@ layout: default
 |**2025-05-28**|**ConfLUNet: Multiple sclerosis lesion instance segmentation in presence of confluent lesions**|Maxence Wynen et.al.|[2505.22537](http://arxiv.org/abs/2505.22537)|null|
 |**2025-05-28**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
 |**2025-05-28**|**LiDAR Based Semantic Perception for Forklifts in Outdoor Environments**|Benjamin Serfling et.al.|[2505.22258](http://arxiv.org/abs/2505.22258)|null|
-|**2025-05-28**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250](http://arxiv.org/abs/2505.22250)|null|
+|**2025-05-29**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250](http://arxiv.org/abs/2505.22250)|null|
 |**2025-05-28**|**Enjoying Information Dividend: Gaze Track-based Medical Weakly Supervised Segmentation**|Zhisong Wang et.al.|[2505.22230](http://arxiv.org/abs/2505.22230)|null|
 |**2025-05-28**|**A Survey on Training-free Open-Vocabulary Semantic Segmentation**|Naomi Kombol et.al.|[2505.22209](http://arxiv.org/abs/2505.22209)|null|
 |**2025-05-28**|**S2AFormer: Strip Self-Attention for Efficient Vision Transformer**|Guoan Xu et.al.|[2505.22195](http://arxiv.org/abs/2505.22195)|null|
 |**2025-05-28**|**LiDARDustX: A LiDAR Dataset for Dusty Unstructured Road Environments**|Chenfeng Wei et.al.|[2505.21914](http://arxiv.org/abs/2505.21914)|null|
-|**2025-05-28**|**CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation**|Pardis Taghavi et.al.|[2505.21904](http://arxiv.org/abs/2505.21904)|null|
+|**2025-05-29**|**CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation**|Pardis Taghavi et.al.|[2505.21904](http://arxiv.org/abs/2505.21904)|null|
 |**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|null|
 |**2025-05-27**|**Object-Centric Action-Enhanced Representations for Robot Visuo-Motor Policy Learning**|Nikos Giannakakis et.al.|[2505.20962](http://arxiv.org/abs/2505.20962)|null|
 |**2025-05-27**|**DSOcc: Leveraging Depth Awareness and Semantic Aid to Boost Camera-Based 3D Semantic Occupancy Prediction**|Naiyu Fang et.al.|[2505.20951](http://arxiv.org/abs/2505.20951)|null|
@@ -12310,9 +12310,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499](http://arxiv.org/abs/2505.22499)|null|
+|**2025-05-29**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499](http://arxiv.org/abs/2505.22499)|null|
 |**2025-05-28**|**Task-Driven Implicit Representations for Automated Design of LiDAR Systems**|Nikhil Behari et.al.|[2505.22344](http://arxiv.org/abs/2505.22344)|null|
-|**2025-05-28**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250](http://arxiv.org/abs/2505.22250)|null|
+|**2025-05-29**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250](http://arxiv.org/abs/2505.22250)|null|
 |**2025-05-28**|**S2AFormer: Strip Self-Attention for Efficient Vision Transformer**|Guoan Xu et.al.|[2505.22195](http://arxiv.org/abs/2505.22195)|null|
 |**2025-05-28**|**Learning A Robust RGB-Thermal Detector for Extreme Modality Imbalance**|Chao Tian et.al.|[2505.22154](http://arxiv.org/abs/2505.22154)|null|
 |**2025-05-28**|**Prototype Embedding Optimization for Human-Object Interaction Detection in Livestreaming**|Menghui Zhang et.al.|[2505.22011](http://arxiv.org/abs/2505.22011)|null|
