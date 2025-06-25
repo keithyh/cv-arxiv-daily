@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
-|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
+|**2025-06-23**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
 |**2025-06-16**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
@@ -562,7 +562,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## SFM
 
@@ -571,7 +571,7 @@
 |**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792](http://arxiv.org/abs/2506.18792)|null|
 |**2025-06-06**|**SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**|Yuchao Zheng et.al.|[2506.05935](http://arxiv.org/abs/2506.05935)|null|
 |**2025-06-05**|**On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**|Andreas Meuleman et.al.|[2506.05558](http://arxiv.org/abs/2506.05558)|null|
-|**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803](http://arxiv.org/abs/2506.04803)|null|
+|**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803](http://arxiv.org/abs/2506.04803)|**[link](https://github.com/danini/superansac)**|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
 |**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940](http://arxiv.org/abs/2506.01940)|null|
@@ -913,7 +913,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -922,9 +922,9 @@
 |**2025-06-23**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902](http://arxiv.org/abs/2506.18902)|null|
 |**2025-06-23**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
 |**2025-06-20**|**Class Agnostic Instance-level Descriptor for Visual Instance Search**|Qi-Ying Sun et.al.|[2506.16745](http://arxiv.org/abs/2506.16745)|null|
-|**2025-06-19**|**MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval**|Chao He et.al.|[2506.16353](http://arxiv.org/abs/2506.16353)|null|
+|**2025-06-19**|**MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval**|Chao He et.al.|[2506.16353](http://arxiv.org/abs/2506.16353)|**[link](https://github.com/shuaichaochao/mambahash)**|
 |**2025-06-19**|**Fine-grained Image Retrieval via Dual-Vision Adaptation**|Xin Jiang et.al.|[2506.16273](http://arxiv.org/abs/2506.16273)|null|
-|**2025-06-19**|**Adversarial Attacks and Detection in Visual Place Recognition for Safer Robot Navigation**|Connor Malone et.al.|[2506.15988](http://arxiv.org/abs/2506.15988)|null|
+|**2025-06-19**|**Adversarial Attacks and Detection in Visual Place Recognition for Safer Robot Navigation**|Connor Malone et.al.|[2506.15988](http://arxiv.org/abs/2506.15988)|**[link](https://github.com/QVPR/aarapsiproject)**|
 |**2025-06-18**|**Semantic and Feature Guided Uncertainty Quantification of Visual Localization for Autonomous Vehicles**|Qiyuan Wu et.al.|[2506.15851](http://arxiv.org/abs/2506.15851)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
 |**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
@@ -2116,7 +2116,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2431,7 +2431,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2773,7 +2773,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## NeRF
 
@@ -2783,7 +2783,7 @@
 |**2025-06-23**|**2D Triangle Splatting for Direct Differentiable Mesh Training**|Kaifeng Sheng et.al.|[2506.18575](http://arxiv.org/abs/2506.18575)|null|
 |**2025-06-22**|**Limitations of NERF with pre-trained Vision Features for Few-Shot 3D Reconstruction**|Ankit Sanjyal et.al.|[2506.18208](http://arxiv.org/abs/2506.18208)|null|
 |**2025-06-21**|**3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene**|Shihan Chen et.al.|[2506.17636](http://arxiv.org/abs/2506.17636)|null|
-|**2025-06-23**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262](http://arxiv.org/abs/2506.16262)|null|
+|**2025-06-23**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262](http://arxiv.org/abs/2506.16262)|**[link](https://github.com/cmlab-korea/awesome-3d-low-level-vision)**|
 |**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2025-06-17**|**Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction**|Zhengquan Zhang et.al.|[2506.14856](http://arxiv.org/abs/2506.14856)|null|
 |**2025-06-18**|**Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**|Mufan Liu et.al.|[2506.12787](http://arxiv.org/abs/2506.12787)|null|
@@ -4427,7 +4427,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## LLM
 
@@ -7734,7 +7734,7 @@
 |**2024-02-13**|**Test-Time Backdoor Attacks on Multimodal Large Language Models**|Dong Lu et.al.|[2402.08577](http://arxiv.org/abs/2402.08577)|**[link](https://github.com/sail-sg/anydoor)**|
 |**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567](http://arxiv.org/abs/2402.08567)|**[link](https://github.com/sail-sg/agent-smith)**|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## agent
 
@@ -10984,7 +10984,7 @@
 |**2024-02-13**|**Off-Policy Evaluation in Markov Decision Processes under Weak Distributional Overlap**|Mohammad Mehrabi et.al.|[2402.08201](http://arxiv.org/abs/2402.08201)|null|
 |**2024-02-13**|**Enabling Multi-Agent Transfer Reinforcement Learning via Scenario Independent Representation**|Ayesha Siddika Nipu et.al.|[2402.08184](http://arxiv.org/abs/2402.08184)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Segmentation
 
@@ -10995,9 +10995,9 @@
 |**2025-06-22**|**OSDMamba: Enhancing Oil Spill Detection from Remote Sensing Images Using Selective State Space Model**|Shuaiyu Chen et.al.|[2506.18006](http://arxiv.org/abs/2506.18006)|null|
 |**2025-06-22**|**Relation3D: Enhancing Relation Modeling for Point Cloud Instance Segmentation**|Jiahao Lu et.al.|[2506.17891](http://arxiv.org/abs/2506.17891)|null|
 |**2025-06-22**|**Cross-modal State Space Modeling for Real-time RGB-thermal Wild Scene Semantic Segmentation**|Xiaodong Guo et.al.|[2506.17869](http://arxiv.org/abs/2506.17869)|null|
-|**2025-06-20**|**Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation**|Qing Xu et.al.|[2506.17159](http://arxiv.org/abs/2506.17159)|null|
+|**2025-06-20**|**Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation**|Qing Xu et.al.|[2506.17159](http://arxiv.org/abs/2506.17159)|**[link](https://github.com/xq141839/co-seg-plus)**|
 |**2025-06-20**|**ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds**|Binbin Xiang et.al.|[2506.16991](http://arxiv.org/abs/2506.16991)|null|
-|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940](http://arxiv.org/abs/2506.16940)|null|
+|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940](http://arxiv.org/abs/2506.16940)|**[link](https://github.com/mit-acl/lunarloc-data)**|
 |**2025-06-19**|**From Semantic To Instance: A Semi-Self-Supervised Learning Approach**|Keyhan Najafian et.al.|[2506.16563](http://arxiv.org/abs/2506.16563)|null|
 |**2025-06-19**|**Structured Semantic 3D Reconstruction (S23DR) Challenge 2025 -- Winning solution**|Jan Skvrna et.al.|[2506.16421](http://arxiv.org/abs/2506.16421)|null|
 |**2025-06-19**|**LBMamba: Locally Bi-directional Mamba**|Jingwei Zhang et.al.|[2506.15976](http://arxiv.org/abs/2506.15976)|null|
@@ -12827,7 +12827,7 @@
 |**2024-02-09**|**Classifying point clouds at the facade-level using geometric features and deep learning networks**|Yue Tan et.al.|[2402.06506](http://arxiv.org/abs/2402.06506)|**[link](https://github.com/yue-t99/pointnet2-geometricfeatures-facade)**|
 |**2024-02-09**|**ControlUDA: Controllable Diffusion-assisted Unsupervised Domain Adaptation for Cross-Weather Semantic Segmentation**|Fengyi Shen et.al.|[2402.06446](http://arxiv.org/abs/2402.06446)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Detection
 
@@ -12837,12 +12837,12 @@
 |**2025-06-23**|**Improvement on LiDAR-Camera Calibration Using Square Targets**|Zhongyuan Li et.al.|[2506.18294](http://arxiv.org/abs/2506.18294)|null|
 |**2025-06-23**|**Learning Approach to Efficient Vision-based Active Tracking of a Flying Target by an Unmanned Aerial Vehicle**|Jagadeswara PKV Pothuri et.al.|[2506.18264](http://arxiv.org/abs/2506.18264)|null|
 |**2025-06-23**|**Ground tracking for improved landmine detection in a GPR system**|Li Tang et.al.|[2506.18258](http://arxiv.org/abs/2506.18258)|null|
-|**2025-06-23**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
-|**2025-06-22**|**Unfolding the Past: A Comprehensive Deep Learning Approach to Analyzing Incunabula Pages**|Klaudia Ropel et.al.|[2506.18069](http://arxiv.org/abs/2506.18069)|null|
+|**2025-06-24**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
+|**2025-06-24**|**Unfolding the Past: A Comprehensive Deep Learning Approach to Analyzing Incunabula Pages**|Klaudia Ropel et.al.|[2506.18069](http://arxiv.org/abs/2506.18069)|null|
 |**2025-06-21**|**YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception**|Mengqi Lei et.al.|[2506.17733](http://arxiv.org/abs/2506.17733)|null|
 |**2025-06-21**|**CSDN: A Context-Gated Self-Adaptive Detection Network for Real-Time Object Detection**|Wei Haolin et.al.|[2506.17679](http://arxiv.org/abs/2506.17679)|null|
 |**2025-06-21**|**DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving**|Mihir Godbole et.al.|[2506.17590](http://arxiv.org/abs/2506.17590)|null|
-|**2025-06-20**|**YASMOT: Yet another stereo image multi-object tracker**|Ketil Malde et.al.|[2506.17186](http://arxiv.org/abs/2506.17186)|null|
+|**2025-06-20**|**YASMOT: Yet another stereo image multi-object tracker**|Ketil Malde et.al.|[2506.17186](http://arxiv.org/abs/2506.17186)|**[link](https://github.com/ketil-malde/yasmot)**|
 |**2025-06-20**|**Class Agnostic Instance-level Descriptor for Visual Instance Search**|Qi-Ying Sun et.al.|[2506.16745](http://arxiv.org/abs/2506.16745)|null|
 |**2025-06-20**|**Cross-modal Offset-guided Dynamic Alignment and Fusion for Weakly Aligned UAV Object Detection**|Liu Zongzhen et.al.|[2506.16737](http://arxiv.org/abs/2506.16737)|null|
 |**2025-06-19**|**How Hard Is Snow? A Paired Domain Adaptation Dataset for Clear and Snowy Weather: CADC+**|Mei Qi Tang et.al.|[2506.16531](http://arxiv.org/abs/2506.16531)|null|
@@ -14991,7 +14991,7 @@
 |**2024-02-10**|**Domain Adaptable Fine-Tune Distillation Framework For Advancing Farm Surveillance**|Raza Imam et.al.|[2402.07059](http://arxiv.org/abs/2402.07059)|**[link](https://github.com/razaimam45/fine-tune-distillation)**|
 |**2024-02-10**|**Semantic Object-level Modeling for Robust Visual Camera Relocalization**|Yifan Zhu et.al.|[2402.06951](http://arxiv.org/abs/2402.06951)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
