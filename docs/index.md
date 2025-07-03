@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243](http://arxiv.org/abs/2507.00243)|null|
 |**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078](http://arxiv.org/abs/2506.23078)|null|
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
@@ -909,6 +910,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment**|Juelin Zhu et.al.|[2507.00659](http://arxiv.org/abs/2507.00659)|null|
 |**2025-06-28**|**Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data**|Ghufran A. Omran et.al.|[2506.22939](http://arxiv.org/abs/2506.22939)|null|
 |**2025-06-28**|**Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**|Li-Cheng Shen et.al.|[2506.22864](http://arxiv.org/abs/2506.22864)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
@@ -2431,6 +2433,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
@@ -2777,6 +2780,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
+|**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
+|**2025-07-01**|**PlantSegNeRF: A few-shot, cross-dataset method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**|Xin Yang et.al.|[2507.00371](http://arxiv.org/abs/2507.00371)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
 |**2025-06-29**|**Dynamic View Synthesis from Small Camera Motion Videos**|Huiqiang Sun et.al.|[2506.23153](http://arxiv.org/abs/2506.23153)|null|
 |**2025-06-27**|**UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields**|Fabian Perez et.al.|[2506.21884](http://arxiv.org/abs/2506.21884)|null|
@@ -4438,6 +4444,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
+|**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939](http://arxiv.org/abs/2507.01939)|null|
+|**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
+|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
+|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
+|**2025-07-02**|**AI4Research: A Survey of Artificial Intelligence for Scientific Research**|Qiguang Chen et.al.|[2507.01903](http://arxiv.org/abs/2507.01903)|null|
+|**2025-07-02**|**High-Layer Attention Pruning with Rescaling**|Songtao Liu et.al.|[2507.01900](http://arxiv.org/abs/2507.01900)|null|
+|**2025-07-02**|**MiCoTA: Bridging the Learnability Gap with Intermediate CoT and Teacher Assistants**|Dongyi Ding et.al.|[2507.01887](http://arxiv.org/abs/2507.01887)|null|
 |**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
@@ -7793,6 +7809,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
+|**2025-07-02**|**NaturalThoughts: Selecting and Distilling Reasoning Traces for General Reasoning Tasks**|Yang Li et.al.|[2507.01921](http://arxiv.org/abs/2507.01921)|null|
+|**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
+|**2025-07-02**|**TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents**|Dmytro Kuzmenko et.al.|[2507.01823](http://arxiv.org/abs/2507.01823)|null|
+|**2025-07-02**|**Quantum reinforcement learning in dynamic environments**|Oliver Sefrin et.al.|[2507.01691](http://arxiv.org/abs/2507.01691)|null|
+|**2025-07-02**|**AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training**|Zhenyu Han et.al.|[2507.01663](http://arxiv.org/abs/2507.01663)|null|
+|**2025-07-02**|**Self-Guided Process Reward Optimization with Masked Step Advantage for Process Reinforcement Learning**|Wu Fei et.al.|[2507.01551](http://arxiv.org/abs/2507.01551)|null|
+|**2025-07-02**|**Chargax: A JAX Accelerated EV Charging Simulator**|Koen Ponse et.al.|[2507.01522](http://arxiv.org/abs/2507.01522)|null|
+|**2025-07-02**|**Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning**|Yanfei Zhang et.al.|[2507.01489](http://arxiv.org/abs/2507.01489)|null|
+|**2025-07-02**|**Zero-Incentive Dynamics: a look at reward sparsity through the lens of unrewarded subgoals**|Yannick Molinghen et.al.|[2507.01470](http://arxiv.org/abs/2507.01470)|null|
 |**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Scaling Human Judgment in Community Notes with LLMs**|Haiwen Li et.al.|[2506.24118](http://arxiv.org/abs/2506.24118)|null|
 |**2025-06-30**|**Constructing Non-Markovian Decision Process via History Aggregator**|Yongyi Wang et.al.|[2506.24026](http://arxiv.org/abs/2506.24026)|null|
@@ -11091,6 +11117,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
+|**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912](http://arxiv.org/abs/2507.01912)|null|
+|**2025-07-02**|**A Gift from the Integration of Discriminative and Diffusion-based Generative Learning: Boundary Refinement Remote Sensing Semantic Segmentation**|Hao Wang et.al.|[2507.01573](http://arxiv.org/abs/2507.01573)|null|
+|**2025-07-02**|**NOCTIS: Novel Object Cyclic Threshold based Instance Segmentation**|Max Gandyra et.al.|[2507.01463](http://arxiv.org/abs/2507.01463)|null|
+|**2025-07-01**|**Rectifying Magnitude Neglect in Linear Attention**|Qihang Fan et.al.|[2507.00698](http://arxiv.org/abs/2507.00698)|null|
+|**2025-07-02**|**ExPaMoE: An Expandable Parallel Mixture of Experts for Continual Test-Time Adaptation**|JianChao Zhao et.al.|[2507.00502](http://arxiv.org/abs/2507.00502)|null|
+|**2025-07-01**|**Process-aware and high-fidelity microstructure generation using stable diffusion**|Hoang Cuong Phan et.al.|[2507.00459](http://arxiv.org/abs/2507.00459)|null|
+|**2025-07-01**|**PlantSegNeRF: A few-shot, cross-dataset method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**|Xin Yang et.al.|[2507.00371](http://arxiv.org/abs/2507.00371)|null|
+|**2025-06-30**|**SurgiSR4K: A High-Resolution Endoscopic Video Dataset for Robotic-Assisted Minimally Invasive Procedures**|Fengyi Jiang et.al.|[2507.00209](http://arxiv.org/abs/2507.00209)|null|
+|**2025-06-30**|**Diffusion-Based Image Augmentation for Semantic Segmentation in Outdoor Robotics**|Peter Mortimer et.al.|[2507.00153](http://arxiv.org/abs/2507.00153)|null|
 |**2025-06-30**|**Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**|Ce Wang et.al.|[2506.23801](http://arxiv.org/abs/2506.23801)|null|
 |**2025-06-30**|**Deep Learning-Based Semantic Segmentation for Real-Time Kidney Imaging and Measurements with Augmented Reality-Assisted Ultrasound**|Gijs Luijten et.al.|[2506.23721](http://arxiv.org/abs/2506.23721)|null|
 |**2025-06-30**|**PGOV3D: Open-Vocabulary 3D Semantic Segmentation with Partial-to-Global Curriculum**|Shiqi Zhang et.al.|[2506.23607](http://arxiv.org/abs/2506.23607)|null|
@@ -12960,6 +12996,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
+|**2025-07-02**|**Learning from Random Subspace Exploration: Generalized Test-Time Augmentation with Self-supervised Distillation**|Andrei Jelea et.al.|[2507.01347](http://arxiv.org/abs/2507.01347)|null|
+|**2025-07-01**|**Rapid Salient Object Detection with Difference Convolutional Neural Networks**|Zhuo Su et.al.|[2507.01182](http://arxiv.org/abs/2507.01182)|null|
+|**2025-07-01**|**Robust Component Detection for Flexible Manufacturing: A Deep Learning Approach to Tray-Free Object Recognition under Variable Lighting**|Fatemeh Sadat Daneshmand et.al.|[2507.00852](http://arxiv.org/abs/2507.00852)|null|
+|**2025-07-01**|**UAVD-Mamba: Deformable Token Fusion Vision Mamba for Multimodal UAV Detection**|Wei Li et.al.|[2507.00849](http://arxiv.org/abs/2507.00849)|null|
+|**2025-07-01**|**High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery**|Hongxing Peng et.al.|[2507.00825](http://arxiv.org/abs/2507.00825)|null|
+|**2025-07-01**|**Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation**|Hao Xing et.al.|[2507.00752](http://arxiv.org/abs/2507.00752)|null|
+|**2025-07-01**|**UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement**|Xiao Zhang et.al.|[2507.00721](http://arxiv.org/abs/2507.00721)|null|
+|**2025-07-01**|**Rectifying Magnitude Neglect in Linear Attention**|Qihang Fan et.al.|[2507.00698](http://arxiv.org/abs/2507.00698)|null|
+|**2025-07-01**|**De-Simplifying Pseudo Labels to Enhancing Domain Adaptive Object Detection**|Zehua Fu et.al.|[2507.00608](http://arxiv.org/abs/2507.00608)|null|
 |**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|
 |**2025-06-30**|**Visual Textualization for Image Prompted Object Detection**|Yongjian Wu et.al.|[2506.23785](http://arxiv.org/abs/2506.23785)|null|
 |**2025-06-30**|**PBCAT: Patch-based composite adversarial training against physically realizable attacks on object detection**|Xiao Li et.al.|[2506.23581](http://arxiv.org/abs/2506.23581)|null|
