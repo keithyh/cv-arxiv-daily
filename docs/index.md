@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -11138,7 +11138,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
-|**2025-07-03**|**No time to train! Training-Free Reference-Based Instance Segmentation**|Miguel Espinosa et.al.|[2507.02798](http://arxiv.org/abs/2507.02798)|null|
+|**2025-07-05**|**No time to train! Training-Free Reference-Based Instance Segmentation**|Miguel Espinosa et.al.|[2507.02798](http://arxiv.org/abs/2507.02798)|null|
 |**2025-07-03**|**From Pixels to Damage Severity: Estimating Earthquake Impacts Using Semantic Segmentation of Social Media Images**|Danrong Zhang et.al.|[2507.02781](http://arxiv.org/abs/2507.02781)|null|
 |**2025-07-03**|**MedFormer: Hierarchical Medical Vision Transformer with Content-Aware Dual Sparse Selection Attention**|Zunhui Xia et.al.|[2507.02488](http://arxiv.org/abs/2507.02488)|null|
 |**2025-07-03**|**Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis**|Byung Hyun Lee et.al.|[2507.02395](http://arxiv.org/abs/2507.02395)|null|
