@@ -31,7 +31,7 @@
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
-|**2025-06-23**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|**[link](https://github.com/nvlabs/pycuvslam)**|
+|**2025-07-08**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|**[link](https://github.com/nvlabs/pycuvslam)**|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
 |**2025-06-16**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
@@ -927,8 +927,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
+|**2025-07-08**|**OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval**|Zhiwei Chen et.al.|[2507.05631](http://arxiv.org/abs/2507.05631)|null|
+|**2025-07-07**|**Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model**|Mengyao Xu et.al.|[2507.05513](http://arxiv.org/abs/2507.05513)|null|
 |**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Francesco Giuliari et.al.|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
-|**2025-07-07**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
+|**2025-07-08**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[2507.04503](http://arxiv.org/abs/2507.04503)|null|
 |**2025-07-04**|**Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition**|Jiuhong Xiao et.al.|[2507.03831](http://arxiv.org/abs/2507.03831)|null|
@@ -2809,6 +2812,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
+|**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
 |**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
@@ -4476,6 +4481,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers**|Zhiyuan Peng et.al.|[2507.06223](http://arxiv.org/abs/2507.06223)|null|
+|**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
+|**2025-07-08**|**UQLM: A Python Package for Uncertainty Quantification in Large Language Models**|Dylan Bouchard et.al.|[2507.06196](http://arxiv.org/abs/2507.06196)|null|
+|**2025-07-08**|**SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads**|Jiale Lao et.al.|[2507.06192](http://arxiv.org/abs/2507.06192)|null|
+|**2025-07-08**|**Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review**|Zhicheng Lin et.al.|[2507.06185](http://arxiv.org/abs/2507.06185)|null|
+|**2025-07-08**|**Data-Semantics-Aware Recommendation of Diverse Pivot Tables**|Whanhee Cho et.al.|[2507.06171](http://arxiv.org/abs/2507.06171)|null|
+|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-08**|**Evaluation of Habitat Robotics using Large Language Models**|William Li et.al.|[2507.06157](http://arxiv.org/abs/2507.06157)|null|
+|**2025-07-08**|**Large Language Models Predict Human Well-being -- But Not Equally Everywhere**|Pat Pataranutaporn et.al.|[2507.06141](http://arxiv.org/abs/2507.06141)|null|
+|**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138](http://arxiv.org/abs/2507.06138)|null|
 |**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
 |**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
 |**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
@@ -7863,6 +7878,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization**|Zhongyuan Peng et.al.|[2507.06181](http://arxiv.org/abs/2507.06181)|null|
+|**2025-07-08**|**Learning Agile Tensile Perching for Aerial Robots from Demonstrations**|Kangle Yuan et.al.|[2507.06172](http://arxiv.org/abs/2507.06172)|null|
+|**2025-07-08**|**Safe Domain Randomization via Uncertainty-Aware Out-of-Distribution Detection and Policy Adaptation**|Mohamad H. Danesh et.al.|[2507.06111](http://arxiv.org/abs/2507.06111)|null|
+|**2025-07-08**|**AI-Based Demand Forecasting and Load Balancing for Optimising Energy use in Healthcare Systems: A real case study**|Iman Rahimi et.al.|[2507.06077](http://arxiv.org/abs/2507.06077)|null|
+|**2025-07-08**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057](http://arxiv.org/abs/2507.06057)|null|
+|**2025-07-08**|**CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation**|Kushal Gajjar et.al.|[2507.06013](http://arxiv.org/abs/2507.06013)|null|
+|**2025-07-08**|**From General Relation Patterns to Task-Specific Decision-Making in Continual Multi-Agent Coordination**|Chang Yao et.al.|[2507.06004](http://arxiv.org/abs/2507.06004)|null|
+|**2025-07-08**|**BlueLM-2.5-3B Technical Report**|Baojiao Xiong et.al.|[2507.05934](http://arxiv.org/abs/2507.05934)|null|
+|**2025-07-08**|**High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning**|Xinyu Huang et.al.|[2507.05920](http://arxiv.org/abs/2507.05920)|null|
+|**2025-07-08**|**Differentiable Reward Optimization for LLM based TTS system**|Changfeng Gao et.al.|[2507.05911](http://arxiv.org/abs/2507.05911)|null|
 |**2025-07-07**|**Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning**|Yana Wei et.al.|[2507.05255](http://arxiv.org/abs/2507.05255)|null|
 |**2025-07-07**|**Action Space Reduction Strategies for Reinforcement Learning in Autonomous Driving**|Elahe Delavari et.al.|[2507.05251](http://arxiv.org/abs/2507.05251)|null|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
@@ -11193,6 +11218,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**FineGrasp: Towards Robust Grasping for Delicate Objects**|Yun Du et.al.|[2507.05978](http://arxiv.org/abs/2507.05978)|null|
+|**2025-07-08**|**Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation**|Quanzhu Niu et.al.|[2507.05948](http://arxiv.org/abs/2507.05948)|null|
+|**2025-07-08**|**I $^2$ R: Inter and Intra-image Refinement in Few Shot Segmentation**|Ourui Fu et.al.|[2507.05838](http://arxiv.org/abs/2507.05838)|null|
+|**2025-07-08**|**Empowering Bridge Digital Twins by Bridging the Data Gap with a Unified Synthesis Framework**|Wang Wang et.al.|[2507.05814](http://arxiv.org/abs/2507.05814)|null|
+|**2025-07-08**|**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**|Xin Hu et.al.|[2507.05798](http://arxiv.org/abs/2507.05798)|null|
+|**2025-07-08**|**DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation**|Young Hun Kim et.al.|[2507.05627](http://arxiv.org/abs/2507.05627)|null|
+|**2025-07-07**|**OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts**|Shiting Xiao et.al.|[2507.05427](http://arxiv.org/abs/2507.05427)|null|
 |**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260](http://arxiv.org/abs/2507.05260)|null|
 |**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
 |**2025-07-07**|**RAM-W600: A Multi-Task Wrist Dataset and Benchmark for Rheumatoid Arthritis**|Songxiao Yang et.al.|[2507.05193](http://arxiv.org/abs/2507.05193)|null|
@@ -13090,6 +13122,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge**|Daghash K. Alqahtani et.al.|[2507.06011](http://arxiv.org/abs/2507.06011)|null|
+|**2025-07-08**|**R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding**|Joonhyung Park et.al.|[2507.05673](http://arxiv.org/abs/2507.05673)|null|
+|**2025-07-07**|**From a Different Star: 3I/ATLAS in the context of the Ōtautahi-Oxford interstellar object population model**|Matthew J. Hopkins et.al.|[2507.05318](http://arxiv.org/abs/2507.05318)|null|
 |**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260](http://arxiv.org/abs/2507.05260)|null|
 |**2025-07-07**|**LERa: Replanning with Visual Feedback in Instruction Following**|Svyatoslav Pchelintsev et.al.|[2507.05135](http://arxiv.org/abs/2507.05135)|null|
 |**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[2507.04587](http://arxiv.org/abs/2507.04587)|null|
