@@ -927,6 +927,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079](http://arxiv.org/abs/2507.07079)|null|
+|**2025-07-09**|**MS-DPPs: Multi-Source Determinantal Point Processes for Contextual Diversity Refinement of Composite Attributes in Text to Image Retrieval**|Naoya Sogi et.al.|[2507.06654](http://arxiv.org/abs/2507.06654)|null|
 |**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
 |**2025-07-08**|**OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval**|Zhiwei Chen et.al.|[2507.05631](http://arxiv.org/abs/2507.05631)|null|
 |**2025-07-07**|**Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model**|Mengyao Xu et.al.|[2507.05513](http://arxiv.org/abs/2507.05513)|null|
@@ -2145,6 +2147,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
+|**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
 |**2025-06-27**|**SDRNET: Stacked Deep Residual Network for Accurate Semantic Segmentation of Fine-Resolution Remotely Sensed Images**|Naftaly Wambugu et.al.|[2506.21945](http://arxiv.org/abs/2506.21945)|null|
 |**2025-05-29**|**TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**|Ron Shapira Weber et.al.|[2505.23475](http://arxiv.org/abs/2505.23475)|**[link](https://github.com/bgu-cs-vil/timepoint)**|
@@ -2462,6 +2466,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching**|Yafei Zhang et.al.|[2507.06744](http://arxiv.org/abs/2507.06744)|null|
 |**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
@@ -2812,6 +2817,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
@@ -4481,6 +4487,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
+|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-09**|**5C Prompt Contracts: A Minimalist, Creative-Friendly, Token-Efficient Design Framework for Individual and SME LLM Usage**|Ugur Ari et.al.|[2507.07045](http://arxiv.org/abs/2507.07045)|null|
+|**2025-07-09**|**UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations**|Fengran Mo et.al.|[2507.07030](http://arxiv.org/abs/2507.07030)|null|
+|**2025-07-09**|**First Return, Entropy-Eliciting Explore**|Tianyu Zheng et.al.|[2507.07017](http://arxiv.org/abs/2507.07017)|null|
+|**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006](http://arxiv.org/abs/2507.07006)|null|
+|**2025-07-09**|**Learning Deliberately, Acting Intuitively: Unlocking Test-Time Reasoning in Multimodal LLMs**|Yahan Yu et.al.|[2507.06999](http://arxiv.org/abs/2507.06999)|null|
+|**2025-07-09**|**MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation**|Qilong Xing et.al.|[2507.06992](http://arxiv.org/abs/2507.06992)|null|
+|**2025-07-09**|**Are They All Good? Evaluating the Quality of CoTs in LLM-based Code Generation**|Binquan Zhang et.al.|[2507.06980](http://arxiv.org/abs/2507.06980)|null|
+|**2025-07-09**|**Investigating the Robustness of Retrieval-Augmented Generation at the Query Level**|Sezen Perçin et.al.|[2507.06956](http://arxiv.org/abs/2507.06956)|null|
 |**2025-07-08**|**Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers**|Zhiyuan Peng et.al.|[2507.06223](http://arxiv.org/abs/2507.06223)|null|
 |**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
 |**2025-07-08**|**UQLM: A Python Package for Uncertainty Quantification in Large Language Models**|Dylan Bouchard et.al.|[2507.06196](http://arxiv.org/abs/2507.06196)|null|
@@ -7878,6 +7894,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Graph-Based Complexity Metrics for Multi-Agent Curriculum Learning: A Validated Approach to Task Ordering in Cooperative Coordination Environments**|Farhaan Ebadulla et.al.|[2507.07074](http://arxiv.org/abs/2507.07074)|null|
+|**2025-07-09**|**First Return, Entropy-Eliciting Explore**|Tianyu Zheng et.al.|[2507.07017](http://arxiv.org/abs/2507.07017)|null|
+|**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997](http://arxiv.org/abs/2507.06997)|null|
+|**2025-07-09**|**Optimizing Cognitive Networks: Reinforcement Learning Meets Energy Harvesting Over Cascaded Channels**|Deemah H. Tashman et.al.|[2507.06981](http://arxiv.org/abs/2507.06981)|null|
+|**2025-07-09**|**Bounomodes: the grazing ox algorithm for exploration of clustered anomalies**|Samuel Matloob et.al.|[2507.06960](http://arxiv.org/abs/2507.06960)|null|
+|**2025-07-09**|**Rethinking Verification for LLM Code Generation: From Generation to Testing**|Zihan Ma et.al.|[2507.06920](http://arxiv.org/abs/2507.06920)|null|
+|**2025-07-09**|**Designing Adaptive Algorithms Based on Reinforcement Learning for Dynamic Optimization of Sliding Window Size in Multi-Dimensional Data Streams**|Abolfazl Zarghani et.al.|[2507.06901](http://arxiv.org/abs/2507.06901)|null|
+|**2025-07-09**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
+|**2025-07-09**|**Episodic Contextual Bandits with Knapsacks under Conversion Models**|Zitian Li et.al.|[2507.06859](http://arxiv.org/abs/2507.06859)|null|
+|**2025-07-09**|**Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning**|Matej Straka et.al.|[2507.06825](http://arxiv.org/abs/2507.06825)|null|
 |**2025-07-08**|**CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization**|Zhongyuan Peng et.al.|[2507.06181](http://arxiv.org/abs/2507.06181)|null|
 |**2025-07-08**|**Learning Agile Tensile Perching for Aerial Robots from Demonstrations**|Kangle Yuan et.al.|[2507.06172](http://arxiv.org/abs/2507.06172)|null|
 |**2025-07-08**|**Safe Domain Randomization via Uncertainty-Aware Out-of-Distribution Detection and Policy Adaptation**|Mohamad H. Danesh et.al.|[2507.06111](http://arxiv.org/abs/2507.06111)|null|
@@ -11218,6 +11244,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level**|Johanna Orsholm et.al.|[2507.06972](http://arxiv.org/abs/2507.06972)|null|
+|**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906](http://arxiv.org/abs/2507.06906)|null|
+|**2025-07-09**|**Know Your Attention Maps: Class-specific Token Masking for Weakly Supervised Semantic Segmentation**|Joelle Hanna et.al.|[2507.06848](http://arxiv.org/abs/2507.06848)|null|
+|**2025-07-09**|**Ambiguity-aware Point Cloud Segmentation by Adaptive Margin Contrastive Learning**|Yang Chen et.al.|[2507.06592](http://arxiv.org/abs/2507.06592)|null|
+|**2025-07-08**|**Centralized Copy-Paste: Enhanced Data Augmentation Strategy for Wildland Fire Semantic Segmentation**|Joon Tai Kim et.al.|[2507.06321](http://arxiv.org/abs/2507.06321)|null|
 |**2025-07-08**|**FineGrasp: Towards Robust Grasping for Delicate Objects**|Yun Du et.al.|[2507.05978](http://arxiv.org/abs/2507.05978)|null|
 |**2025-07-08**|**Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation**|Quanzhu Niu et.al.|[2507.05948](http://arxiv.org/abs/2507.05948)|null|
 |**2025-07-08**|**I $^2$ R: Inter and Intra-image Refinement in Few Shot Segmentation**|Ourui Fu et.al.|[2507.05838](http://arxiv.org/abs/2507.05838)|null|
@@ -13122,6 +13153,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**DenoiseCP-Net: Efficient Collective Perception in Adverse Weather via Joint LiDAR-Based 3D Object Detection and Denoising**|Sven Teufel et.al.|[2507.06976](http://arxiv.org/abs/2507.06976)|null|
+|**2025-07-09**|**A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level**|Johanna Orsholm et.al.|[2507.06972](http://arxiv.org/abs/2507.06972)|null|
+|**2025-07-09**|**Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**|Yuli Wang et.al.|[2507.06937](http://arxiv.org/abs/2507.06937)|null|
+|**2025-07-09**|**Unlocking Thermal Aerial Imaging: Synthetic Enhancement of UAV Datasets**|Antonella Barisic Kulas et.al.|[2507.06797](http://arxiv.org/abs/2507.06797)|null|
+|**2025-07-09**|**LOVON: Legged Open-Vocabulary Object Navigator**|Daojie Peng et.al.|[2507.06747](http://arxiv.org/abs/2507.06747)|null|
+|**2025-07-09**|**EA: An Event Autoencoder for High-Speed Vision Sensing**|Riadul Islam et.al.|[2507.06459](http://arxiv.org/abs/2507.06459)|null|
+|**2025-07-08**|**Hierarchical Multi-Stage Transformer Architecture for Context-Aware Temporal Action Localization**|Hayat Ullah et.al.|[2507.06411](http://arxiv.org/abs/2507.06411)|null|
 |**2025-07-08**|**ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge**|Daghash K. Alqahtani et.al.|[2507.06011](http://arxiv.org/abs/2507.06011)|null|
 |**2025-07-08**|**R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding**|Joonhyung Park et.al.|[2507.05673](http://arxiv.org/abs/2507.05673)|null|
 |**2025-07-07**|**From a Different Star: 3I/ATLAS in the context of the Ōtautahi-Oxford interstellar object population model**|Matthew J. Hopkins et.al.|[2507.05318](http://arxiv.org/abs/2507.05318)|null|
