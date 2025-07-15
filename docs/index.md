@@ -913,6 +913,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|
+|**2025-07-14**|**Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.|[2507.10403](http://arxiv.org/abs/2507.10403)|null|
+|**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265](http://arxiv.org/abs/2507.10265)|null|
 |**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546](http://arxiv.org/abs/2507.08546)|null|
 |**2025-07-11**|**LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps**|Haitian Wang et.al.|[2507.08420](http://arxiv.org/abs/2507.08420)|null|
 |**2025-07-11**|**Deep Hashing with Semantic Hash Centers for Image Retrieval**|Li Chen et.al.|[2507.08404](http://arxiv.org/abs/2507.08404)|null|
@@ -2805,8 +2808,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
+|**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](http://arxiv.org/abs/2507.09168)|null|
+|**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
-|**2025-07-08**|**A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
+|**2025-07-14**|**BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
@@ -4474,6 +4480,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
+|**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535](http://arxiv.org/abs/2507.10535)|null|
+|**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|
+|**2025-07-14**|**Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI**|Jiangkai Wu et.al.|[2507.10510](http://arxiv.org/abs/2507.10510)|null|
+|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
+|**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475](http://arxiv.org/abs/2507.10475)|null|
+|**2025-07-14**|**MLAR: Multi-layer Large Language Model-based Robotic Process Automation Applicant Tracking**|Mohamed T. Younes et.al.|[2507.10472](http://arxiv.org/abs/2507.10472)|null|
+|**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
+|**2025-07-14**|**Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems**|Hammad Atta et.al.|[2507.10457](http://arxiv.org/abs/2507.10457)|null|
+|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**One Token to Fool LLM-as-a-Judge**|Yulai Zhao et.al.|[2507.08794](http://arxiv.org/abs/2507.08794)|null|
 |**2025-07-11**|**BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity**|Chenyang Song et.al.|[2507.08771](http://arxiv.org/abs/2507.08771)|null|
@@ -7899,6 +7915,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
+|**2025-07-14**|**Disentangling Neural Disjunctive Normal Form Models**|Kexin Gu Baugh et.al.|[2507.10546](http://arxiv.org/abs/2507.10546)|null|
+|**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|
+|**2025-07-14**|**Some remarks on gradient dominance and LQR policy optimization**|Eduardo D. Sontag et.al.|[2507.10452](http://arxiv.org/abs/2507.10452)|null|
+|**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
+|**2025-07-14**|**Cross-Timeslot Optimization for Distributed GPU Inference Using Reinforcement Learning**|Chengze Du et.al.|[2507.10259](http://arxiv.org/abs/2507.10259)|null|
+|**2025-07-14**|**ToMacVF : Temporal Macro-action Value Factorization for Asynchronous Multi-Agent Reinforcement Learning**|Wenjing Zhang et.al.|[2507.10251](http://arxiv.org/abs/2507.10251)|null|
+|**2025-07-14**|**Should We Ever Prefer Decision Transformer for Offline Reinforcement Learning?**|Yumi Omori et.al.|[2507.10174](http://arxiv.org/abs/2507.10174)|null|
+|**2025-07-14**|**Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains**|Egor Maslennikov et.al.|[2507.10164](http://arxiv.org/abs/2507.10164)|null|
+|**2025-07-14**|**Adaptability in Multi-Agent Reinforcement Learning: A Framework and Unified Review**|Siyi Hu et.al.|[2507.10142](http://arxiv.org/abs/2507.10142)|null|
 |**2025-07-11**|**One Token to Fool LLM-as-a-Judge**|Yulai Zhao et.al.|[2507.08794](http://arxiv.org/abs/2507.08794)|null|
 |**2025-07-11**|**Optimistic Exploration for Risk-Averse Constrained Reinforcement Learning**|James McCarthy et.al.|[2507.08793](http://arxiv.org/abs/2507.08793)|null|
 |**2025-07-11**|**Penalizing Infeasible Actions and Reward Scaling in Reinforcement Learning with Offline Data**|Jeonghye Kim et.al.|[2507.08761](http://arxiv.org/abs/2507.08761)|null|
@@ -11267,6 +11293,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**FGSSNet: Feature-Guided Semantic Segmentation of Real World Floorplans**|Hugo Norrby et.al.|[2507.10343](http://arxiv.org/abs/2507.10343)|null|
+|**2025-07-14**|**Transferring Styles for Reduced Texture Bias and Improved Robustness in Semantic Segmentation Networks**|Ben Hamscher et.al.|[2507.10239](http://arxiv.org/abs/2507.10239)|null|
+|**2025-07-14**|**Spatial Lifting for Dense Prediction**|Mingzhi Xu et.al.|[2507.10222](http://arxiv.org/abs/2507.10222)|null|
+|**2025-07-14**|**DEARLi: Decoupled Enhancement of Recognition and Localization for Semi-supervised Panoptic Segmentation**|Ivan Martinović et.al.|[2507.10118](http://arxiv.org/abs/2507.10118)|null|
+|**2025-07-13**|**MLoRQ: Bridging Low-Rank and Quantization for Transformer Compression**|Ofir Gordon et.al.|[2507.09616](http://arxiv.org/abs/2507.09616)|null|
+|**2025-07-13**|**SegVec3D: A Method for Vector Embedding of 3D Objects Oriented Towards Robot manipulation**|Zhihan Kang et.al.|[2507.09459](http://arxiv.org/abs/2507.09459)|null|
+|**2025-07-11**|**Multimodal HD Mapping for Intersections by Intelligent Roadside Units**|Zhongzhang Chen et.al.|[2507.08903](http://arxiv.org/abs/2507.08903)|null|
 |**2025-07-11**|**Image Translation with Kernel Prediction Networks for Semantic Segmentation**|Cristina Mata et.al.|[2507.08554](http://arxiv.org/abs/2507.08554)|null|
 |**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380](http://arxiv.org/abs/2507.08380)|null|
 |**2025-07-11**|**SurfDist: Interpretable Three-Dimensional Instance Segmentation Using Curved Surface Patches**|Jackson Borchardt et.al.|[2507.08223](http://arxiv.org/abs/2507.08223)|null|
@@ -13181,6 +13214,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Fine-Grained Zero-Shot Object Detection**|Hongxu Ma et.al.|[2507.10358](http://arxiv.org/abs/2507.10358)|null|
+|**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Harshal Nandigramwar et.al.|[2507.10106](http://arxiv.org/abs/2507.10106)|null|
+|**2025-07-14**|**SRG/ART-XC All-Sky X-ray Survey: Sensitivity Assessment Based on Aperture Photometry**|N. Y. Tyrin et.al.|[2507.10060](http://arxiv.org/abs/2507.10060)|null|
+|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
+|**2025-07-14**|**Measuring the Impact of Rotation Equivariance on Aerial Object Detection**|Xiuyu Wu et.al.|[2507.09896](http://arxiv.org/abs/2507.09896)|null|
+|**2025-07-13**|**MLoRQ: Bridging Low-Rank and Quantization for Transformer Compression**|Ofir Gordon et.al.|[2507.09616](http://arxiv.org/abs/2507.09616)|null|
+|**2025-07-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al.|[2507.09214](http://arxiv.org/abs/2507.09214)|null|
+|**2025-07-12**|**On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar et.al.|[2507.09095](http://arxiv.org/abs/2507.09095)|null|
+|**2025-07-11**|**VISTA: A Visual Analytics Framework to Enhance Foundation Model-Generated Data Labels**|Xiwei Xuan et.al.|[2507.09008](http://arxiv.org/abs/2507.09008)|null|
 |**2025-07-11**|**RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**|Yuqiang Lin et.al.|[2507.08729](http://arxiv.org/abs/2507.08729)|null|
 |**2025-07-11**|**DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images**|Haoran Sun et.al.|[2507.08648](http://arxiv.org/abs/2507.08648)|null|
 |**2025-07-11**|**OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**|Junho Koh et.al.|[2507.08644](http://arxiv.org/abs/2507.08644)|null|
